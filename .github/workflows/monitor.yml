@@ -1,0 +1,25 @@
+name: LaMajole Monitor
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+      - name: Run monitor
+        run: python monitor.py
+        env:
+          NOTIFY_EMAIL: ioana_curta@yahoo.com
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          APP_PASSWORD: ${{ secrets.APP_PASSWORD }}
