@@ -4,7 +4,6 @@ import os
 import smtplib
 import base64
 import re
-from bs4 import BeautifulSoup
 from email.mime.text import MIMEText
 from datetime import datetime
 
@@ -13,43 +12,67 @@ SENDER_EMAIL = os.environ.get("SENDER_EMAIL", "")
 APP_PASSWORD = os.environ.get("APP_PASSWORD", "")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO = os.environ.get("GITHUB_REPO", "")
-URL = "https://lamajole.ro/femei.html?product_list_order=created_at&product_list_dir=desc"
 SNAPSHOT_FILE = "snapshot.json"
-TARGET_SIZES = ["40/l", "42/l", "38/l", "marime: l", "marime: 40", " l,", "/l,", "40/xl"]
+TARGET_SIZES = ["40/l", "42/l", "38/l", "40/xl", "marime: l", "marime: 40", "38/m-l"]
+
+# Magento REST API — femei category, sorted by newest, page 1
+API_URL = (
+    "https://lamajole.ro/rest/V1/products?"
+    "searchCriteria[filterGroups][0][filters][0][field]=category_id&"
+    "searchCriteria[filterGroups][0][filters][0][value]=12&"
+    "searchCriteria[filterGroups][0][filters][0][conditionType]=eq&"
+    "searchCriteria[sortOrders][0][field]=created_at&"
+    "searchCriteria[sortOrders][0][direction]=DESC&"
+    "searchCriteria[pageSize]=100&"
+    "searchCriteria[currentPage]=1&"
+    "fields=items[id,sku,name,custom_attributes,price]"
+)
 
 
 def get_products():
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-        "Accept-Language": "ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7",
-        "Accept-Encoding": "gzip, deflate, br",
-        "Connection": "keep-alive",
-        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Accept": "application/json",
     }
-    session = requests.Session()
-    session.get("https://lamajole.ro/", headers=headers, timeout=15)
-    r = session.get(URL, headers=headers, timeout=15)
-    print(f"HTTP status: {r.status_code}")
-    soup = BeautifulSoup(r.text, "html.parser")
+    r = requests.get(API_URL, headers=headers, timeout=20)
+    print(f"API status: {r.status_code}")
+
+    if r.status_code != 200:
+        print(f"API error: {r.text[:200]}")
+        return {}
+
+    data = r.json()
+    items = data.get("items", [])
+    print(f"Products from API: {len(items)}")
+
     results = {}
-    items = soup.select("li.product-item")
-    print(f"Items found in HTML: {len(items)}")
     for item in items:
-        name_el = item.select_one("a.product-item-link")
-        if not name_el:
-            continue
-        name = name_el.get_text(strip=True)
-        url = name_el.get("href", "")
-        if not url.startswith("http"):
-            url = "https://lamajole.ro" + url
-        item_text = item.get_text(" ", strip=True).lower()
-        if any(s in item_text for s in TARGET_SIZES):
-            size_m = re.search(r'm[ăa]rime[:\s]+([^\n·]+)', item.get_text(), re.IGNORECASE)
-            size = size_m.group(1).strip() if size_m else "L/40"
-            price_el = item.select_one(".price")
-            price = price_el.get_text(strip=True) if price_el else ""
-            results[url] = {"name": name, "size": size, "price": price}
+        name = item.get("name", "")
+        sku = item.get("sku", "")
+        price = item.get("price", "")
+        url = f"https://lamajole.ro/{sku.lower().replace(' ', '-')}.html"
+
+        # Get size from custom_attributes
+        size = ""
+        for attr in item.get("custom_attributes", []):
+            if attr.get("attribute_code") in ["marime", "size", "clothing_size"]:
+                size = str(attr.get("value", "")).lower()
+                break
+
+        # Also check name for size hints
+        name_lower = name.lower()
+        size_lower = size.lower()
+        combined = f"{name_lower} {size_lower}"
+
+        if any(s in combined for s in TARGET_SIZES):
+            results[sku] = {
+                "name": name,
+                "size": size or "L/40",
+                "price": f"{price} RON",
+                "url": url
+            }
+
+    print(f"Produse L/40 gasite: {len(results)}")
     return results
 
 
@@ -57,7 +80,10 @@ def get_snapshot_from_github():
     if not GITHUB_TOKEN or not GITHUB_REPO:
         return None, None
     api_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{SNAPSHOT_FILE}"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
+    headers = {
+        "Authorization": f"token {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github.v3+json"
+    }
     r = requests.get(api_url, headers=headers)
     if r.status_code == 200:
         data = r.json()
@@ -70,15 +96,18 @@ def save_snapshot_to_github(snapshot, sha=None):
     if not GITHUB_TOKEN or not GITHUB_REPO:
         return
     api_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{SNAPSHOT_FILE}"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
-    content = base64.b64encode(json.dumps(snapshot, ensure_ascii=False, indent=2).encode()).decode()
-    payload = {
-        "message": "Update snapshot",
-        "content": content,
+    headers = {
+        "Authorization": f"token {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github.v3+json"
     }
+    content = base64.b64encode(
+        json.dumps(snapshot, ensure_ascii=False, indent=2).encode()
+    ).decode()
+    payload = {"message": "Update snapshot", "content": content}
     if sha:
         payload["sha"] = sha
-    requests.put(api_url, headers=headers, json=payload)
+    resp = requests.put(api_url, headers=headers, json=payload)
+    print(f"Snapshot saved: {resp.status_code}")
 
 
 def send_email(new_items):
@@ -86,8 +115,8 @@ def send_email(new_items):
         print("Email neconfigurat, skip.")
         return
     body = f"🛍️ {len(new_items)} produse noi L/40 pe LaMajole — Femei\n\n"
-    for url, item in new_items.items():
-        body += f"• {item['name']}\n  Mărime: {item['size']} | {item['price']}\n  {url}\n\n"
+    for sku, item in new_items.items():
+        body += f"• {item['name']}\n  Mărime: {item['size']} | {item['price']}\n  {item.get('url', '')}\n\n"
     body += f"\nVerificat: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
     msg = MIMEText(body, "plain", "utf-8")
     msg["Subject"] = f"LaMajole: {len(new_items)} produse noi L/40 ({datetime.now().strftime('%d.%m %H:%M')})"
@@ -101,12 +130,11 @@ def send_email(new_items):
 
 def main():
     current = get_products()
-    print(f"Produse L/40 gasite: {len(current)}")
 
     seen, sha = get_snapshot_from_github()
 
     if seen is not None:
-        new_items = {u: d for u, d in current.items() if u not in seen}
+        new_items = {k: v for k, v in current.items() if k not in seen}
         if new_items:
             print(f"Produse NOI: {len(new_items)}")
             send_email(new_items)
