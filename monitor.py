@@ -3,6 +3,7 @@ import json
 import os
 import smtplib
 import base64
+import re
 from bs4 import BeautifulSoup
 from email.mime.text import MIMEText
 from datetime import datetime
@@ -12,28 +13,39 @@ SENDER_EMAIL = os.environ.get("SENDER_EMAIL", "")
 APP_PASSWORD = os.environ.get("APP_PASSWORD", "")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO = os.environ.get("GITHUB_REPO", "")
-URL = "https://lamajole.ro/femei.html"
+URL = "https://lamajole.ro/femei.html?product_list_order=created_at&product_list_dir=desc"
 SNAPSHOT_FILE = "snapshot.json"
-TARGET_SIZES = ["40/l", "42/l", "38/l", "marime: l", "marime: 40", "/l,", " l,"]
+TARGET_SIZES = ["40/l", "42/l", "38/l", "marime: l", "marime: 40", " l,", "/l,", "40/xl"]
 
 
 def get_products():
-    headers = {"User-Agent": "Mozilla/5.0"}
-    r = requests.get(URL, headers=headers, timeout=15)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "ro-RO,ro;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+    }
+    session = requests.Session()
+    session.get("https://lamajole.ro/", headers=headers, timeout=15)
+    r = session.get(URL, headers=headers, timeout=15)
+    print(f"HTTP status: {r.status_code}")
     soup = BeautifulSoup(r.text, "html.parser")
     results = {}
-    for item in soup.select("li.product-item, .product-item"):
-        name_el = item.select_one("a.product-item-link, strong a")
+    items = soup.select("li.product-item")
+    print(f"Items found in HTML: {len(items)}")
+    for item in items:
+        name_el = item.select_one("a.product-item-link")
         if not name_el:
             continue
         name = name_el.get_text(strip=True)
         url = name_el.get("href", "")
         if not url.startswith("http"):
             url = "https://lamajole.ro" + url
-        text = item.get_text(" ", strip=True).lower()
-        if any(s in text for s in TARGET_SIZES):
-            import re
-            size_m = re.search(r'm[ăa]rime[:\s]+([^\n]+)', item.get_text(), re.IGNORECASE)
+        item_text = item.get_text(" ", strip=True).lower()
+        if any(s in item_text for s in TARGET_SIZES):
+            size_m = re.search(r'm[ăa]rime[:\s]+([^\n·]+)', item.get_text(), re.IGNORECASE)
             size = size_m.group(1).strip() if size_m else "L/40"
             price_el = item.select_one(".price")
             price = price_el.get_text(strip=True) if price_el else ""
