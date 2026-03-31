@@ -4,6 +4,7 @@ import os
 import smtplib
 import base64
 import re
+from bs4 import BeautifulSoup
 from email.mime.text import MIMEText
 from datetime import datetime
 
@@ -13,64 +14,90 @@ APP_PASSWORD = os.environ.get("APP_PASSWORD", "")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO = os.environ.get("GITHUB_REPO", "")
 SNAPSHOT_FILE = "snapshot.json"
-TARGET_SIZES = ["40/l", "42/l", "38/l", "40/xl", "marime: l", "marime: 40", "38/m-l"]
 
-# Magento REST API — femei category, sorted by newest, page 1
-API_URL = (
-    "https://lamajole.ro/rest/V1/products?"
-    "searchCriteria[filterGroups][0][filters][0][field]=category_id&"
-    "searchCriteria[filterGroups][0][filters][0][value]=12&"
-    "searchCriteria[filterGroups][0][filters][0][conditionType]=eq&"
-    "searchCriteria[sortOrders][0][field]=created_at&"
-    "searchCriteria[sortOrders][0][direction]=DESC&"
-    "searchCriteria[pageSize]=100&"
-    "searchCriteria[currentPage]=1&"
-    "fields=items[id,sku,name,custom_attributes,price]"
-)
+# Size filters — matches Romanian sizing on lamajole
+TARGET_SIZES = ["40/l", "42/l", "38/l", "40/xl", " l,", "/l,", "l\n", ": l\n", ":l"]
+
+# Use allorigins proxy to bypass JS rendering issues
+PROXY_URL = "https://api.allorigins.win/get?url={}"
+TARGET_URL = "https://lamajole.ro/femei.html"
 
 
 def get_products():
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "Accept": "application/json",
-    }
-    r = requests.get(API_URL, headers=headers, timeout=20)
-    print(f"API status: {r.status_code}")
+    headers = {"User-Agent": "Mozilla/5.0"}
 
-    if r.status_code != 200:
-        print(f"API error: {r.text[:200]}")
-        return {}
+    # Try direct first
+    try:
+        r = requests.get(TARGET_URL, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "ro-RO,ro;q=0.9",
+            "Referer": "https://lamajole.ro/",
+        }, timeout=20)
+        print(f"Direct status: {r.status_code}, size: {len(r.text)}")
+        soup = BeautifulSoup(r.text, "html.parser")
+        items = soup.select("li.product-item")
+        print(f"Direct items found: {len(items)}")
 
-    data = r.json()
-    items = data.get("items", [])
-    print(f"Products from API: {len(items)}")
+        if len(items) > 0:
+            return parse_items(items)
+    except Exception as e:
+        print(f"Direct fetch failed: {e}")
 
+    # Fallback: allorigins proxy
+    try:
+        proxy = PROXY_URL.format(requests.utils.quote(TARGET_URL))
+        r2 = requests.get(proxy, timeout=30)
+        data = r2.json()
+        html = data.get("contents", "")
+        print(f"Proxy size: {len(html)}")
+        soup = BeautifulSoup(html, "html.parser")
+        items = soup.select("li.product-item")
+        print(f"Proxy items found: {len(items)}")
+        if len(items) > 0:
+            return parse_items(items)
+    except Exception as e:
+        print(f"Proxy fetch failed: {e}")
+
+    # Last resort: scrape the homepage "Produse recent adaugate" section
+    try:
+        r3 = requests.get("https://lamajole.ro/", headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        }, timeout=20)
+        print(f"Homepage status: {r3.status_code}, size: {len(r3.text)}")
+        soup = BeautifulSoup(r3.text, "html.parser")
+        items = soup.select("li.product-item")
+        print(f"Homepage items found: {len(items)}")
+        return parse_items(items)
+    except Exception as e:
+        print(f"Homepage fetch failed: {e}")
+
+    return {}
+
+
+def parse_items(items):
     results = {}
     for item in items:
-        name = item.get("name", "")
-        sku = item.get("sku", "")
-        price = item.get("price", "")
-        url = f"https://lamajole.ro/{sku.lower().replace(' ', '-')}.html"
+        name_el = item.select_one("a.product-item-link, strong a, a[class*='product']")
+        if not name_el:
+            continue
+        name = name_el.get_text(strip=True)
+        if not name:
+            continue
+        url = name_el.get("href", "")
+        if not url.startswith("http"):
+            url = "https://lamajole.ro" + url
 
-        # Get size from custom_attributes
-        size = ""
-        for attr in item.get("custom_attributes", []):
-            if attr.get("attribute_code") in ["marime", "size", "clothing_size"]:
-                size = str(attr.get("value", "")).lower()
-                break
+        item_text = item.get_text(" ", strip=True)
+        item_lower = item_text.lower()
 
-        # Also check name for size hints
-        name_lower = name.lower()
-        size_lower = size.lower()
-        combined = f"{name_lower} {size_lower}"
-
-        if any(s in combined for s in TARGET_SIZES):
-            results[sku] = {
-                "name": name,
-                "size": size or "L/40",
-                "price": f"{price} RON",
-                "url": url
-            }
+        # Check size match
+        if any(s in item_lower for s in TARGET_SIZES):
+            size_m = re.search(r'm[ăa]rime[:\s]+([^\n·\|]+)', item_text, re.IGNORECASE)
+            size = size_m.group(1).strip() if size_m else "L/40"
+            price_el = item.select_one(".price")
+            price = price_el.get_text(strip=True) if price_el else ""
+            results[url] = {"name": name, "size": size, "price": price}
 
     print(f"Produse L/40 gasite: {len(results)}")
     return results
@@ -115,8 +142,8 @@ def send_email(new_items):
         print("Email neconfigurat, skip.")
         return
     body = f"🛍️ {len(new_items)} produse noi L/40 pe LaMajole — Femei\n\n"
-    for sku, item in new_items.items():
-        body += f"• {item['name']}\n  Mărime: {item['size']} | {item['price']}\n  {item.get('url', '')}\n\n"
+    for url, item in new_items.items():
+        body += f"• {item['name']}\n  Mărime: {item['size']} | {item['price']}\n  {url}\n\n"
     body += f"\nVerificat: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
     msg = MIMEText(body, "plain", "utf-8")
     msg["Subject"] = f"LaMajole: {len(new_items)} produse noi L/40 ({datetime.now().strftime('%d.%m %H:%M')})"
@@ -130,11 +157,10 @@ def send_email(new_items):
 
 def main():
     current = get_products()
-
     seen, sha = get_snapshot_from_github()
 
     if seen is not None:
-        new_items = {k: v for k, v in current.items() if k not in seen}
+        new_items = {u: d for u, d in current.items() if u not in seen}
         if new_items:
             print(f"Produse NOI: {len(new_items)}")
             send_email(new_items)
