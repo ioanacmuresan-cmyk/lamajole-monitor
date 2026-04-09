@@ -1,4 +1,24 @@
 {
+  "https://lamajole.ro/pantaloni-de-trening-camp-david-dama.html": {
+    "name": "Pantaloni de trening Camp David, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
+  },
+  "https://lamajole.ro/pantaloni-de-echitatie-black-forest-dama.html": {
+    "name": "Pantaloni de echitatie Black Forest, dama",
+    "size": "40/L 59,00 RON",
+    "price": "59,00 RON"
+  },
+  "https://lamajole.ro/colanti-oysho-albastri-dama.html": {
+    "name": "Colanti Oysho albastri, dama",
+    "size": "40/L 69,00 RON",
+    "price": "69,00 RON"
+  },
+  "https://lamajole.ro/pantaloni-de-trening-roz-esprit-dama.html": {
+    "name": "Pantaloni de trening roz Esprit, dama",
+    "size": "40/L 69,00 RON",
+    "price": "69,00 RON"
+  },
   "https://lamajole.ro/bluza-s-oliver-cu-maneci-3-4-dama.html": {
     "name": "Bluza s.Oliver cu maneci 3/4, dama",
     "size": "40/L 39,00 RON",
@@ -17,36 +37,6 @@
   "https://lamajole.ro/bluza-cristian-berg-roz-din-bumbac-dama.html": {
     "name": "Bluza Cristian Berg roz din bumbac, dama",
     "size": "40/L 59,00 RON",
-    "price": "59,00 RON"
-  },
-  "https://lamajole.ro/bluza-albastra-tom-tailor-dama.html": {
-    "name": "Bluza albastra Tom Tailor, dama",
-    "size": "40/L 39,00 RON",
-    "price": "39,00 RON"
-  },
-  "https://lamajole.ro/bluza-alba-din-bumbac-cecil-dama.html": {
-    "name": "Bluza alba din bumbac Cecil, dama",
-    "size": "40/L 29,00 RON",
-    "price": "29,00 RON"
-  },
-  "https://lamajole.ro/bluza-noua-tom-tailor-dama.html": {
-    "name": "Bluza noua Tom Tailor, dama",
-    "size": "40/L 59,00 RON",
-    "price": "59,00 RON"
-  },
-  "https://lamajole.ro/bluza-opus-crem-dama.html": {
-    "name": "Bluza Opus crem, dama",
-    "size": "40/L 79,00 RON",
-    "price": "79,00 RON"
-  },
-  "https://lamajole.ro/bluza-verde-din-bumbac-s-olicer-dama.html": {
-    "name": "Bluza verde din bumbac s.Olicer, dama",
-    "size": "42/L 69,00 RON",
-    "price": "69,00 RON"
-  },
-  "https://lamajole.ro/p4260114080657489-bluza-lejera-s-oliver-dama.html": {
-    "name": "Bluza lejera s.Oliver, dama",
-    "size": "42/L 59,00 RON",
     "price": "59,00 RON"
   }
 }
