@@ -1,82 +1,72 @@
 {
-  "https://lamajole.ro/pantaloni-evazati-mango-dama.html": {
-    "name": "Pantaloni evazati Mango, dama",
+  "https://lamajole.ro/fusta-plisata-multicolor-zero-dama.html": {
+    "name": "Fusta plisata multicolor Zero, dama",
+    "size": "40/L 59,00 RON",
+    "price": "59,00 RON"
+  },
+  "https://lamajole.ro/fusta-taifun-elastica-dama.html": {
+    "name": "Fusta Taifun elastica, dama",
     "size": "40/L 69,00 RON",
     "price": "69,00 RON"
   },
-  "https://lamajole.ro/pantaloni-noi-c-a-albastri-dama.html": {
-    "name": "Pantaloni noi C&A albastri, dama",
-    "size": "40/L 69,00 RON",
-    "price": "69,00 RON"
+  "https://lamajole.ro/pantaloni-noi-cinque-din-bumbac-dama.html": {
+    "name": "Pantaloni noi Cinque din bumbac, dama",
+    "size": "42/L 129,00 RON",
+    "price": "129,00 RON"
   },
-  "https://lamajole.ro/pantaloni-roz-cy-talie-elastica-h-m-dama.html": {
-    "name": "Pantaloni roz cy talie elastica H&M, dama",
-    "size": "40/L 69,00 RON",
-    "price": "69,00 RON"
+  "https://lamajole.ro/salopeta-karl-lagerfeld-din-viscoza-dama.html": {
+    "name": "Salopeta Karl Lagerfeld din viscoza, dama",
+    "size": "42/L 299,00 RON",
+    "price": "299,00 RON"
   },
-  "https://lamajole.ro/pantaloni-din-bumbac-cu-buzunare-c-a-dama.html": {
-    "name": "Pantaloni din bumbac cu buzunare C&A, dama",
+  "https://lamajole.ro/rochie-joseph-ribkoff.html": {
+    "name": "Rochie Joseph Ribkoff",
+    "size": "40/L 299,00 RON",
+    "price": "299,00 RON"
+  },
+  "https://lamajole.ro/rochie-roz-s-oliver-dama.html": {
+    "name": "Rochie roz s.Oliver, dama",
+    "size": "40/L 159,00 RON",
+    "price": "159,00 RON"
+  },
+  "https://lamajole.ro/rochie-lejera-street-one-dama.html": {
+    "name": "Rochie lejera Street One, dama",
+    "size": "40/L 129,00 RON",
+    "price": "129,00 RON"
+  },
+  "https://lamajole.ro/rochie-noua-yas-dama.html": {
+    "name": "Rochie noua YAS, dama",
+    "size": "40/L 89,00 RON",
+    "price": "89,00 RON"
+  },
+  "https://lamajole.ro/jacheta-noua-denim-c-a-dama.html": {
+    "name": "Jacheta noua denim C&A, dama",
+    "size": "40/L 159,00 RON",
+    "price": "159,00 RON"
+  },
+  "https://lamajole.ro/fusta-harvard-cu-pliuri-dama.html": {
+    "name": "Fusta Harvard cu pliuri, dama",
+    "size": "40/L 59,00 RON",
+    "price": "59,00 RON"
+  },
+  "https://lamajole.ro/fusta-cu-talie-elatica-h-m-dama.html": {
+    "name": "Fusta cu talie elatica H&M, dama",
+    "size": "40/L 29,00 RON",
+    "price": "29,00 RON"
+  },
+  "https://lamajole.ro/fusta-zara-bordo-cu-buzunare-dama.html": {
+    "name": "Fusta Zara bordo cu buzunare, dama",
     "size": "42/L 59,00 RON",
     "price": "59,00 RON"
   },
-  "https://lamajole.ro/p2260209100953565-pantaloni-zara-cu-talie-inalta-dama.html": {
-    "name": "Pantaloni Zara cu talie inalta, dama",
-    "size": "40/L 69,00 RON",
-    "price": "69,00 RON"
-  },
-  "https://lamajole.ro/p7260218142423845-blugi-noi-h-m-dama.html": {
-    "name": "Blugi noi H&M, dama",
-    "size": "40/L 69,00 RON",
-    "price": "69,00 RON"
-  },
-  "https://lamajole.ro/blugi-amisu-noi-dama.html": {
-    "name": "Blugi Amisu noi, dama",
-    "size": "40/L 69,00 RON",
-    "price": "69,00 RON"
-  },
-  "https://lamajole.ro/pantaloni-din-bumbac-zara-dama.html": {
-    "name": "Pantaloni din bumbac Zara, dama",
-    "size": "40/L 79,00 RON",
-    "price": "79,00 RON"
-  },
-  "https://lamajole.ro/p1260209084542999-blugi-noi-h-m-dama.html": {
-    "name": "Blugi noi H&M, dama",
-    "size": "40/L 69,00 RON",
-    "price": "69,00 RON"
-  },
-  "https://lamajole.ro/pantaloni-evazati-c-a-dama.html": {
-    "name": "Pantaloni evazati C&A, dama",
-    "size": "40/L 69,00 RON",
-    "price": "69,00 RON"
-  },
-  "https://lamajole.ro/p4260209102552566-pantaloni-evazati-h-m-dama.html": {
-    "name": "Pantaloni evazati H&M, dama",
-    "size": "42/L 69,00 RON",
-    "price": "69,00 RON"
-  },
-  "https://lamajole.ro/pantaloni-cu-talie-elastica-in-carouri-tally-weijl-dama.html": {
-    "name": "Pantaloni cu talie elastica in carouri Tally Weijl, dama",
-    "size": "40/L 69,00 RON",
-    "price": "69,00 RON"
-  },
-  "https://lamajole.ro/pantaloni-de-trening-camp-david-dama.html": {
-    "name": "Pantaloni de trening Camp David, dama",
-    "size": "40/L 79,00 RON",
-    "price": "79,00 RON"
-  },
-  "https://lamajole.ro/pantaloni-noi-evazati-amisu-dama.html": {
-    "name": "Pantaloni noi evazati Amisu, dama",
+  "https://lamajole.ro/pantaloni-scurti-amisu-cu-nasturi-decorativi-dama.html": {
+    "name": "Pantaloni scurti Amisu cu nasturi decorativi, dama",
     "size": "40/L 39,00 RON",
     "price": "39,00 RON"
   },
-  "https://lamajole.ro/colanti-oysho-albastri-dama.html": {
-    "name": "Colanti Oysho albastri, dama",
-    "size": "40/L 69,00 RON",
-    "price": "69,00 RON"
-  },
-  "https://lamajole.ro/pantaloni-de-trening-roz-esprit-dama.html": {
-    "name": "Pantaloni de trening roz Esprit, dama",
-    "size": "40/L 69,00 RON",
-    "price": "69,00 RON"
+  "https://lamajole.ro/fusta-plisata-pinko-dama.html": {
+    "name": "Fusta plisata Pinko, dama",
+    "size": "40/L 159,00 RON",
+    "price": "159,00 RON"
   }
 }
