@@ -1,4 +1,19 @@
 {
+  "https://lamajole.ro/set-pijama-victorias-secret-roz-din-bumbac-dama-p1260127104512645.html": {
+    "name": "Set Pijama Victoria's Secret, roz, din bumbac, dama",
+    "size": "40/L 159,00 RON",
+    "price": "159,00 RON"
+  },
+  "https://lamajole.ro/rochie-hm-crem-din-viscoza-si-in-dama-p3260410082317380.html": {
+    "name": "Rochie H&M, crem, din viscoza si in, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
+  },
+  "https://lamajole.ro/tricou-ca-roz-din-viscoza-dama-p7260330152138606.html": {
+    "name": "Tricou C&A roz, din viscoza, dama",
+    "size": "40/L 39,00 RON",
+    "price": "39,00 RON"
+  },
   "https://lamajole.ro/tricou-yessica-alb-din-bumbac-dama-p7260326083604107.html": {
     "name": "Tricou Yessica alb, din bumbac, dama",
     "size": "40/L 29,00 RON",
@@ -38,40 +53,5 @@
     "name": "Tricou Comma, negru, din bumbac, dama",
     "size": "42/L 59,00 RON",
     "price": "59,00 RON"
-  },
-  "https://lamajole.ro/tricou-ca-negru-din-bumbac-dama-p3260323120135045.html": {
-    "name": "Tricou C&A, negru, din bumbac, dama",
-    "size": "40/L 39,00 RON",
-    "price": "39,00 RON"
-  },
-  "https://lamajole.ro/tricou-alb-din-bumbac-dama-p2260402104715293.html": {
-    "name": "Tricou alb, din bumbac, dama",
-    "size": "40/L 129,00 RON",
-    "price": "129,00 RON"
-  },
-  "https://lamajole.ro/tricou-brand-necunoscut-multicolor-din-bumbac-dama-p2260402104644975.html": {
-    "name": "Tricou Brand Necunoscut, multicolor, din bumbac, dama",
-    "size": "40/L 79,00 RON",
-    "price": "79,00 RON"
-  },
-  "https://lamajole.ro/tricou-street-one-alb-din-bumbac-dama-p2260317114910153.html": {
-    "name": "Tricou Street One, alb, din bumbac, dama",
-    "size": "40/L 59,00 RON",
-    "price": "59,00 RON"
-  },
-  "https://lamajole.ro/tricou-tommy-hilfiger-alb-din-bumbac-dama-p2260309090451068.html": {
-    "name": "Tricou Tommy Hilfiger, alb, din bumbac, dama",
-    "size": "40/L 159,00 RON",
-    "price": "159,00 RON"
-  },
-  "https://lamajole.ro/tricou-zero-alb-din-viscoza-dama-p1260327123248321.html": {
-    "name": "Tricou Zero alb, din viscoza, dama",
-    "size": "40/L 39,00 RON",
-    "price": "39,00 RON"
-  },
-  "https://lamajole.ro/tricou-hm-alb-din-bumbac-dama-p7260323104533956.html": {
-    "name": "Tricou H&M alb, din bumbac, dama",
-    "size": "40/L 29,00 RON",
-    "price": "29,00 RON"
   }
 }
