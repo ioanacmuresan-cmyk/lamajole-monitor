@@ -24,11 +24,6 @@
     "size": "42/L 89,00 RON",
     "price": "89,00 RON"
   },
-  "https://lamajole.ro/sacou-hm-crem-din-viscoza-dama-p1240227115228762.html": {
-    "name": "Sacou H&M, crem, din viscoza, dama",
-    "size": "40/L 79,00 RON",
-    "price": "79,00 RON"
-  },
   "https://lamajole.ro/tricou-cecil-negru-din-bumbac-barbati-p4250506082943646.html": {
     "name": "Tricou Cecil, negru, din bumbac, barbati",
     "size": "40/L 39,00 RON",
@@ -58,5 +53,10 @@
     "name": "Pantaloni Scurti Brand Necunoscut multicolori, sport, dama",
     "size": "40/L 59,00 RON",
     "price": "59,00 RON"
+  },
+  "https://lamajole.ro/pantaloni-hm-albi-cu-pliuri-si-croiala-lejera-dama-p4260312091509431.html": {
+    "name": "Pantaloni H&M, albi, cu pliuri si croiala lejera, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
   }
 }
