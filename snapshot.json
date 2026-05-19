@@ -1,42 +1,92 @@
 {
-  "https://lamajole.ro/tricou-galben-din-bumbac-dama-p3260304085313030.html": {
-    "name": "Tricou, galben, din bumbac, dama",
-    "size": "40/L 29,00 RON",
-    "price": "29,00 RON"
+  "https://lamajole.ro/tricou-adidas-bej-din-bumbac-dama-p4260319094934753.html": {
+    "name": "Tricou Adidas, bej, din bumbac, dama",
+    "size": "42/L 79,00 RON",
+    "price": "79,00 RON"
   },
-  "https://lamajole.ro/tricou-galben-din-bumbac-dama-p3260304085249689.html": {
-    "name": "Tricou, galben, din bumbac, dama",
-    "size": "40/L 39,00 RON",
-    "price": "39,00 RON"
+  "https://lamajole.ro/rochie-mini-hm-verde-fara-maneci-dama-p7260428124504096.html": {
+    "name": "Rochie Mini H&M verde, fara maneci, dama",
+    "size": "40/L 69,00 RON",
+    "price": "69,00 RON"
   },
-  "https://lamajole.ro/tricou-street-one-negru-cu-maneca-scurta-dama-p3260304085249996.html": {
-    "name": "Tricou Street One, negru, cu maneca scurta, dama",
-    "size": "40/L 39,00 RON",
-    "price": "39,00 RON"
-  },
-  "https://lamajole.ro/tricou-taifun-alb-cu-maneca-scurta-dama-p7260507095721634.html": {
-    "name": "Tricou Taifun alb, cu maneca scurta, dama",
-    "size": "40/L 59,00 RON",
-    "price": "59,00 RON"
-  },
-  "https://lamajole.ro/tricou-taifun-alb-din-bumbac-dama-p7260507095722136.html": {
-    "name": "Tricou Taifun, alb, din bumbac, dama",
-    "size": "40/L 59,00 RON",
-    "price": "59,00 RON"
-  },
-  "https://lamajole.ro/tricou-jack-wolfskin-mov-cu-maneca-scurta-dama-p3260306140747894.html": {
-    "name": "Tricou Jack Wolfskin mov, cu maneca scurta, dama",
-    "size": "42/L 129,00 RON",
-    "price": "129,00 RON"
-  },
-  "https://lamajole.ro/tricou-guess-alb-cu-maneca-scurta-si-logo-dama-p7260507095801922.html": {
-    "name": "Tricou Guess alb, cu maneca scurta si logo, dama",
+  "https://lamajole.ro/rochie-maxi-we-multicolora-cu-imprimeu-floral-si-maneci-bufante-dama-p7260421132659747.html": {
+    "name": "Rochie Maxi WE, multicolora, cu imprimeu floral si maneci bufante, dama",
     "size": "40/L 89,00 RON",
     "price": "89,00 RON"
   },
-  "https://lamajole.ro/tricou-christian-berg-multicolor-din-bumbac-dama-p3260306140810393.html": {
-    "name": "Tricou Christian Berg, multicolor, din bumbac, dama",
+  "https://lamajole.ro/rochie-midi-soliver-albastra-cu-cordon-dama-p7260421132649205.html": {
+    "name": "Rochie Midi S.Oliver, albastra, cu cordon, dama",
+    "size": "42/L 129,00 RON",
+    "price": "129,00 RON"
+  },
+  "https://lamajole.ro/rochie-soliver-albastra-din-bumbac-dama-p7260421132649302.html": {
+    "name": "Rochie S.Oliver, albastra, din bumbac, dama",
+    "size": "40/L 129,00 RON",
+    "price": "129,00 RON"
+  },
+  "https://lamajole.ro/rochie-midi-rene-lezard-rosie-cu-decolteu-rotund-dama-p7260421132632391.html": {
+    "name": "Rochie Midi Rene Lezard, rosie, cu decolteu rotund, dama",
+    "size": "40/L 159,00 RON",
+    "price": "159,00 RON"
+  },
+  "https://lamajole.ro/rochie-maxi-marc-opolo-multicolora-din-viscoza-dama-p7260421132632189.html": {
+    "name": "Rochie Maxi Marc O'Polo, multicolora, din viscoza, dama",
+    "size": "40/L 159,00 RON",
+    "price": "159,00 RON"
+  },
+  "https://lamajole.ro/rochie-patrizia-pepe-neagra-cu-dantela-dama-p7260421132631864.html": {
+    "name": "Rochie Patrizia Pepe, neagra, cu dantela, dama",
+    "size": "42/L 159,00 RON",
+    "price": "159,00 RON"
+  },
+  "https://lamajole.ro/rochie-marc-opolo-neagra-din-viscoza-si-lyocell-dama-p7260421132632089.html": {
+    "name": "Rochie Marc O'Polo, neagra, din viscoza si lyocell, dama",
+    "size": "40/L 159,00 RON",
+    "price": "159,00 RON"
+  },
+  "https://lamajole.ro/rochie-midi-cos-neagra-din-bumbac-si-matase-dama-p7260421132609421.html": {
+    "name": "Rochie Midi COS, neagra, din bumbac si matase, dama",
+    "size": "40/L 199,00 RON",
+    "price": "199,00 RON"
+  },
+  "https://lamajole.ro/rochie-ca-albastra-plisata-cu-bretele-dama-p6260508105936249.html": {
+    "name": "Rochie C&A, albastra, plisata, cu bretele, dama",
+    "size": "40/L 89,00 RON",
+    "price": "89,00 RON"
+  },
+  "https://lamajole.ro/rochie-maxi-multicolora-cu-dantela-dama-p6260306095326813.html": {
+    "name": "Rochie Maxi, multicolora, cu dantela, dama",
+    "size": "42/L 259,00 RON",
+    "price": "259,00 RON"
+  },
+  "https://lamajole.ro/rochie-cos-albastra-din-viscoza-dama-p5260420122348104.html": {
+    "name": "Rochie COS, albastra, din viscoza, dama",
+    "size": "42/L 159,00 RON",
+    "price": "159,00 RON"
+  },
+  "https://lamajole.ro/rochie-zara-multicolora-din-viscoza-dama-p5260420122610338.html": {
+    "name": "Rochie Zara, multicolora, din viscoza, dama",
     "size": "40/L 69,00 RON",
     "price": "69,00 RON"
+  },
+  "https://lamajole.ro/rochie-zara-multicolora-din-bumbac-si-viscoza-dama-p3260508144156551.html": {
+    "name": "Rochie Zara, multicolora, din bumbac si viscoza, dama",
+    "size": "40/L 89,00 RON",
+    "price": "89,00 RON"
+  },
+  "https://lamajole.ro/rochie-maxi-hm-multicolora-din-viscoza-dama-p3260424100528844.html": {
+    "name": "Rochie Maxi H&M, multicolora, din viscoza, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
+  },
+  "https://lamajole.ro/rochie-alba-moda-neagra-din-bumbac-si-viscoza-dama-p3260316101828599.html": {
+    "name": "Rochie Alba Moda, neagra, din bumbac si viscoza, dama",
+    "size": "42/L 89,00 RON",
+    "price": "89,00 RON"
+  },
+  "https://lamajole.ro/rochie-mini-missguided-neagra-cu-volane-dama-p3260316101535392.html": {
+    "name": "Rochie Mini Missguided, neagra, cu volane, dama",
+    "size": "42/L 89,00 RON",
+    "price": "89,00 RON"
   }
 }
