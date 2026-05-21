@@ -1,7 +1,92 @@
 {
-  "https://lamajole.ro/pantaloni-hm-maro-din-viscoza-si-in-dama-p5260507144347844.html": {
-    "name": "Pantaloni H&M, maro, din viscoza si in, dama",
+  "https://lamajole.ro/tricou-zara-alb-cu-maneca-scurta-scurt-dama-p6260421154649376.html": {
+    "name": "Tricou Zara alb, cu maneca scurta, scurt, dama",
+    "size": "40/L 29,00 RON",
+    "price": "29,00 RON"
+  },
+  "https://lamajole.ro/tricou-united-colors-of-benetton-gri-din-bumbac-dama-p6260421154655028.html": {
+    "name": "Tricou United Colors Of Benetton, gri, din bumbac, dama",
+    "size": "40/L 39,00 RON",
+    "price": "39,00 RON"
+  },
+  "https://lamajole.ro/tricou-ca-alb-din-bumbac-dama-p6260309111032525.html": {
+    "name": "Tricou C&A alb, din bumbac, dama",
+    "size": "40/L 39,00 RON",
+    "price": "39,00 RON"
+  },
+  "https://lamajole.ro/tricou-ca-roz-cu-imprimeu-floral-cu-maneca-scurta-dama-p6260309111032397.html": {
+    "name": "Tricou C&A roz, cu imprimeu floral, cu maneca scurta, dama",
+    "size": "40/L 39,00 RON",
+    "price": "39,00 RON"
+  },
+  "https://lamajole.ro/tricou-soliver-alb-din-bumbac-dama-p6260309111000785.html": {
+    "name": "Tricou S.Oliver, alb, din bumbac, dama",
     "size": "40/L 79,00 RON",
     "price": "79,00 RON"
+  },
+  "https://lamajole.ro/tricou-ca-negru-cu-imprimeu-floral-cu-maneca-scurta-dama-p6260227141211948.html": {
+    "name": "Tricou C&A, negru, cu imprimeu floral, cu maneca scurta, dama",
+    "size": "40/L 39,00 RON",
+    "price": "39,00 RON"
+  },
+  "https://lamajole.ro/tricou-opus-galben-din-lyocell-dama-p5260226102716874.html": {
+    "name": "Tricou Opus, galben, din lyocell, dama",
+    "size": "40/L 69,00 RON",
+    "price": "69,00 RON"
+  },
+  "https://lamajole.ro/tricou-cos-alb-din-bumbac-dama-p4260319094918685.html": {
+    "name": "Tricou COS, alb, din bumbac, dama",
+    "size": "40/L 89,00 RON",
+    "price": "89,00 RON"
+  },
+  "https://lamajole.ro/tricou-armedangels-verde-din-lyocell-si-bumbac-dama-p1260316120010550.html": {
+    "name": "Tricou Armedangels, verde, din lyocell si bumbac, dama",
+    "size": "42/L 59,00 RON",
+    "price": "59,00 RON"
+  },
+  "https://lamajole.ro/tricou-someday-bej-din-viscoza-dama-p1260316115944349.html": {
+    "name": "Tricou Someday, bej, din viscoza, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
+  },
+  "https://lamajole.ro/tricou-maxco-alb-din-bumbac-dama-p1260316115944452.html": {
+    "name": "Tricou Max&Co, alb, din bumbac, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
+  },
+  "https://lamajole.ro/tricou-united-colors-of-benetton-galben-din-lyocell-si-bumbac-dama-p1260316115943684.html": {
+    "name": "Tricou United Colors Of Benetton, galben, din lyocell si bumbac, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
+  },
+  "https://lamajole.ro/tricou-cecil-roz-cu-gluga-cu-maneca-scurta-dama-p1260316115943806.html": {
+    "name": "Tricou Cecil roz, cu gluga, cu maneca scurta, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
+  },
+  "https://lamajole.ro/tricou-someday-maro-din-lyocell-dama-p1260316115943914.html": {
+    "name": "Tricou Someday, maro, din lyocell, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
+  },
+  "https://lamajole.ro/tricou-guess-alb-din-viscoza-dama-p1260316115930486.html": {
+    "name": "Tricou Guess, alb, din viscoza, dama",
+    "size": "40/L 89,00 RON",
+    "price": "89,00 RON"
+  },
+  "https://lamajole.ro/tricou-adidas-alb-cu-maneca-scurta-dama-p1260316115943385.html": {
+    "name": "Tricou Adidas alb, cu maneca scurta, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
+  },
+  "https://lamajole.ro/tricou-taifun-albastru-cu-maneca-scurta-dama-p1260316115943479.html": {
+    "name": "Tricou Taifun, albastru, cu maneca scurta, dama",
+    "size": "40/L 79,00 RON",
+    "price": "79,00 RON"
+  },
+  "https://lamajole.ro/tricou-jack-wolfskin-albastru-cu-maneca-scurta-dama-p1260316115930342.html": {
+    "name": "Tricou Jack Wolfskin, albastru, cu maneca scurta, dama",
+    "size": "40/L 89,00 RON",
+    "price": "89,00 RON"
   }
 }
