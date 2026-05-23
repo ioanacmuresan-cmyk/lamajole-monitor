@@ -49,11 +49,6 @@
     "size": "40/L 79,00 RON",
     "price": "79,00 RON"
   },
-  "https://lamajole.ro/tricou-maxco-alb-din-bumbac-dama-p1260316115944452.html": {
-    "name": "Tricou Max&Co, alb, din bumbac, dama",
-    "size": "40/L 79,00 RON",
-    "price": "79,00 RON"
-  },
   "https://lamajole.ro/tricou-united-colors-of-benetton-galben-din-lyocell-si-bumbac-dama-p1260316115943684.html": {
     "name": "Tricou United Colors Of Benetton, galben, din lyocell si bumbac, dama",
     "size": "40/L 79,00 RON",
@@ -88,5 +83,10 @@
     "name": "Tricou Jack Wolfskin, albastru, cu maneca scurta, dama",
     "size": "40/L 89,00 RON",
     "price": "89,00 RON"
+  },
+  "https://lamajole.ro/bluza-cu-maneca-scurta-taifun-verde-cu-nasturi-decolteu-in-v-dama-p3260507114830634.html": {
+    "name": "Bluza Cu Maneca Scurta Taifun, verde, cu nasturi, decolteu in V, dama",
+    "size": "40/L 59,00 RON",
+    "price": "59,00 RON"
   }
 }
