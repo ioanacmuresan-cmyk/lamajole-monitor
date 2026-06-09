@@ -88,5 +88,17 @@
     "size": "L",
     "price": "159,00 RON",
     "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-ca-bej-din-in-dama-p7260521075404422.html": {
+    "name": "Pantaloni C&A, bej, din in, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-soliver-albastri-din-in-dama-p7260521075347184.html": {
+    "name": "Pantaloni S.Oliver, albastri, din in, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
   }
 }
