@@ -15,30 +15,28 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO = os.environ.get("GITHUB_REPO", "")
 SNAPSHOT_FILE = "snapshot.json"
 
-# Size filters — matches Romanian sizing on lamajole
-TARGET_SIZES = ["40/l", "42/l", "38/l", "40/xl", " l,", "/l,", "l\n", ": l\n", ":l"]
+# Target label sizes (as rendered in product attributes)
+TARGET_SIZES = {"L", "XL", "L/40", "XL/42", "40", "42", "40/L", "42/XL"}
 
-# Use allorigins proxy to bypass JS rendering issues
 PROXY_URL = "https://api.allorigins.win/get?url={}"
 TARGET_URL = "https://lamajole.ro/femei.html"
 
 
 def get_products():
-    headers = {"User-Agent": "Mozilla/5.0"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "ro-RO,ro;q=0.9",
+        "Referer": "https://lamajole.ro/",
+    }
 
     # Try direct first
     try:
-        r = requests.get(TARGET_URL, headers={
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Accept-Language": "ro-RO,ro;q=0.9",
-            "Referer": "https://lamajole.ro/",
-        }, timeout=20)
+        r = requests.get(TARGET_URL, headers=headers, timeout=20)
         print(f"Direct status: {r.status_code}, size: {len(r.text)}")
         soup = BeautifulSoup(r.text, "html.parser")
         items = soup.select("li.product-item")
         print(f"Direct items found: {len(items)}")
-
         if len(items) > 0:
             return parse_items(items)
     except Exception as e:
@@ -59,11 +57,9 @@ def get_products():
     except Exception as e:
         print(f"Proxy fetch failed: {e}")
 
-    # Last resort: scrape the homepage "Produse recent adaugate" section
+    # Last resort: homepage
     try:
-        r3 = requests.get("https://lamajole.ro/", headers={
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        }, timeout=20)
+        r3 = requests.get("https://lamajole.ro/", headers=headers, timeout=20)
         print(f"Homepage status: {r3.status_code}, size: {len(r3.text)}")
         soup = BeautifulSoup(r3.text, "html.parser")
         items = soup.select("li.product-item")
@@ -89,17 +85,40 @@ def parse_items(items):
             url = "https://lamajole.ro" + url
 
         item_text = item.get_text(" ", strip=True)
-        item_lower = item_text.lower()
 
-        # Check size match
-        if any(s in item_lower for s in TARGET_SIZES):
-            size_m = re.search(r'm[ăa]rime[:\s]+([^\n·\|]+)', item_text, re.IGNORECASE)
-            size = size_m.group(1).strip() if size_m else "L/40"
+        matched_size = None
+
+        # Primary: look for explicit size attribute (e.g. "Mărime: L" or "Marime L")
+        size_match = re.search(
+            r'm[ăa]rime[:\s]+([^\n·|,·]+)', item_text, re.IGNORECASE
+        )
+        if size_match:
+            size_val = size_match.group(1).strip().upper()
+            # Check exact match or starts-with (handles "L/40", "L ", etc.)
+            for target in TARGET_SIZES:
+                if size_val == target or size_val.startswith(target + "/") or size_val.startswith(target + " "):
+                    matched_size = size_val
+                    break
+            # Also check if any target is a prefix of what we found
+            if not matched_size:
+                for target in TARGET_SIZES:
+                    if target in size_val:
+                        matched_size = target
+                        break
+
+        # Fallback: look for standalone L or XL in item text
+        if not matched_size:
+            if re.search(r'\bXL\b', item_text):
+                matched_size = "XL"
+            elif re.search(r'\bL\b', item_text):
+                matched_size = "L"
+
+        if matched_size:
             price_el = item.select_one(".price")
             price = price_el.get_text(strip=True) if price_el else ""
-            results[url] = {"name": name, "size": size, "price": price}
+            results[url] = {"name": name, "size": matched_size, "price": price}
 
-    print(f"Produse L/40 gasite: {len(results)}")
+    print(f"Produse L/XL gasite: {len(results)}")
     return results
 
 
@@ -141,12 +160,12 @@ def send_email(new_items):
     if not SENDER_EMAIL or not APP_PASSWORD:
         print("Email neconfigurat, skip.")
         return
-    body = f"🛍️ {len(new_items)} produse noi L/40 pe LaMajole — Femei\n\n"
+    body = f"🛍️ {len(new_items)} produse noi L/XL pe LaMajole — Femei\n\n"
     for url, item in new_items.items():
         body += f"• {item['name']}\n  Mărime: {item['size']} | {item['price']}\n  {url}\n\n"
     body += f"\nVerificat: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
     msg = MIMEText(body, "plain", "utf-8")
-    msg["Subject"] = f"LaMajole: {len(new_items)} produse noi L/40 ({datetime.now().strftime('%d.%m %H:%M')})"
+    msg["Subject"] = f"LaMajole: {len(new_items)} produse noi L/XL ({datetime.now().strftime('%d.%m %H:%M')})"
     msg["From"] = SENDER_EMAIL
     msg["To"] = NOTIFY_EMAIL
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
