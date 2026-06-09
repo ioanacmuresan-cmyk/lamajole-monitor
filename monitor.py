@@ -15,11 +15,34 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO = os.environ.get("GITHUB_REPO", "")
 SNAPSHOT_FILE = "snapshot.json"
 
-# Target label sizes (as rendered in product attributes)
-TARGET_SIZES = {"L", "XL", "L/40", "XL/42", "40", "42", "40/L", "42/XL"}
+# Clothing: match L or 40
+CLOTHING_SIZES = {"L", "40", "L/40", "40/L"}
+
+# Shoes: match 37 or 39
+SHOE_SIZES = {"37", "39"}
+
+# URL keywords that indicate footwear
+SHOE_URL_KEYWORDS = [
+    "incaltaminte", "tenisi", "sandale", "saboti", "slapi",
+    "pantofi", "ghete", "sneakers", "balerini", "espadrile", "bocanci"
+]
 
 PROXY_URL = "https://api.allorigins.win/get?url={}"
 TARGET_URL = "https://lamajole.ro/femei.html"
+
+
+def is_footwear(url):
+    return any(kw in url for kw in SHOE_URL_KEYWORDS)
+
+
+def extract_size(item_text):
+    """Extract the size value from item text, stopping at first whitespace."""
+    size_match = re.search(
+        r'm[ăa]rime[:\s]+(\S+)', item_text, re.IGNORECASE
+    )
+    if size_match:
+        return size_match.group(1).strip().upper()
+    return None
 
 
 def get_products():
@@ -85,40 +108,41 @@ def parse_items(items):
             url = "https://lamajole.ro" + url
 
         item_text = item.get_text(" ", strip=True)
+        size_val = extract_size(item_text)
 
         matched_size = None
+        footwear = is_footwear(url)
 
-        # Primary: look for explicit size attribute (e.g. "Mărime: L" or "Marime L")
-        size_match = re.search(
-            r'm[ăa]rime[:\s]+([^\n·|,·]+)', item_text, re.IGNORECASE
-        )
-        if size_match:
-            size_val = size_match.group(1).strip().upper()
-            # Check exact match or starts-with (handles "L/40", "L ", etc.)
-            for target in TARGET_SIZES:
-                if size_val == target or size_val.startswith(target + "/") or size_val.startswith(target + " "):
-                    matched_size = size_val
-                    break
-            # Also check if any target is a prefix of what we found
-            if not matched_size:
-                for target in TARGET_SIZES:
-                    if target in size_val:
+        if size_val:
+            target_set = SHOE_SIZES if footwear else CLOTHING_SIZES
+            if size_val in target_set:
+                matched_size = size_val
+            else:
+                # Handle variants like "L/40"
+                for target in target_set:
+                    if size_val.startswith(target):
                         matched_size = target
                         break
 
-        # Fallback: look for standalone L or XL in item text
-        if not matched_size:
-            if re.search(r'\bXL\b', item_text):
-                matched_size = "XL"
-            elif re.search(r'\bL\b', item_text):
+        # Fallback for clothing: standalone L in text
+        if not matched_size and not footwear:
+            if re.search(r'\bL\b', item_text):
                 matched_size = "L"
 
         if matched_size:
             price_el = item.select_one(".price")
             price = price_el.get_text(strip=True) if price_el else ""
-            results[url] = {"name": name, "size": matched_size, "price": price}
+            category = "incaltaminte" if footwear else "haine"
+            results[url] = {
+                "name": name,
+                "size": matched_size,
+                "price": price,
+                "category": category
+            }
 
-    print(f"Produse L/XL gasite: {len(results)}")
+    clothing_count = sum(1 for v in results.values() if v["category"] == "haine")
+    shoe_count = sum(1 for v in results.values() if v["category"] == "incaltaminte")
+    print(f"Haine L/40 gasite: {clothing_count} | Incaltaminte 37/39 gasite: {shoe_count}")
     return results
 
 
@@ -160,14 +184,29 @@ def send_email(new_items):
     if not SENDER_EMAIL or not APP_PASSWORD:
         print("Email neconfigurat, skip.")
         return
-    body = f"🛍️ {len(new_items)} produse noi L/XL pe LaMajole — Femei\n\n"
-    for url, item in new_items.items():
-        body += f"• {item['name']}\n  Mărime: {item['size']} | {item['price']}\n  {url}\n\n"
+
+    clothing = {u: d for u, d in new_items.items() if d["category"] == "haine"}
+    shoes = {u: d for u, d in new_items.items() if d["category"] == "incaltaminte"}
+
+    body = f"🛍️ {len(new_items)} produse noi pe LaMajole\n\n"
+
+    if clothing:
+        body += f"👗 HAINE — marime L/40 ({len(clothing)} produse)\n\n"
+        for url, item in clothing.items():
+            body += f"• {item['name']}\n  Mărime: {item['size']} | {item['price']}\n  {url}\n\n"
+
+    if shoes:
+        body += f"👟 INCALTAMINTE — marime 37/39 ({len(shoes)} produse)\n\n"
+        for url, item in shoes.items():
+            body += f"• {item['name']}\n  Mărime: {item['size']} | {item['price']}\n  {url}\n\n"
+
     body += f"\nVerificat: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
+
     msg = MIMEText(body, "plain", "utf-8")
-    msg["Subject"] = f"LaMajole: {len(new_items)} produse noi L/XL ({datetime.now().strftime('%d.%m %H:%M')})"
+    msg["Subject"] = f"LaMajole: {len(new_items)} produse noi ({datetime.now().strftime('%d.%m %H:%M')})"
     msg["From"] = SENDER_EMAIL
     msg["To"] = NOTIFY_EMAIL
+
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
         s.login(SENDER_EMAIL, APP_PASSWORD)
         s.send_message(msg)
