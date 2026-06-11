@@ -1,98 +1,68 @@
 {
-  "https://lamajole.ro/tenisi-converse-albi-din-bumbac-dama-p2260522110933880.html": {
-    "name": "Tenisi Converse, albi, din bumbac, dama",
-    "size": "37",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
+  "https://lamajole.ro/sacou-gerry-weber-multicolor-cu-dungi-dama-p7260402114258953.html": {
+    "name": "Sacou Gerry Weber, multicolor, cu dungi, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
   },
-  "https://lamajole.ro/incaltaminte-de-apa-fila-dama-p6260520130455737.html": {
-    "name": "Incaltaminte de apa Fila, dama",
-    "size": "37",
-    "price": "69,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/tenisi-converse-albi-din-bumbac-dama-p2260522110933783.html": {
-    "name": "Tenisi Converse, albi, din bumbac, dama",
-    "size": "37",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/slapi-havaianas-gri-casual-cu-talpa-plata-dama-p6260520130519929.html": {
-    "name": "Slapi Havaianas gri, casual, cu talpa plata, dama",
-    "size": "39",
+  "https://lamajole.ro/tricou-street-one-alb-imprimat-cu-maneca-scurta-dama-p6260504093639949.html": {
+    "name": "Tricou Street One, alb, imprimat, cu maneca scurta, dama",
+    "size": "L",
     "price": "59,00 RON",
-    "category": "incaltaminte"
+    "category": "haine"
   },
-  "https://lamajole.ro/slapi-havaianas-negri-cu-imprimeu-floral-dama-p6260520130519844.html": {
-    "name": "Slapi Havaianas, negri, cu imprimeu floral, dama",
-    "size": "37",
-    "price": "59,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/saboti-reserved-negre-cu-platforma-dama-p7260513153105175.html": {
-    "name": "Saboti Reserved, negre, cu platforma, dama",
-    "size": "37",
-    "price": "69,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sandale-clarks-negre-cu-animal-print-si-talpa-cu-platforma-dama-p1260512123604790.html": {
-    "name": "Sandale Clarks, negre, cu animal print si talpa cu platforma, dama",
-    "size": "39",
+  "https://lamajole.ro/jacheta-schoffel-albastra-cu-gluga-dama-p6260319112854736.html": {
+    "name": "Jacheta Schoffel, albastra, cu gluga, dama",
+    "size": "L",
     "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/chiloti-de-baie-hm-verzi-cu-dungi-dama-p7260520130438034.html": {
-    "name": "Chiloti De Baie H&M, verzi cu dungi, dama",
-    "size": "L",
-    "price": "19,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/chiloti-de-baie-oneill-turcoaz-talie-inalta-dama-p7260520130334092.html": {
-    "name": "Chiloti De Baie O'Neill, turcoaz, talie inalta, dama",
+  "https://lamajole.ro/tricou-hm-gri-din-bumbac-dama-p4260429105933957.html": {
+    "name": "Tricou H&M gri, din bumbac, dama",
     "size": "L",
     "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/chiloti-de-baie-hm-rosii-dama-p7260520130334317.html": {
-    "name": "Chiloti De Baie H&M, rosii, dama",
+  "https://lamajole.ro/tricou-zara-gri-din-bumbac-dama-p4260429105933763.html": {
+    "name": "Tricou Zara, gri, din bumbac, dama",
     "size": "L",
     "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/chiloti-de-baie-hm-kaki-dama-p3260519082835861.html": {
-    "name": "Chiloti De Baie H&M, kaki, dama",
+  "https://lamajole.ro/tricou-ca-crem-din-bumbac-dama-p4260429105756820.html": {
+    "name": "Tricou C&A, crem, din bumbac, dama",
     "size": "L",
-    "price": "29,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/chiloti-de-baie-hm-multicolori-cu-dungi-dama-p3260519082834959.html": {
-    "name": "Chiloti De Baie H&M multicolori, cu dungi, dama",
+  "https://lamajole.ro/rochie-yessica-crem-cu-decolteu-in-v-si-cordon-dama-p4260420100946020.html": {
+    "name": "Rochie Yessica crem, cu decolteu in V si cordon, dama",
     "size": "L",
-    "price": "29,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/salopeta-tom-tailor-multicolora-din-in-si-viscoza-dama-p7260521075328913.html": {
-    "name": "Salopeta Tom Tailor, multicolora, din in si viscoza, dama",
+  "https://lamajole.ro/tricou-cartoon-negru-cu-maneca-scurta-dama-p4260429105556875.html": {
+    "name": "Tricou Cartoon, negru, cu maneca scurta, dama",
     "size": "L",
-    "price": "159,00 RON",
+    "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sacou-zara-verde-din-viscoza-si-in-dama-p7260402114340773.html": {
-    "name": "Sacou Zara, verde, din viscoza si in, dama",
+  "https://lamajole.ro/sacou-gerry-weber-multicolor-cu-imprimeu-floral-dama-p4260309100757860.html": {
+    "name": "Sacou Gerry Weber, multicolor, cu imprimeu floral, dama",
     "size": "L",
-    "price": "89,00 RON",
+    "price": "199,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/rochie-mini-marc-opolo-alba-din-in-dama-p4260525135815964.html": {
-    "name": "Rochie Mini Marc O'Polo, alba, din in, dama",
+  "https://lamajole.ro/camasa-mango-albastra-din-viscoza-si-in-dama-p3260423091721030.html": {
+    "name": "Camasa Mango, albastra, din viscoza si in, dama",
     "size": "L",
-    "price": "159,00 RON",
+    "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-ca-bej-din-in-dama-p7260521075404422.html": {
-    "name": "Pantaloni C&A, bej, din in, dama",
+  "https://lamajole.ro/camasa-justwhite-multicolora-din-viscoza-dama-p3260423091720632.html": {
+    "name": "Camasa JustWhite, multicolora, din viscoza, dama",
     "size": "L",
-    "price": "79,00 RON",
+    "price": "69,00 RON",
     "category": "haine"
   }
 }
