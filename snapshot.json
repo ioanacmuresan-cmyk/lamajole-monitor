@@ -1,4 +1,76 @@
 {
+  "https://lamajole.ro/pantaloni-scurti-tchibo-albastri-cu-cordon-dama-p7260422154814611.html": {
+    "name": "Pantaloni Scurti Tchibo, albastri, cu cordon, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-adidas-negri-cu-dungi-si-logo-dama-p7260331112119535.html": {
+    "name": "Pantaloni Scurti Adidas, negri, cu dungi si logo, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-adidas-gri-cu-talie-elastica-dama-p7260331112026336.html": {
+    "name": "Pantaloni Scurti Adidas, gri, cu talie elastica, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-hm-verzi-sport-dama-p6260504093625533.html": {
+    "name": "Colanti H&M, verzi, sport, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-forclaz-kaki-cu-fermoar-si-nasturi-dama-p6260407092634713.html": {
+    "name": "Pantaloni Scurti Forclaz, kaki, cu fermoar si nasturi, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-esprit-portocalii-din-viscoza-dama-p3260430115009690.html": {
+    "name": "Pantaloni Scurti Esprit, portocalii, din viscoza, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-zara-bej-din-viscoza-dama-p1260507151854160.html": {
+    "name": "Pantaloni Scurti Zara, bej, din viscoza, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-ca-bej-din-bumbac-dama-p3260430114935096.html": {
+    "name": "Pantaloni Scurti C&A, bej, din bumbac, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-stradivarius-bej-cu-pliuri-dama-p3260430114939531.html": {
+    "name": "Pantaloni Scurti Stradivarius, bej, cu pliuri, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-zebra-kaki-din-in-dama-p3260430114951665.html": {
+    "name": "Pantaloni Scurti Zebra, kaki, din in, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-zara-bej-din-lyocell-si-in-dama-p6260429141813381.html": {
+    "name": "Pantaloni Zara, bej, din lyocell si in, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-nike-negri-cu-fermoar-dama-p3260409154554767.html": {
+    "name": "Pantaloni Scurti Nike, negri, cu fermoar, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
   "https://lamajole.ro/bluza-ca-alba-din-bumbac-dama-p7260504103109159.html": {
     "name": "Bluza C&A, alba, din bumbac, dama",
     "size": "L",
@@ -9,90 +81,6 @@
     "name": "Bluza C&A, multicolora, din viscoza, dama",
     "size": "L",
     "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-vero-moda-mov-cu-broderie-si-maneca-scurta-dama-p5260302075802246.html": {
-    "name": "Tricou Vero Moda, mov, cu broderie si maneca scurta, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-ca-multicolor-cu-animal-print-si-maneca-scurta-dama-p5260302075801739.html": {
-    "name": "Tricou C&A, multicolor, cu animal print si maneca scurta, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-more-more-multicolor-din-bumbac-si-viscoza-dama-p4260518132736295.html": {
-    "name": "Tricou More & More, multicolor, din bumbac si viscoza, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-street-one-verde-din-bumbac-dama-p4260518132736447.html": {
-    "name": "Tricou Street One, verde, din bumbac, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-cartoon-alb-cu-imprimeu-cu-maneca-scurta-dama-p4260518132714528.html": {
-    "name": "Tricou Cartoon alb, cu imprimeu, cu maneca scurta, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-calida-bej-din-bumbac-dama-p4260513132355776.html": {
-    "name": "Tricou Calida, bej, din bumbac, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-tom-tailor-verde-cu-maneca-scurta-cu-cordon-dama-p4260317143914244.html": {
-    "name": "Tricou Tom Tailor, verde, cu maneca scurta, cu cordon, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-cos-alb-din-bumbac-dama-p4260317143901185.html": {
-    "name": "Tricou COS, alb, din bumbac, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-maxco-alb-din-bumbac-dama-p4260317143900642.html": {
-    "name": "Tricou Max&Co, alb, din bumbac, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-maxco-alb-cu-maneca-scurta-cu-guler-rotund-dama-p4260317143900842.html": {
-    "name": "Tricou Max&Co alb, cu maneca scurta, cu guler rotund, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-united-colors-of-benetton-alb-din-viscoza-si-bumbac-dama-p4260317143844019.html": {
-    "name": "Tricou United Colors Of Benetton alb, din viscoza si bumbac, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-tchibo-alba-din-bumbac-dama-p3260423091731578.html": {
-    "name": "Bluza Tchibo, alba, din bumbac, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-zara-crem-din-viscoza-dama-p3260423091720431.html": {
-    "name": "Bluza Zara, crem, din viscoza, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-opus-multicolora-cu-nasturi-dama-p3260423091721154.html": {
-    "name": "Bluza Opus multicolora, cu nasturi, dama",
-    "size": "L",
-    "price": "69,00 RON",
     "category": "haine"
   }
 }
