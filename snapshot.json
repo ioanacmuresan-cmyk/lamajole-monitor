@@ -1,84 +1,78 @@
 {
-  "https://lamajole.ro/pantaloni-scurti-tchibo-albastri-cu-cordon-dama-p7260422154814611.html": {
-    "name": "Pantaloni Scurti Tchibo, albastri, cu cordon, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-adidas-negri-cu-dungi-si-logo-dama-p7260331112119535.html": {
-    "name": "Pantaloni Scurti Adidas, negri, cu dungi si logo, dama",
+  "https://lamajole.ro/pantaloni-scurti-under-armour-albastri-dama-p7260428143256414.html": {
+    "name": "Pantaloni Scurti Under Armour, albastri, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-adidas-gri-cu-talie-elastica-dama-p7260331112026336.html": {
-    "name": "Pantaloni Scurti Adidas, gri, cu talie elastica, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/colanti-hm-verzi-sport-dama-p6260504093625533.html": {
-    "name": "Colanti H&M, verzi, sport, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-forclaz-kaki-cu-fermoar-si-nasturi-dama-p6260407092634713.html": {
-    "name": "Pantaloni Scurti Forclaz, kaki, cu fermoar si nasturi, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-esprit-portocalii-din-viscoza-dama-p3260430115009690.html": {
-    "name": "Pantaloni Scurti Esprit, portocalii, din viscoza, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-zara-bej-din-viscoza-dama-p1260507151854160.html": {
-    "name": "Pantaloni Scurti Zara, bej, din viscoza, dama",
+  "https://lamajole.ro/pantaloni-scurti-fila-albastri-cu-fermoar-sport-dama-p7260428143256209.html": {
+    "name": "Pantaloni Scurti Fila, albastri, cu fermoar, sport, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-ca-bej-din-bumbac-dama-p3260430114935096.html": {
-    "name": "Pantaloni Scurti C&A, bej, din bumbac, dama",
+  "https://lamajole.ro/pantaloni-scurti-under-armour-albastri-cu-cordon-dama-p6260423155951616.html": {
+    "name": "Pantaloni Scurti Under Armour, albastri, cu cordon, dama",
     "size": "L",
-    "price": "59,00 RON",
+    "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-stradivarius-bej-cu-pliuri-dama-p3260430114939531.html": {
-    "name": "Pantaloni Scurti Stradivarius, bej, cu pliuri, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-zebra-kaki-din-in-dama-p3260430114951665.html": {
-    "name": "Pantaloni Scurti Zebra, kaki, din in, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-zara-bej-din-lyocell-si-in-dama-p6260429141813381.html": {
-    "name": "Pantaloni Zara, bej, din lyocell si in, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-nike-negri-cu-fermoar-dama-p3260409154554767.html": {
-    "name": "Pantaloni Scurti Nike, negri, cu fermoar, dama",
+  "https://lamajole.ro/pantaloni-scurti-adidas-roz-sport-dama-p6260423155646382.html": {
+    "name": "Pantaloni Scurti Adidas, roz, sport, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-ca-alba-din-bumbac-dama-p7260504103109159.html": {
-    "name": "Bluza C&A, alba, din bumbac, dama",
+  "https://lamajole.ro/pantaloni-scurti-puma-gri-dama-p6260423155646501.html": {
+    "name": "Pantaloni Scurti Puma, gri, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-tally-weijl-albastri-din-bumbac-dama-p5260505085324529.html": {
+    "name": "Pantaloni Scurti Tally Weijl, albastri, din bumbac, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-hm-verzi-din-viscoza-dama-p5260417101330281.html": {
+    "name": "Pantaloni Scurti H&M, verzi, din viscoza, dama",
     "size": "L",
     "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-ca-multicolora-din-viscoza-dama-p7260504103101944.html": {
-    "name": "Bluza C&A, multicolora, din viscoza, dama",
+  "https://lamajole.ro/blugi-bershka-albastri-din-bumbac-dama-p4260423143711077.html": {
+    "name": "Blugi Bershka, albastri, din bumbac, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-ca-multicolori-din-bumbac-dama-p4260423080313568.html": {
+    "name": "Pantaloni Scurti C&A, multicolori, din bumbac, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-amisu-negri-cu-siret-dama-p4260423080427670.html": {
+    "name": "Pantaloni Scurti Amisu, negri, cu siret, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-hm-crem-din-bumbac-dama-p4260421083829815.html": {
+    "name": "Pantaloni Scurti H&M, crem, din bumbac, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-hm-crem-cu-pliuri-dama-p3260430114934933.html": {
+    "name": "Pantaloni Scurti H&M crem, cu pliuri, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-ca-albastri-din-bumbac-dama-p3260430114943566.html": {
+    "name": "Pantaloni Scurti C&A, albastri, din bumbac, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
