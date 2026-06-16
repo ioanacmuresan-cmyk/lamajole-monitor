@@ -1,86 +1,104 @@
 {
-  "https://lamajole.ro/pantaloni-scurti-under-armour-albastri-dama-p7260428143256414.html": {
-    "name": "Pantaloni Scurti Under Armour, albastri, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-fila-albastri-cu-fermoar-sport-dama-p7260428143256209.html": {
-    "name": "Pantaloni Scurti Fila, albastri, cu fermoar, sport, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-under-armour-albastri-cu-cordon-dama-p6260423155951616.html": {
-    "name": "Pantaloni Scurti Under Armour, albastri, cu cordon, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-adidas-roz-sport-dama-p6260423155646382.html": {
-    "name": "Pantaloni Scurti Adidas, roz, sport, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-puma-gri-dama-p6260423155646501.html": {
-    "name": "Pantaloni Scurti Puma, gri, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-tally-weijl-albastri-din-bumbac-dama-p5260505085324529.html": {
-    "name": "Pantaloni Scurti Tally Weijl, albastri, din bumbac, dama",
+  "https://lamajole.ro/tricou-fara-maneci-scott-dama.html": {
+    "name": "Tricou fara maneci Scott, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-hm-verzi-din-viscoza-dama-p5260417101330281.html": {
-    "name": "Pantaloni Scurti H&M, verzi, din viscoza, dama",
+  "https://lamajole.ro/tricou-superdry-dama-p6250512101345346.html": {
+    "name": "Tricou Superdry, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/palton-ulla-popken-gri-dama.html": {
+    "name": "Palton Ulla Popken gri, dama",
+    "size": "L",
+    "price": "259,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-hm-din-denim-model-cu-buzunare-false-dama.html": {
+    "name": "Pantaloni scurti H&M din denim, model cu buzunare false, dama",
     "size": "L",
     "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/blugi-bershka-albastri-din-bumbac-dama-p4260423143711077.html": {
-    "name": "Blugi Bershka, albastri, din bumbac, dama",
-    "size": "L",
+  "https://lamajole.ro/sneakers-elesse-roz-dama.html": {
+    "name": "Sneakers Elesse roz, dama",
+    "size": "39",
+    "price": "159,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/p6260303140414815-pantofi-graceland-negri-dama.html": {
+    "name": "Pantofi Graceland negri, dama",
+    "size": "37",
+    "price": "79,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/slapi-havaianas-roz-dama.html": {
+    "name": "Slapi Havaianas roz, dama",
+    "size": "39",
     "price": "69,00 RON",
-    "category": "haine"
+    "category": "incaltaminte"
   },
-  "https://lamajole.ro/pantaloni-scurti-ca-multicolori-din-bumbac-dama-p4260423080313568.html": {
-    "name": "Pantaloni Scurti C&A, multicolori, din bumbac, dama",
+  "https://lamajole.ro/rochie-mini-marc-opolo-alba-din-in-dama-p4260525135815964.html": {
+    "name": "Rochie Mini Marc O'Polo, alba, din in, dama",
     "size": "L",
-    "price": "39,00 RON",
+    "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-amisu-negri-cu-siret-dama-p4260423080427670.html": {
-    "name": "Pantaloni Scurti Amisu, negri, cu siret, dama",
+  "https://lamajole.ro/bluza-noua-cecil-dama.html": {
+    "name": "Bluza noua Cecil, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-karl-lagerfeld-din-bumbac-negru-cu-maneca-scurta-dama-p3260302111440923.html": {
+    "name": "Tricou Karl Lagerfeld din bumbac negru cu maneca scurta, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sutien-de-baie-h-m-nou-dama.html": {
+    "name": "Sutien de baie H&M nou, dama",
     "size": "L",
     "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-hm-crem-din-bumbac-dama-p4260421083829815.html": {
-    "name": "Pantaloni Scurti H&M, crem, din bumbac, dama",
+  "https://lamajole.ro/bluza-opus-portocalie-corai-lejera-cu-maneca-lunga-dama-p1260115130628849.html": {
+    "name": "Bluza Opus portocalie lejera cu maneca lunga, dama",
     "size": "L",
-    "price": "39,00 RON",
+    "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-hm-crem-cu-pliuri-dama-p3260430114934933.html": {
-    "name": "Pantaloni Scurti H&M crem, cu pliuri, dama",
+  "https://lamajole.ro/ghete-din-piele-5th-avenue-dama.html": {
+    "name": "Ghete din piele 5th Avenue, dama",
+    "size": "39",
+    "price": "199,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/pulover-m-s-albastru-dama.html": {
+    "name": "Pulover M&S albastru, dama",
     "size": "L",
-    "price": "59,00 RON",
+    "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-ca-albastri-din-bumbac-dama-p3260430114943566.html": {
-    "name": "Pantaloni Scurti C&A, albastri, din bumbac, dama",
+  "https://lamajole.ro/chilot-h-m-roz-dama.html": {
+    "name": "Chilot H&M roz, dama",
     "size": "L",
-    "price": "59,00 RON",
+    "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/blugi-massimo-dutti-albastri-din-bumbac-dama-p1260429154827450.html": {
-    "name": "Blugi Massimo Dutti, albastri, din bumbac, dama",
+  "https://lamajole.ro/bluza-ulla-popken-cu-decolteu-evidentiat-dama.html": {
+    "name": "Bluza Ulla Popken cu decolteu evidentiat, dama",
     "size": "L",
-    "price": "159,00 RON",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-cu-decolteu-in-v-massimo-dutti-dama.html": {
+    "name": "Bluza cu decolteu in v Massimo Dutti, dama",
+    "size": "L",
+    "price": "69,00 RON",
     "category": "haine"
   }
 }
