@@ -1,10 +1,4 @@
 {
-  "https://lamajole.ro/bluza-alba-moda-din-in-dama.html": {
-    "name": "Bluza Alba Moda din in, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/bluza-s-oliver-cu-guler-cu-volane-dama.html": {
     "name": "Bluza S.Oliver cu guler cu volane, dama",
     "size": "L",
@@ -51,6 +45,30 @@
     "name": "Sacou Zara model monocromatic oversize, dama",
     "size": "L",
     "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-united-colors-of-benetton-galben-din-lyocell-si-bumbac-dama-p1260316115943684.html": {
+    "name": "Tricou United Colors Of Benetton, galben, din lyocell si bumbac, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-icebreaker-gri-dama.html": {
+    "name": "Tricou Icebreaker gri, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-alba-sophie-din-in-dama-p7260521075347571.html": {
+    "name": "Camasa, alba, Sophie din in, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p1260119131539322-pantaloni-zara-dama.html": {
+    "name": "Pantaloni Zara, dama",
+    "size": "L",
+    "price": "79,00 RON",
     "category": "haine"
   }
 }
