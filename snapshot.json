@@ -1,104 +1,56 @@
 {
-  "https://lamajole.ro/tricou-fara-maneci-scott-dama.html": {
-    "name": "Tricou fara maneci Scott, dama",
+  "https://lamajole.ro/bluza-alba-moda-din-in-dama.html": {
+    "name": "Bluza Alba Moda din in, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-s-oliver-cu-guler-cu-volane-dama.html": {
+    "name": "Bluza S.Oliver cu guler cu volane, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-noua-tom-tailor-dama.html": {
+    "name": "Bluza noua Tom Tailor, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-superdry-dama-p6250512101345346.html": {
-    "name": "Tricou Superdry, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/palton-ulla-popken-gri-dama.html": {
-    "name": "Palton Ulla Popken gri, dama",
-    "size": "L",
-    "price": "259,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-hm-din-denim-model-cu-buzunare-false-dama.html": {
-    "name": "Pantaloni scurti H&M din denim, model cu buzunare false, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sneakers-elesse-roz-dama.html": {
-    "name": "Sneakers Elesse roz, dama",
-    "size": "39",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/p6260303140414815-pantofi-graceland-negri-dama.html": {
-    "name": "Pantofi Graceland negri, dama",
-    "size": "37",
-    "price": "79,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/slapi-havaianas-roz-dama.html": {
-    "name": "Slapi Havaianas roz, dama",
-    "size": "39",
-    "price": "69,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/rochie-mini-marc-opolo-alba-din-in-dama-p4260525135815964.html": {
-    "name": "Rochie Mini Marc O'Polo, alba, din in, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-noua-cecil-dama.html": {
-    "name": "Bluza noua Cecil, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-karl-lagerfeld-din-bumbac-negru-cu-maneca-scurta-dama-p3260302111440923.html": {
-    "name": "Tricou Karl Lagerfeld din bumbac negru cu maneca scurta, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sutien-de-baie-h-m-nou-dama.html": {
-    "name": "Sutien de baie H&M nou, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-opus-portocalie-corai-lejera-cu-maneca-lunga-dama-p1260115130628849.html": {
-    "name": "Bluza Opus portocalie lejera cu maneca lunga, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/ghete-din-piele-5th-avenue-dama.html": {
-    "name": "Ghete din piele 5th Avenue, dama",
-    "size": "39",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pulover-m-s-albastru-dama.html": {
-    "name": "Pulover M&S albastru, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/chilot-h-m-roz-dama.html": {
-    "name": "Chilot H&M roz, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-ulla-popken-cu-decolteu-evidentiat-dama.html": {
-    "name": "Bluza Ulla Popken cu decolteu evidentiat, dama",
+  "https://lamajole.ro/p7251211143631610-pantaloni-noi-esprit-dama.html": {
+    "name": "Pantaloni noi Esprit, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-cu-decolteu-in-v-massimo-dutti-dama.html": {
-    "name": "Bluza cu decolteu in v Massimo Dutti, dama",
+  "https://lamajole.ro/sacou-lung-street-one-dama.html": {
+    "name": "Sacou lung Street One, dama",
     "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sandale-hm-crem-din-piele-eco-dama-p7260430154313009.html": {
+    "name": "Sandale H&M, crem, din piele eco, dama",
+    "size": "39",
     "price": "69,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/camasa-rich-royal-din-bumbac-multicolora-cu-dungi-dama-p6251006105440468.html": {
+    "name": "Camasa Rich & Royal din bumbac multicolora cu dungi, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p3250718074354242-rochie-h-m-mama-dama.html": {
+    "name": "Rochie H&M Mama, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sacou-zara-model-monocromatic-oversize-dama.html": {
+    "name": "Sacou Zara model monocromatic oversize, dama",
+    "size": "L",
+    "price": "129,00 RON",
     "category": "haine"
   }
 }
