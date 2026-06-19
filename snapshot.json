@@ -1,98 +1,74 @@
 {
-  "https://lamajole.ro/chilot-h-m-roz-dama.html": {
-    "name": "Chilot H&M roz, dama",
+  "https://lamajole.ro/camasa-street-one-cu-guler-rotund-dama.html": {
+    "name": "Camasa Street One cu guler rotund, dama",
     "size": "L",
-    "price": "29,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/hanorac-cecil-model-plusat-dama.html": {
-    "name": "Hanorac Cecil model plusat, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-h-m-model-bicromatic-dama.html": {
-    "name": "Rochie H&M model bicromatic, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/ghete-m-s-maro-dama.html": {
-    "name": "Ghete M&S maro, dama",
-    "size": "39",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/geaca-matlasata-h-m-dama.html": {
-    "name": "Geaca matlasata H&M, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/ghete-albastre-landrover-dama.html": {
-    "name": "Ghete albastre Landrover, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sacou-gri-pinko-dama.html": {
-    "name": "Sacou gri Pinko, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-luisa-cerano-model-cu-imprimeu-grafic-cu-model-la-maneca-dama.html": {
-    "name": "Camasa Luisa Cerano model cu imprimeu grafic cu model la maneca, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p1251124110036976-ghete-negre-catwalk-dama.html": {
-    "name": "Ghete negre Catwalk, dama",
-    "size": "37",
-    "price": "99,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/camasa-patrizi-pepe-dama.html": {
-    "name": "Camasa Patrizi Pepe, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-amisu-cu-nasturi-decorativi-dama.html": {
-    "name": "Pantaloni scurti Amisu cu nasturi decorativi, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/botine-bata-dama.html": {
-    "name": "Botine Bata, dama",
-    "size": "40",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/top-tommy-hilfiger-cu-terminatii-elastice-in-culori-specifice-dama.html": {
-    "name": "Top Tommy Hilfiger cu terminatii elastice in culori specifice, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sacou-marc-cain-albastru-dama.html": {
-    "name": "Sacou Marc Cain albastru, dama",
-    "size": "L",
-    "price": "259,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-nike-running-negru-dama.html": {
-    "name": "Tricou Nike running negru, dama",
+  "https://lamajole.ro/pulover-h-m-maro-cu-dungi-albe-dama.html": {
+    "name": "Pulover H&M maro cu dungi albe, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/geaca-albastra-bonita-dama.html": {
-    "name": "Geaca albastra Bonita, dama",
+  "https://lamajole.ro/tenisi-converse-albi-din-bumbac-dama-p2260522110933783.html": {
+    "name": "Tenisi Converse, albi, din bumbac, dama",
+    "size": "37",
+    "price": "159,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/maieu-h-m-model-monocromatic-si-croiala-crop-dama.html": {
+    "name": "Maieu  H&M model monocromatic si croiala crop, dama",
     "size": "L",
-    "price": "199,00 RON",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-tom-tailor-multicolora-din-viscoza-dama-p3260507114818870.html": {
+    "name": "Camasa Tom Tailor, multicolora, din viscoza, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-opus-cu-guler-rotund-dama.html": {
+    "name": "Pulover Opus cu guler rotund, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-zara-alb-din-bumbac-dama-p2260312153618154.html": {
+    "name": "Tricou Zara, alb, din bumbac, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sacou-crem-c-a-dama.html": {
+    "name": "Sacou crem C&A, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/costum-de-baie-h-m-model-cu-curea-decorativa-in-talie-dama.html": {
+    "name": "Costum de baie H&M model cu curea decorativa in talie, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-page-one-model-monocromatic-dama.html": {
+    "name": "Camasa Page One model monocromatic, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/palton-opus-cu-aspect-de-blana-dama.html": {
+    "name": "Palton Opus cu aspect de blana, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/geaca-s-oliver-gri-dama.html": {
+    "name": "Geaca  S.Oliver gri, dama",
+    "size": "L",
+    "price": "259,00 RON",
     "category": "haine"
   }
 }
