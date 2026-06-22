@@ -1,90 +1,84 @@
 {
-  "https://lamajole.ro/colanti-puma-multicolori-cu-fermoar-dama-p7251030092636379.html": {
-    "name": "Colanti Puma, multicolori, cu fermoar, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p3251208113435271-camasa-de-noapte-calida-dama.html": {
-    "name": "Camasa de noapte Calida, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-s-oliver-cu-terminatie-ajustabila-dama.html": {
-    "name": "Bluza S.Oliver cu terminatie ajustabila, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-street-one-din-viscoza-multicolora-cu-nasturi-dama-p3260122155409799.html": {
-    "name": "Bluza Street One din viscoza multicolora cu nasturi, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-gerrybweber-cu-maiou-incorporat-dama.html": {
-    "name": "Camasa GerrybWeber cu maiou incorporat, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/cardigan-christian-berg-maro-dama.html": {
-    "name": "Cardigan Christian Berg maro, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-lawrence-grey-crem-dama.html": {
-    "name": "Camasa Lawrence Grey crem, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/colanti-basic-nike-dri-fit-dama.html": {
-    "name": "Colanti Basic Nike DRI-FIT, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-din-bumbac-cu-buzunare-c-a-dama.html": {
-    "name": "Pantaloni din bumbac cu buzunare C&A, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/blugi-zara-albastri-din-bumbac-dama-p3260505145306001.html": {
-    "name": "Blugi Zara, albastri, din bumbac, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-street-one-cu-imprimeu-romburi-dama.html": {
-    "name": "Bluza Street One cu imprimeu romburi, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p4250718141423602-sacou-h-m-dama.html": {
-    "name": "Sacou H&M, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-brand-necunoscut-mov-din-viscoza-dama-p3260319091333589.html": {
-    "name": "Pantaloni mov, din viscoza, dama",
+  "https://lamajole.ro/jacheta-frieda-freddies-gri-dama.html": {
+    "name": "Jacheta Frieda&Freddies gri, dama",
     "size": "L",
     "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-sport-noke-albastra-dama.html": {
-    "name": "Bluza Sport Nike albastra, dama",
+  "https://lamajole.ro/camasa-h-m-cu-dungi-si-nasturi-ascunsi-dama.html": {
+    "name": "Camasa H&M cu dungi si nasturi ascunsi, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-someday-bej-din-viscoza-dama-p1260316115944349.html": {
+    "name": "Tricou Someday, bej, din viscoza, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/cardigan-only-gri-dama.html": {
-    "name": "Cardigan Only gri, dama",
+  "https://lamajole.ro/sneakers-new-balance-gri-cu-siret-talpa-plata-dama-p1260331075226251.html": {
+    "name": "Sneakers New Balance gri, cu siret, talpa plata, dama",
+    "size": "37",
+    "price": "159,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/rochie-h-m-cu-guler-rotund-dama.html": {
+    "name": "Rochie H&M cu guler rotund, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-zara-alb-cu-maneca-scurta-scurt-dama-p6260421154649376.html": {
+    "name": "Tricou Zara alb, cu maneca scurta, scurt, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-sportalm-model-cromatic-cu-insertii-grafice-si-aspect-reliefat-dama.html": {
+    "name": "Bluza Sportalm model cromatic cu insertii grafice si aspect reliefat, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-zara-cu-buzunare-laterale-dama.html": {
+    "name": "Pantaloni Zara cu buzunare laterale, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-united-colors-of-benetton-dama.html": {
+    "name": "Camasa United Colors of Benetton, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-adidas-roz-sport-dama-p6260423155646382.html": {
+    "name": "Pantaloni Scurti Adidas, roz, sport, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-s-oliver-alb-cu-dungi-dama.html": {
+    "name": "Bluza S. Oliver alb cu dungi, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/polar-odlo-mov-dama.html": {
+    "name": "Polar Odlo mov, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-midi-eterna-multicolora-cu-maneca-34-dama-p3260416101309092.html": {
+    "name": "Rochie Midi Eterna, multicolora, cu maneca 3/4, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-icepeak-cu-decolteu-in-v-si-cusaturi-reliefate-dama.html": {
+    "name": "Tricou Icepeak cu decolteu in V si cusaturi reliefate, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
