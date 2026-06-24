@@ -1,74 +1,62 @@
 {
-  "https://lamajole.ro/geaca-crem-chicoree-dama.html": {
-    "name": "Geaca crem Chicoree, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-opus-cu-guler-rotund-dama.html": {
-    "name": "Pulover Opus cu guler rotund, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/fusta-h-m-din-in-cu-pense-in-talie-si-cordon-atasat-dama.html": {
-    "name": "Fusta H&M din in cu pense in talie si cordon atasat, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/palton-roberto-cavalli-model-cu-imprimeu-leopard-si-insertii-de-blana-naturala-dama.html": {
-    "name": "Palton Roberto Cavalli model cu imprimeu leopard si insertii de blana naturala, dama",
-    "size": "L",
-    "price": "859,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p5250922122844114-camasa-h-m-dama.html": {
-    "name": "Camasa H&m, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-bonita-model-bicromatic-dama.html": {
-    "name": "Geaca Bonita model bicromatic, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/maiou-salomon-cu-bretele-subtiri-si-spatele-decoltat-dama.html": {
-    "name": "Maiou Salomon cu bretele subtiri si spatele decoltat, dama",
+  "https://lamajole.ro/bluza-hm-multicolora-din-viscoza-dama-p3260508144215252.html": {
+    "name": "Bluza H&M, multicolora, din viscoza, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-armedangels-verde-din-lyocell-si-bumbac-dama-p1260316120010550.html": {
-    "name": "Tricou Armedangels, verde, din lyocell si bumbac, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p1260108110156185-hanorac-adidas-dama.html": {
-    "name": "Hanorac Adidas, dama",
+  "https://lamajole.ro/hanorac-nike-cu-inscriptii-dama.html": {
+    "name": "Hanorac Nike cu inscriptii, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/ghete-clarks-dama.html": {
-    "name": "Ghete Clarks, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
+  "https://lamajole.ro/bluza-roz-closet-cu-animal-print-fara-maneci-cu-guler-inalt-dama-p1260416101038729.html": {
+    "name": "Bluza, roz, Closet cu animal print, fara maneci, cu guler inalt, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
   },
-  "https://lamajole.ro/rochie-h-m-rosu-dama.html": {
-    "name": "Rochie H&M rosu, dama",
+  "https://lamajole.ro/bluza-albastru-salomon-dama.html": {
+    "name": "Bluza albastru Salomon, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/geaca-c-a-galben-mustar-dama.html": {
-    "name": "Geaca C&A galben mustar, dama",
+  "https://lamajole.ro/tricou-maxco-alb-din-bumbac-dama-p4260317143900642.html": {
+    "name": "Tricou Max&Co, alb, din bumbac, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-clockhouse-dama.html": {
+    "name": "Jacheta Clockhouse, dama",
     "size": "L",
     "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-de-trening-jack-wolfskin-multicolora-cu-fermoar-si-maneca-lunga-dama-p7260309155823608.html": {
+    "name": "Bluza De Trening Jack Wolfskin, multicolora, cu fermoar si maneca lunga, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-someday-bej-dama.html": {
+    "name": "Camasa Someday. bej, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/palton-primark-gri-dama.html": {
+    "name": "Palton Primark gri, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p3260121115656814-blugi-armedangels-dama.html": {
+    "name": "Blugi Armedangels, dama",
+    "size": "L",
+    "price": "159,00 RON",
     "category": "haine"
   },
   "https://lamajole.ro/p1250910114153859-sneakers-asics-dama.html": {
@@ -77,22 +65,34 @@
     "price": "259,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/pulover-s-oliver-cu-guler-inalt-dama.html": {
-    "name": "Pulover S.Oliver cu guler inalt, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-mckinley-albastru-dama.html": {
-    "name": "Tricou McKinley albastru, dama",
+  "https://lamajole.ro/tricou-tom-tailor-alb-din-bumbac-dama-p7260507095613097.html": {
+    "name": "Tricou Tom Tailor, alb, din bumbac, dama",
     "size": "L",
     "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-uniqlo-dama.html": {
-    "name": "Tricou Uniqlo, dama",
+  "https://lamajole.ro/chiloti-de-baie-hm-rosii-dama-p7260520130334317.html": {
+    "name": "Chiloti De Baie H&M, rosii, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-guess-rosie-cu-imprimeu-floral-si-maneca-scurta-dama-p5250912075206762.html": {
+    "name": "Rochie Guess, rosie, cu imprimeu floral si maneca scurta, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-nike-storm-fit-noua-dama.html": {
+    "name": "Jacheta Nike Storm-Fit noua, dama",
+    "size": "L",
+    "price": "299,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-pom-amsterdam-dama.html": {
+    "name": "Camasa POM Amsterdam, dama",
+    "size": "L",
+    "price": "89,00 RON",
     "category": "haine"
   }
 }
