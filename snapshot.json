@@ -1,86 +1,74 @@
 {
-  "https://lamajole.ro/jacheta-sport-ff-portocalie-dama-p7250505121205541.html": {
-    "name": "Jacheta sport F&F portocalie, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/colanti-tchibo-sports-perfromance-dama.html": {
-    "name": "Colanti Tchibo Sports Perfromance, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p3260127131134322-pantaloni-zara-dama.html": {
-    "name": "Pantaloni Zara, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-zara-rosie-dama.html": {
-    "name": "Rochie Zara rosie, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/fusta-laurel-texturata-dama.html": {
-    "name": "Fusta Laurel texturata, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantofi-tamaris-din-piele-naturala-dama.html": {
-    "name": "Pantofi Tamaris din piele naturala, dama",
-    "size": "37",
-    "price": "129,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/vesta-gri-chicoree-dama.html": {
-    "name": "Vesta gri Chicoree, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-marc-opolo-alba-din-in-si-bumbac-dama-p2260511133140337.html": {
-    "name": "Bluza Marc O'Polo, alba, din in si bumbac, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-puma-verde-cu-maneca-scurta-si-logo-dama-p5260305153149682.html": {
-    "name": "Tricou Puma verde, cu maneca scurta si logo, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-puma-gri-dama-p6260423155646501.html": {
-    "name": "Pantaloni Scurti Puma, gri, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/jacheta-piele-ecologica-street-one-dama.html": {
-    "name": "Jacheta piele ecologica Street One, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sneakers-skechers-goga-max-dama.html": {
-    "name": "Sneakers Skechers goga max, dama",
+  "https://lamajole.ro/tenisi-vans-bordo-dama.html": {
+    "name": "Tenisi Vans bordo, dama",
     "size": "39",
     "price": "159,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/bluza-sport-schoffel-dama.html": {
-    "name": "Bluza sport Schoffel, dama",
+  "https://lamajole.ro/jacheta-odlo-multicolora-dama-p6250523092336902.html": {
+    "name": "Jacheta Odlo multicolora, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-sort-margittes-cu-insertii-decorative-la-buzunare-dama.html": {
-    "name": "Pantaloni sort Margittes cu insertii decorative la buzunare, dama",
+  "https://lamajole.ro/camasa-luisa-cerano-model-cu-imprimeu-grafic-cu-model-la-maneca-dama.html": {
+    "name": "Camasa Luisa Cerano model cu imprimeu grafic cu model la maneca, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-tchibo-roz-pal-dama.html": {
+    "name": "Pulover Tchibo roz pal, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-maxi-we-multicolora-cu-imprimeu-floral-si-maneci-bufante-dama-p7260421132659747.html": {
+    "name": "Rochie Maxi WE, multicolora, cu imprimeu floral si maneci bufante, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-cartoon-alb-cu-imprimeu-cu-maneca-scurta-dama-p4260518132714528.html": {
+    "name": "Tricou Cartoon alb, cu imprimeu, cu maneca scurta, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sneakers-imblanit-guess-dama.html": {
+    "name": "Sneakers imblanit Guess, dama",
+    "size": "37",
+    "price": "359,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/slip-de-baie-h-m-model-monocromatic-dama.html": {
+    "name": "Slip de baie H&M model monocromatic, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-s-oliver-cu-umeri-cazuti-si-broderie-aplicata-dama.html": {
+    "name": "Tricou S' Oliver cu umeri cazuti si broderie aplicata, dama",
     "size": "L",
     "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/fusta-set-multicolora-din-viscoza-si-matase-dama-p7260326083454705.html": {
+    "name": "Fusta Set, multicolora, din viscoza si matase, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-taifun-alb-din-bumbac-dama-p7260507095722136.html": {
+    "name": "Tricou Taifun, alb, din bumbac, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-street-one-multicolor-din-viscoza-dama-p7260323104449292.html": {
+    "name": "Tricou Street One, multicolor, din viscoza, dama",
+    "size": "L",
+    "price": "59,00 RON",
     "category": "haine"
   }
 }
