@@ -1,74 +1,122 @@
 {
-  "https://lamajole.ro/tenisi-vans-bordo-dama.html": {
-    "name": "Tenisi Vans bordo, dama",
-    "size": "39",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/jacheta-odlo-multicolora-dama-p6250523092336902.html": {
-    "name": "Jacheta Odlo multicolora, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-luisa-cerano-model-cu-imprimeu-grafic-cu-model-la-maneca-dama.html": {
-    "name": "Camasa Luisa Cerano model cu imprimeu grafic cu model la maneca, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-tchibo-roz-pal-dama.html": {
-    "name": "Pulover Tchibo roz pal, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-maxi-we-multicolora-cu-imprimeu-floral-si-maneci-bufante-dama-p7260421132659747.html": {
-    "name": "Rochie Maxi WE, multicolora, cu imprimeu floral si maneci bufante, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-cartoon-alb-cu-imprimeu-cu-maneca-scurta-dama-p4260518132714528.html": {
-    "name": "Tricou Cartoon alb, cu imprimeu, cu maneca scurta, dama",
+  "https://lamajole.ro/camasa-esprit-cu-dungi-dama.html": {
+    "name": "Camasa Esprit cu dungi, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sneakers-imblanit-guess-dama.html": {
-    "name": "Sneakers imblanit Guess, dama",
-    "size": "37",
-    "price": "359,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/slip-de-baie-h-m-model-monocromatic-dama.html": {
-    "name": "Slip de baie H&M model monocromatic, dama",
+  "https://lamajole.ro/geaca-noua-roz-bench-dama.html": {
+    "name": "Geaca noua roz Bench, dama",
     "size": "L",
-    "price": "29,00 RON",
+    "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-s-oliver-cu-umeri-cazuti-si-broderie-aplicata-dama.html": {
-    "name": "Tricou S' Oliver cu umeri cazuti si broderie aplicata, dama",
+  "https://lamajole.ro/jacheta-jake-s-dama.html": {
+    "name": "Jacheta Jake's, dama",
     "size": "L",
-    "price": "79,00 RON",
+    "price": "199,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/fusta-set-multicolora-din-viscoza-si-matase-dama-p7260326083454705.html": {
-    "name": "Fusta Set, multicolora, din viscoza si matase, dama",
+  "https://lamajole.ro/pulover-opus-bej-dama.html": {
+    "name": "Pulover Opus bej, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-taifun-alb-din-bumbac-dama-p7260507095722136.html": {
-    "name": "Tricou Taifun, alb, din bumbac, dama",
+  "https://lamajole.ro/pantaloni-scurti-asics-cu-chiloti-inserati-dama.html": {
+    "name": "Pantaloni scurti Asics cu chiloti inserati, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-nike-storm-fit-noua-dama.html": {
+    "name": "Jacheta Nike Storm-Fit noua, dama",
+    "size": "L",
+    "price": "299,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/fusta-denim-zara-trafaluc-dama.html": {
+    "name": "Fusta denim Zara Trafaluc, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-street-one-multicolor-din-viscoza-dama-p7260323104449292.html": {
-    "name": "Tricou Street One, multicolor, din viscoza, dama",
+  "https://lamajole.ro/pantaloni-c-a-din-piele-ecologica-dama.html": {
+    "name": "Pantaloni C&A din piele ecologica, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-calida-albastra-cu-maneca-lunga-casual-dama-p2260113080837189.html": {
+    "name": "Bluza Calida albastra cu maneca lunga casual, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-opus-cu-talie-elastica-dama.html": {
+    "name": "Pantaloni Opus cu talie elastica, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p7250820155035491-bluza-c-a-albastra-dama.html": {
+    "name": "Bluza C&A albastra, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sandale-tamaris-din-piele-ecologica-si-toc-gros-dama.html": {
+    "name": "Sandale Tamaris din piele ecologica si toc gros, dama",
+    "size": "37",
+    "price": "159,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-roz-milano-dama.html": {
+    "name": "Bluza roz Milano, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-h-m-metalizat-dama.html": {
+    "name": "Pulover H&M metalizat, dama",
     "size": "L",
     "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/palton-texturat-s-oliver-dama.html": {
+    "name": "Palton texturat S.Oliver, dama",
+    "size": "L",
+    "price": "299,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/trenci-vero-moda-bej-dama.html": {
+    "name": "Trenci Vero Moda bej, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-someday-model-monocromatic-cu-decolteu-la-baza-gatului-dama.html": {
+    "name": "Tricou Someday model monocromatic cu decolteu la baza gatului, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-zara-galbena-dama.html": {
+    "name": "Jacheta Zara galbena, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-h-m-move-mov-dama.html": {
+    "name": "Colanti H&M MOVE mov, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-luhta-neagra-cu-maneca-lunga-guler-rotund-dama-p4260312091450352.html": {
+    "name": "Bluza Luhta neagra, cu maneca lunga, guler rotund, dama",
+    "size": "L",
+    "price": "79,00 RON",
     "category": "haine"
   }
 }
