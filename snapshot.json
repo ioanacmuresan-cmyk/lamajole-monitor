@@ -1,56 +1,38 @@
 {
-  "https://lamajole.ro/pantofi-tamaris-din-piele-naturala-dama.html": {
-    "name": "Pantofi Tamaris din piele naturala, dama",
+  "https://lamajole.ro/camasa-tom-tailor-multicolora-din-viscoza-dama-p3260507114818870.html": {
+    "name": "Camasa Tom Tailor, multicolora, din viscoza, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-din-viscoza-s-oliver-dama.html": {
+    "name": "Bluza din viscoza S.Oliver, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-monari-dama.html": {
+    "name": "Cardigan Monari, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-cu-aspect-dublu-si-insertie-de-elastic-in-talie-dama.html": {
+    "name": "Pantaloni scurti cu aspect dublu si insertie de elastic in talie, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-noi-cu-buzunare-esprit-dama.html": {
+    "name": "Pantaloni noi cu buzunare Esprit, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p6250915114004583-sneakers-puma-suede-dama.html": {
+    "name": "Sneakers Puma Suede, dama",
     "size": "37",
     "price": "129,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/bluza-c-a-linen-blend-dama.html": {
-    "name": "Bluza C&A LINEN BLEND, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-superdry-model-cambrat-dama.html": {
-    "name": "Tricou SuperDry model cambrat, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-frank-walder-multicolor-dama.html": {
-    "name": "Camasa Frank Walder multicolor, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/colanti-eivy-crem-dama.html": {
-    "name": "Colanti Eivy crem, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/ghete-zebra-cu-aspect-texturat-dama.html": {
-    "name": "Ghete Zebra cu aspect texturat, dama",
-    "size": "37",
-    "price": "79,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/geaca-de-ploaie-peak-performance-multicolora-impermeabila-cu-gluga-dama-p7260320082427333.html": {
-    "name": "Geaca De Ploaie Peak Performance, multicolora, impermeabila, cu gluga, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-cream-albastra-casual-cu-maneca-lunga-dama-p3260115143246163.html": {
-    "name": "Bluza Cream albastra casual cu maneca lunga, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantofi-de-drumetie-columbia-din-piele-naturala-dama.html": {
-    "name": "Pantofi de drumetie Columbia din piele naturala, dama",
-    "size": "37",
-    "price": "199,00 RON",
     "category": "incaltaminte"
   }
 }
