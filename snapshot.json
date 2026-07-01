@@ -1,38 +1,104 @@
 {
-  "https://lamajole.ro/camasa-tom-tailor-multicolora-din-viscoza-dama-p3260507114818870.html": {
-    "name": "Camasa Tom Tailor, multicolora, din viscoza, dama",
+  "https://lamajole.ro/pantaloni-scurti-twentyfour-mov-cu-fermoar-si-nasturi-dama-p7260408095635109.html": {
+    "name": "Pantaloni Scurti Twentyfour mov, cu fermoar si nasturi, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-din-viscoza-s-oliver-dama.html": {
-    "name": "Bluza din viscoza S.Oliver, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/cardigan-monari-dama.html": {
-    "name": "Cardigan Monari, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-cu-aspect-dublu-si-insertie-de-elastic-in-talie-dama.html": {
-    "name": "Pantaloni scurti cu aspect dublu si insertie de elastic in talie, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-noi-cu-buzunare-esprit-dama.html": {
-    "name": "Pantaloni noi cu buzunare Esprit, dama",
+  "https://lamajole.ro/camasa-street-one-multicolora-din-in-dama-p1260518152930602.html": {
+    "name": "Camasa Street One, multicolora, din in, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/p6250915114004583-sneakers-puma-suede-dama.html": {
-    "name": "Sneakers Puma Suede, dama",
-    "size": "37",
-    "price": "129,00 RON",
+  "https://lamajole.ro/ghete-steve-madden-albe-dama.html": {
+    "name": "Ghete Steve Madden albe, dama",
+    "size": "39",
+    "price": "259,00 RON",
     "category": "incaltaminte"
+  },
+  "https://lamajole.ro/jacheta-manor-dama.html": {
+    "name": "Jacheta Manor, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-eivy-crem-dama.html": {
+    "name": "Colanti Eivy crem, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/body-zara-tip-sacou-in-carouri-dama.html": {
+    "name": "Body Zara tip sacou in carouri, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-stoke-negru-dama.html": {
+    "name": "Tricou Stoke negru, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-thom-dama.html": {
+    "name": "Cardigan THOM, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-lieblingsstuck-verde-cu-imprimeu-grafic-dama.html": {
+    "name": "Bluza Lieblingsstuck verde cu imprimeu grafic, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/geaca-c-a-cu-talie-reglabila-dama.html": {
+    "name": "Geaca C&A cu talie reglabila, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantofi-bershka-din-material-textil-dama.html": {
+    "name": "Pantofi Bershka din material textil, dama",
+    "size": "39",
+    "price": "69,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/camasa-zara-cu-guler-ascutit-dama.html": {
+    "name": "Camasa Zara cu guler ascutit, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sandale-ipanema-roz-dama-p2260602091208808.html": {
+    "name": "Sandale Ipanema roz, dama",
+    "size": "39",
+    "price": "69,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/camasa-navyboot-roz-din-in-dama-p2260511133148408.html": {
+    "name": "Camasa Navyboot, roz, din in, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/fusta-lana-peserico-dama.html": {
+    "name": "Fusta lana Peserico, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-patrizia-pepe-neagra-cu-dantela-dama-p7260421132631864.html": {
+    "name": "Rochie Patrizia Pepe, neagra, cu dantela, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sacou-c-a-in-carouri-bej-dama.html": {
+    "name": "Sacou C&A in carouri bej, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
   }
 }
