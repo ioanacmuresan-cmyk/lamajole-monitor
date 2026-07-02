@@ -1,68 +1,92 @@
 {
-  "https://lamajole.ro/hanorac-only-dama.html": {
-    "name": "Hanorac Only, dama",
+  "https://lamajole.ro/hanorac-jack-wolfskin-cu-buzunare-laterale-dama.html": {
+    "name": "Hanorac Jack Wolfskin  cu buzunare laterale, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/fusta-cos-neagra-elastica-dama.html": {
+    "name": "Fusta COS neagra elastica, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-peak-performance-model-monocromatic-si-guler-tip-polo-dama.html": {
+    "name": "Tricou Peak Performance model monocromatic si guler tip polo, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-navyboot-roz-din-in-dama-p2260511133148408.html": {
+    "name": "Camasa Navyboot, roz, din in, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/blugi-h-m-straight-regular-fit-dama.html": {
+    "name": "Blugi H&M straight regular fit, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p6250808091354331-pantaloni-h-m-maro-dama.html": {
+    "name": "Pantaloni H&M maro, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pulover-vero-moda-maro-dama.html": {
-    "name": "Pulover Vero Moda maro, dama",
+  "https://lamajole.ro/hanorac-review-dama.html": {
+    "name": "Hanorac Review, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantofi-kennel-schmenger-model-cu-aspect-mat-si-insertii-de-piele-naturala-dama.html": {
-    "name": "Pantofi Kennel & Schmenger model cu aspect mat si insertii de piele naturala, dama",
-    "size": "37",
-    "price": "259,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/bluza-sport-litchi-dama.html": {
-    "name": "Bluza sport Litchi, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/flanela-chicoree-cu-imprimeu-de-craciun-dama.html": {
-    "name": "Flanela Chicoree cu imprimeu de Craciun, dama",
+  "https://lamajole.ro/tricou-cecil-roz-cu-maneca-scurta-si-guler-rotund-dama-p2260312153618008.html": {
+    "name": "Tricou Cecil roz, cu maneca scurta si guler rotund, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sacou-lung-street-one-dama.html": {
-    "name": "Sacou lung Street One, dama",
+  "https://lamajole.ro/colanti-puma-gri-dama.html": {
+    "name": "Colanti Puma gri, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-midi-rene-lezard-rosie-cu-decolteu-rotund-dama-p7260421132632391.html": {
+    "name": "Rochie Midi Rene Lezard, rosie, cu decolteu rotund, dama",
     "size": "L",
     "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-albastra-jack-wolfskin-noua-dama.html": {
-    "name": "Bluza albastra Jack Wolfskin noua, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-monari-dama.html": {
-    "name": "Tricou Monari, dama",
+  "https://lamajole.ro/fusta-raffaello-rossi-dama.html": {
+    "name": "Fusta Raffaello Rossi, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/palton-roz-white-label.html": {
-    "name": "Palton roz White Label,",
+  "https://lamajole.ro/camasa-marc-cain-sports-dama.html": {
+    "name": "Camasa Marc Cain sports, dama",
     "size": "L",
-    "price": "159,00 RON",
+    "price": "199,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/ghete-fila-cu-talpa-in-contrast-unisex.html": {
-    "name": "Ghete Fila cu talpa in contrast, unisex",
-    "size": "39",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/camasa-tom-tailor-multicolora-din-viscoza-dama-p3260507114818870.html": {
-    "name": "Camasa Tom Tailor, multicolora, din viscoza, dama",
+  "https://lamajole.ro/bluza-rabe-cu-insertii-de-strasuri-si-imprimeu-multicolor-dama.html": {
+    "name": "Bluza Rabe cu insertii de strasuri si imprimeu multicolor, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-yessica-alb-din-bumbac-dama-p7260326083604107.html": {
+    "name": "Tricou Yessica alb, din bumbac, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-street-one-alb-din-bumbac-dama-p2260317114910153.html": {
+    "name": "Tricou Street One, alb, din bumbac, dama",
+    "size": "L",
+    "price": "59,00 RON",
     "category": "haine"
   }
 }
