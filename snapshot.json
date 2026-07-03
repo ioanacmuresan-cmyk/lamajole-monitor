@@ -1,44 +1,92 @@
 {
-  "https://lamajole.ro/camasa-hm-multicolora-din-bumbac-dama-p1260324091633356.html": {
-    "name": "Camasa H&M, multicolora, din bumbac, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-gerry-weber-alb-dama.html": {
-    "name": "Tricou Gerry Weber alb, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-elastici-about-you-dama.html": {
-    "name": "Pantaloni elastici About You, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sandale-catwalk-mov-casual-cu-talpa-plata-dama-p2260602091103220.html": {
-    "name": "Sandale Catwalk, mov, casual, cu talpa plata, dama",
-    "size": "39",
-    "price": "39,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/p4260114080657670-bluza-cu-maneci-3-4-cecil-dama.html": {
-    "name": "Bluza cu  maneci 3/4 Cecil, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-din-matase-hallhuber-crem-dama.html": {
-    "name": "Camasa din matase Hallhuber crem, dama",
+  "https://lamajole.ro/sacou-gerry-weber-multicolor-cu-dungi-dama-p7260402114258953.html": {
+    "name": "Sacou Gerry Weber, multicolor, cu dungi, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sneakers-texturat-new-balance-dama.html": {
-    "name": "Sneakers texturat New Balance, dama",
-    "size": "37",
-    "price": "199,00 RON",
+  "https://lamajole.ro/hanorac-betty-co-maro.html": {
+    "name": "Hanorac Betty&Co maro",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-s-oliver-cu-guler-inalt-dama.html": {
+    "name": "Pulover S.Oliver cu guler inalt, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-alba-opus-dama.html": {
+    "name": "Bluza alba Opus, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/fusta-neagra-guess-dama.html": {
+    "name": "Fusta neagra Guess, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-street-one-cu-dungi-verzi-dama.html": {
+    "name": "Camasa Street One cu dungi verzi, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-justwhite-multicolora-din-viscoza-dama-p3260423091720632.html": {
+    "name": "Camasa JustWhite, multicolora, din viscoza, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sneakers-adidas-albi-unisex.html": {
+    "name": "Sneakers Adidas albi, unisex",
+    "size": "39",
+    "price": "159,00 RON",
     "category": "incaltaminte"
+  },
+  "https://lamajole.ro/geaca-q-s-albastra-dama.html": {
+    "name": "Geaca Q/S albastra, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-verde-cu-maneca-scurta-bianca-dama.html": {
+    "name": "Pulover verde cu maneca scurta Bianca, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-h-m-maro-dama.html": {
+    "name": "Camasa H&M maro, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-h-m-model-cu-buzunar-fals-si-croiala-lejera-dama.html": {
+    "name": "Pantaloni H&M model cu buzunar fals si croiala lejera, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/palton-olsen-texturat-dama.html": {
+    "name": "Palton Olsen texturat, dama",
+    "size": "L",
+    "price": "259,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-tchibo-sports-perfromance-dama.html": {
+    "name": "Colanti Tchibo Sports Perfromance, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-mango-mov-din-viscoza-dama-p3260423091721295.html": {
+    "name": "Bluza Mango, mov, din viscoza, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
   }
 }
