@@ -1,62 +1,92 @@
 {
-  "https://lamajole.ro/palton-c-a-dama.html": {
-    "name": "Palton C&A, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-mango-transparenta-dama.html": {
-    "name": "Camasa Mango transparenta, dama",
+  "https://lamajole.ro/tricou-street-one-cu-paiete-dama.html": {
+    "name": "Tricou Street One cu paiete, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/geaca-c-a-galben-mustar-dama.html": {
-    "name": "Geaca C&A galben mustar, dama",
+  "https://lamajole.ro/bluza-cos-gri-dama.html": {
+    "name": "Bluza COS gri,dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantofi-graceland-maro-dama.html": {
-    "name": "Pantofi Graceland maro, dama",
-    "size": "39",
-    "price": "69,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/maieu-only-dama.html": {
-    "name": "Maieu Only, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-h-m-din-in-cu-talie-valurita-dama.html": {
-    "name": "Pantaloni scurti H&M din In cu talie valurita, dama",
+  "https://lamajole.ro/bluza-olsen-dama.html": {
+    "name": "Bluza Olsen, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-brax-cu-segment-satinat-si-decolteu-tip-barca-dama.html": {
-    "name": "Tricou Brax cu segment satinat si decolteu tip barca, dama",
+  "https://lamajole.ro/p6260114104605719-bluza-sport-aycane-dama.html": {
+    "name": "Bluza sport Aycane, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-sport-sherpa-multicolor-cu-fermoar-cu-maneca-scurta-dama-p3260409154317018.html": {
+    "name": "Tricou Sport Sherpa, multicolor, cu fermoar, cu maneca scurta, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/ghete-u-s-polo-assn-dama.html": {
+    "name": "Ghete U.S. Polo Assn., dama",
+    "size": "37",
+    "price": "159,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/geaca-taifun-gri-dama.html": {
+    "name": "Geaca Taifun gri, dama",
+    "size": "L",
+    "price": "299,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-opus-portocalie-corai-lejera-cu-maneca-lunga-dama-p1260115130628849.html": {
+    "name": "Bluza Opus portocalie lejera cu maneca lunga, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-sport-salomon-gri-lungi-cu-fermoar-dama-p2260403074944267.html": {
-    "name": "Pantaloni Sport Salomon gri, lungi, cu fermoar, dama",
+  "https://lamajole.ro/sacou-crem-c-a-dama.html": {
+    "name": "Sacou crem C&A, dama",
     "size": "L",
-    "price": "199,00 RON",
+    "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-imitatie-piele-cu-talie-inalta-zara-dama.html": {
-    "name": "Pantaloni imitatie piele cu talie inalta Zara, dama",
+  "https://lamajole.ro/cardigan-verde-zara-femei.html": {
+    "name": "Cardigan verde Zara, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tenisi-graceland-cu-talpa-groasa-dama.html": {
-    "name": "Tenisi Graceland  cu talpa groasa, dama",
-    "size": "39",
-    "price": "69,00 RON",
+  "https://lamajole.ro/chilot-h-m-roz-dama.html": {
+    "name": "Chilot H&M roz, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-gerry-weber-roz-cu-siret-croiala-standard-dama-p2260409083434344.html": {
+    "name": "Pantaloni Gerry Weber roz, cu siret, croiala standard, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p4250718141423602-sacou-h-m-dama.html": {
+    "name": "Sacou H&M, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/ghete-zebra-cu-aspect-texturat-dama.html": {
+    "name": "Ghete Zebra cu aspect texturat, dama",
+    "size": "37",
+    "price": "79,00 RON",
     "category": "incaltaminte"
+  },
+  "https://lamajole.ro/camasa-h-m-model-crop-top-cu-buzunar-frontal-dama.html": {
+    "name": "Camasa H&M model crop top cu buzunar frontal, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
   }
 }
