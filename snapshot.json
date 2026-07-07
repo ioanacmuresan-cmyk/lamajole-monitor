@@ -1,104 +1,86 @@
 {
-  "https://lamajole.ro/salopeta-h-m-model-monocromatic-cu-insertii-valurite-dama.html": {
-    "name": "Salopeta H&M model monocromatic cu insertii valurite, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-chicoree-crem-dama.html": {
-    "name": "Vesta Chicoree crem, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-tom-tailor-din-viscoza-ecologica-si-imprimeu-grafic-dama.html": {
-    "name": "Bluza Tom Tailor din viscoza ecologica si imprimeu grafic, dama",
+  "https://lamajole.ro/p6260114104605719-bluza-sport-aycane-dama.html": {
+    "name": "Bluza sport Aycane, dama",
     "size": "L",
     "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sandale-anna-field-roz-cu-barete-evidentiate-din-strasuri-dama.html": {
-    "name": "Sandale Anna Field roz cu barete evidentiate din strasuri, dama",
-    "size": "39",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
+  "https://lamajole.ro/palton-h-m-crem-dama.html": {
+    "name": "Palton H&M crem, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-de-trening-rosch-dama.html": {
-    "name": "Pantaloni de trening Rosch, dama",
+  "https://lamajole.ro/tricou-gerry-weber-albastru-dama.html": {
+    "name": "Tricou Gerry Weber albastru, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/fusta-edited-bej-din-viscoza-dama-p5260417101249549.html": {
+    "name": "Fusta Edited, bej, din viscoza, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-c-a-cu-imprimeu-abstract-dama.html": {
+    "name": "Bluza C&A cu imprimeu abstract, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/p6251006105428517-camasa-alba-windsor-dama.html": {
-    "name": "Camasa alba Windsor, dama",
+  "https://lamajole.ro/tricou-cecil-roz-cu-maneca-scurta-si-guler-rotund-dama-p2260312153618008.html": {
+    "name": "Tricou Cecil roz, cu maneca scurta si guler rotund, dama",
     "size": "L",
-    "price": "159,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-alb-evazati-zara-dama.html": {
-    "name": "Pantaloni alb evazati Zara, dama",
+  "https://lamajole.ro/rochie-de-maternitate-h-m-model-bicromatic-cu-imprimeu-abstract-si-decolteu-rotund-dama.html": {
+    "name": "Rochie de maternitate H&M model bicromatic cu imprimeu abstract si decolteu rotund, dama",
     "size": "L",
-    "price": "79,00 RON",
+    "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantofi-cu-toc-bershka-argintii-din-piele-eco-dama-p7260430154306186.html": {
-    "name": "Pantofi Cu Toc Bershka, argintii, din piele eco, dama",
+  "https://lamajole.ro/ghete-catwalk-din-piele-ecologica-lacuita-dama.html": {
+    "name": "Ghete  Catwalk din piele ecologica lacuita, dama",
     "size": "37",
-    "price": "69,00 RON",
+    "price": "79,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/pantaloni-de-trening-verde-uniqlo-dama.html": {
-    "name": "Pantaloni de trening verde Uniqlo, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p2251028143815073-pulover-opus-roz-dama.html": {
-    "name": "Pulover Opus roz, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-esprit-dama.html": {
-    "name": "Camasa Esprit, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-noua-street-one-dama.html": {
-    "name": "Bluza noua Street One, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-de-trening-cu-talie-ajustabila-dama.html": {
-    "name": "Pantaloni de trening cu talie ajustabila, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-schi-ktec-dama.html": {
-    "name": "Geaca schi KTec, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-only-multicolor-cu-maneca-scurta-si-guler-rotund-dama-p1260327123314297.html": {
-    "name": "Tricou Only multicolor, cu maneca scurta si guler rotund, dama",
+  "https://lamajole.ro/tricou-ca-roz-din-viscoza-dama-p3260304085319459.html": {
+    "name": "Tricou C&A roz, din viscoza, dama",
     "size": "L",
     "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sneakers-nero-giardini-din-piele-intoarsa-dama.html": {
-    "name": "Sneakers Nero Giardini din piele intoarsa, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/bluza-hm-multicolora-din-viscoza-dama-p3260508144215252.html": {
-    "name": "Bluza H&M, multicolora, din viscoza, dama",
+  "https://lamajole.ro/sacou-taifun-elastic-dama.html": {
+    "name": "Sacou Taifun elastic, dama",
     "size": "L",
     "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-multicolora-din-bumbac-dama-p3260423091550297.html": {
+    "name": "Camasa, multicolora, din bumbac, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-icebreaker-monocromatic-si-decolteu-in-forma-de-v-dama.html": {
+    "name": "Tricou Icebreaker monocromatic si decolteu in forma de V, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-armani-din-bumbac-negru-cu-maneca-scurta-dama-p3260302111441467.html": {
+    "name": "Tricou Armani din bumbac negru cu maneca scurta, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-leblingsstuck-dama.html": {
+    "name": "Camasa Leblingsstuck, dama",
+    "size": "L",
+    "price": "89,00 RON",
     "category": "haine"
   }
 }
