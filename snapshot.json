@@ -1,86 +1,50 @@
 {
-  "https://lamajole.ro/bluza-hm-multicolora-din-viscoza-dama-p3260508144215252.html": {
-    "name": "Bluza H&M, multicolora, din viscoza, dama",
+  "https://lamajole.ro/chilot-h-m-roz-dama.html": {
+    "name": "Chilot H&M roz, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-oui-alb-dama.html": {
-    "name": "Tricou Oui alb, dama",
+  "https://lamajole.ro/rochie-tally-weijl-cu-decupaj-la-spate-si-croiala-lejera-dama.html": {
+    "name": "Rochie Tally Weijl cu decupaj la spate si croiala lejera, dama",
     "size": "L",
-    "price": "39,00 RON",
+    "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/rochi-monki-cu-aplicatii-de-paiete-si-decupaj-dama.html": {
-    "name": "Rochi Monki cu aplicatii de paiete si decupaj, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/cardigan-judith-williams-crem-dama.html": {
-    "name": "Cardigan Judith Williams crem, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-rosie-someday-dama.html": {
-    "name": "Bluza rosie Someday, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/cardigan-subtire-albastru-dama.html": {
-    "name": "Cardigan subtire albastru, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-leblingsstuck-dama.html": {
-    "name": "Camasa Leblingsstuck, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-zara-din-piele-ecologica-dama.html": {
-    "name": "Bluza Zara din piele ecologica, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-pepe-jeans-bordo-dama.html": {
-    "name": "Geaca Pepe Jeans bordo, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/maiou-nike-model-semitransparent-cu-bretele-din-elastic-dama.html": {
-    "name": "Maiou Nike model semitransparent cu bretele din elastic, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-closed-din-bumbac-multicolora-cu-maneca-lunga-dama-p1260115130641511.html": {
-    "name": "Bluza Closed din bumbac multicolora cu maneca lunga, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/colanti-puma-multicolori-cu-fermoar-dama-p7251030092636379.html": {
-    "name": "Colanti Puma, multicolori, cu fermoar, dama",
+  "https://lamajole.ro/pantaloni-h-m-model-bicromatic-cu-imprimeu-pepit-dama.html": {
+    "name": "Pantaloni H&M model bicromatic cu imprimeu pepit, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-sport-litchi-dama.html": {
-    "name": "Bluza sport Litchi, dama",
+  "https://lamajole.ro/maiou-cu-terminatii-accentuate-stradivarius-femei.html": {
+    "name": "Maiou cu terminatii accentuate Stradivarius, dama",
     "size": "L",
-    "price": "39,00 RON",
+    "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/jacheta-peak-performance-cu-terminatii-elastice-dama.html": {
-    "name": "Jacheta Peak Performance cu terminatii elastice, dama",
+  "https://lamajole.ro/camasa-maro-marc-o-polo-dama.html": {
+    "name": "Camasa maro Marc O'Polo, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/salopeta-h-m-cu-maneci-pliabile-pense-aplicate-si-buzunare-oblice-dama.html": {
+    "name": "Salopeta H&M cu maneci pliabile, pense aplicate si buzunare oblice, dama",
     "size": "L",
     "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-catifelati-weekday-dama.html": {
+    "name": "Pantaloni catifelati Weekday, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p7251209132936861-bluza-de-trening-odlo-dama.html": {
+    "name": "Bluza de trening Odlo, dama",
+    "size": "L",
+    "price": "129,00 RON",
     "category": "haine"
   }
 }
