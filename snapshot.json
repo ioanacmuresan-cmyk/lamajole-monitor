@@ -1,50 +1,98 @@
 {
-  "https://lamajole.ro/chilot-h-m-roz-dama.html": {
-    "name": "Chilot H&M roz, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-tally-weijl-cu-decupaj-la-spate-si-croiala-lejera-dama.html": {
-    "name": "Rochie Tally Weijl cu decupaj la spate si croiala lejera, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-h-m-model-bicromatic-cu-imprimeu-pepit-dama.html": {
-    "name": "Pantaloni H&M model bicromatic cu imprimeu pepit, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/maiou-cu-terminatii-accentuate-stradivarius-femei.html": {
-    "name": "Maiou cu terminatii accentuate Stradivarius, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-maro-marc-o-polo-dama.html": {
-    "name": "Camasa maro Marc O'Polo, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/salopeta-h-m-cu-maneci-pliabile-pense-aplicate-si-buzunare-oblice-dama.html": {
-    "name": "Salopeta H&M cu maneci pliabile, pense aplicate si buzunare oblice, dama",
+  "https://lamajole.ro/tricou-superdry-nou-cu-imprimeu-supradimensionat-dama.html": {
+    "name": "Tricou SuperDry  nou cu imprimeu supradimensionat, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-catifelati-weekday-dama.html": {
-    "name": "Pantaloni catifelati Weekday, dama",
+  "https://lamajole.ro/pantaloni-esprit-din-piele-ecologica-dama.html": {
+    "name": "Pantaloni Esprit din piele ecologica, dama",
     "size": "L",
-    "price": "129,00 RON",
+    "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/p7251209132936861-bluza-de-trening-odlo-dama.html": {
-    "name": "Bluza de trening Odlo, dama",
+  "https://lamajole.ro/botine-pikolinos-din-piele-naturala-dama.html": {
+    "name": "Botine Pikolinos din piele naturala, dama",
+    "size": "40",
+    "price": "259,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p4250627131208870-tricou-adidas-gri-dama.html": {
+    "name": "Tricou Adidas gri, dama",
     "size": "L",
-    "price": "129,00 RON",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p1251009101224184-pantaloni-de-drumetie-decathlon-dama.html": {
+    "name": "Pantaloni de drumetie Decathlon, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-c-a-cu-maneci-adunate-dama.html": {
+    "name": "Bluza C&A cu maneci adunate, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/vesta-comma-texturata-dama.html": {
+    "name": "Vesta Comma texturata, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-nike-cu-plasa-perforata-pe-laterale-dama.html": {
+    "name": "Pantaloni scurti Nike cu plasa perforata pe laterale, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sneakers-reebok-gri-cu-siret-dama-p3260323082858429.html": {
+    "name": "Sneakers Reebok gri, cu siret, dama",
+    "size": "39",
+    "price": "159,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/palton-c-a-dama.html": {
+    "name": "Palton C&A, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sandale-ecco-roz-din-piele-naturala-dama-p1260629133013091.html": {
+    "name": "Sandale Ecco, roz, din piele naturala, dama",
+    "size": "37",
+    "price": "259,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-hemisphere-din-matase-dama.html": {
+    "name": "Bluza Hemisphere din matase, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-maro-vero-moda-dama.html": {
+    "name": "Pulover maro Vero Moda, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-ca-negru-din-bumbac-dama-p7260326083557341.html": {
+    "name": "Tricou C&A, negru, din bumbac, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-casttelli-albastru-dama.html": {
+    "name": "Tricou Casttelli albastru , dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-street-one-roz-cu-decolteu-in-v-dama.html": {
+    "name": "Bluza Street One roz cu decolteu in V, dama",
+    "size": "L",
+    "price": "59,00 RON",
     "category": "haine"
   }
 }
