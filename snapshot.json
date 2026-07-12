@@ -1,68 +1,68 @@
 {
-  "https://lamajole.ro/bluza-icebreaker-cu-inchidere-nasturi-dama.html": {
-    "name": "Bluza Icebreaker cu inchidere nasturi, dama",
-    "size": "L",
+  "https://lamajole.ro/sneakers-puma-basket-dama.html": {
+    "name": "Sneakers Puma Basket, dama",
+    "size": "39",
     "price": "159,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-mango-mov-din-viscoza-dama-p3260423091721295.html": {
+    "name": "Bluza Mango, mov, din viscoza, dama",
+    "size": "L",
+    "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/hanorac-adidas-crop-cu-dungi-evidentiate-dama.html": {
-    "name": "Hanorac Adidas crop  cu dungi evidentiate, dama",
+  "https://lamajole.ro/pantaloni-clockhouse-wide-leg-dama.html": {
+    "name": "Pantaloni Clockhouse Wide Leg, dama",
     "size": "L",
-    "price": "159,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/fusta-opus-cu-talie-elastica-si-imprimeu-piele-de-sarpe-dama.html": {
-    "name": "Fusta Opus cu talie elastica si imprimeu piele de sarpe, dama",
+  "https://lamajole.ro/slapi-havaianas-roz-dama-p2260624075438963.html": {
+    "name": "Slapi Havaianas roz, dama",
+    "size": "37",
+    "price": "39,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-soliver-multicolora-din-viscoza-dama-p3260604114331427.html": {
+    "name": "Bluza S.Oliver, multicolora, din viscoza, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-de-trening-mascot-dama.html": {
+    "name": "Bluza de trening Mascot, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluyza-s-oliver-albastra-dama.html": {
-    "name": "Bluyza S.Oliver albastra, dama",
+  "https://lamajole.ro/bluza-opus-portocalie-corai-lejera-cu-maneca-lunga-dama-p1260115130628849.html": {
+    "name": "Bluza Opus portocalie lejera cu maneca lunga, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/cardigan-cecil-cu-dungi-dama.html": {
-    "name": "Cardigan Cecil cu dungi, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-zara-galbena-din-bumbac-dama-p7260511151400402.html": {
-    "name": "Bluza Zara, galbena, din bumbac, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantofi-graceland-maro-dama.html": {
-    "name": "Pantofi Graceland maro, dama",
-    "size": "39",
-    "price": "69,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/p6250808091354331-pantaloni-h-m-maro-dama.html": {
-    "name": "Pantaloni H&M maro, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-salomon-din-bumbac-dama.html": {
-    "name": "Tricou Salomon din bumbac, dama",
+  "https://lamajole.ro/rochie-hm-crem-dama-p6260311111000246.html": {
+    "name": "Rochie H&M, crem, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/fusta-vila-maro-dama.html": {
-    "name": "Fusta Vila maro, dama",
+  "https://lamajole.ro/tricou-cartoon-model-cu-croiala-lejera-si-imprimeu-grafic-cu-strasuri-aplicate-dama.html": {
+    "name": "Tricou Cartoon model cu croiala lejera si imprimeu grafic cu strasuri aplicate, dama",
     "size": "L",
-    "price": "39,00 RON",
+    "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/camasa-h-m-model-crop-top-cu-buzunar-frontal-dama.html": {
-    "name": "Camasa H&M model crop top cu buzunar frontal, dama",
+  "https://lamajole.ro/camasa-someday-gri-dama.html": {
+    "name": "Camasa Someday gri, dama",
     "size": "L",
-    "price": "39,00 RON",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-part-two-multicolora-cu-imprimeu-floral-si-maneca-scurta-dama-p7260527113528181.html": {
+    "name": "Bluza Part Two, multicolora, cu imprimeu floral si maneca scurta, dama",
+    "size": "L",
+    "price": "79,00 RON",
     "category": "haine"
   }
 }
