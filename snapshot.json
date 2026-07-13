@@ -1,74 +1,98 @@
 {
-  "https://lamajole.ro/sacou-marc-cain-albastru-dama.html": {
-    "name": "Sacou Marc Cain albastru, dama",
+  "https://lamajole.ro/tricou-nike-running-negru-dama.html": {
+    "name": "Tricou Nike running negru, dama",
     "size": "L",
-    "price": "259,00 RON",
+    "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-adidas-model-cu-imprimeu-logo-si-croiala-dreapta-dama.html": {
-    "name": "Tricou Adidas model cu imprimeu logo si croiala dreapta, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-xacus-donna-alba-dama.html": {
-    "name": "Camasa Xacus Donna alba, dama",
+  "https://lamajole.ro/camasa-marc-o-polo-gri-dama.html": {
+    "name": "Camasa Marc O'Polo gri, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-brand-necunoscut-mov-din-viscoza-dama-p3260319091333589.html": {
-    "name": "Pantaloni mov, din viscoza, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-zara-galbena-din-bumbac-dama-p7260511151400402.html": {
-    "name": "Bluza Zara, galbena, din bumbac, dama",
+  "https://lamajole.ro/colanti-puma-gri-cu-imprimeu-camuflaj-si-logo-dama-p5260113092939485.html": {
+    "name": "Colanti Puma gri, cu imprimeu camuflaj si logo, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-lieblingsstck-dama.html": {
-    "name": "Bluza Lieblingsstck, dama",
+  "https://lamajole.ro/tricou-icebreaker-monocromatic-si-decolteu-in-forma-de-v-dama.html": {
+    "name": "Tricou Icebreaker monocromatic si decolteu in forma de V, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/ghete-negre-esprit-dama.html": {
+    "name": "Ghete negre Esprit, dama",
+    "size": "37",
+    "price": "89,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/fusta-aniston-maro-cu-dungi-plisata-lunga-dama-p6260312115659768.html": {
+    "name": "Fusta Aniston maro, cu dungi, plisata, lunga, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/costum-de-baie-hunkemoller-cu-aplicatii-metalice-si-bretele-subtiri-dama.html": {
+    "name": "Costum de baie Hunkemoller cu aplicatii metalice si bretele subtiri, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/rochie-jake-s-model-sidefat-dama.html": {
-    "name": "Rochie Jake's model sidefat, dama",
+  "https://lamajole.ro/ghete-negre-dama.html": {
+    "name": "Ghete negre, dama",
+    "size": "37",
+    "price": "89,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/top-tommy-hilfiger-cu-terminatii-elastice-in-culori-specifice-dama.html": {
+    "name": "Top Tommy Hilfiger cu terminatii elastice in culori specifice, dama",
     "size": "L",
     "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sacou-gerry-weber-multicolor-cu-dungi-dama-p7260402114258953.html": {
-    "name": "Sacou Gerry Weber, multicolor, cu dungi, dama",
+  "https://lamajole.ro/bluza-gerry-weber-albastra-din-viscoza-dama-p7260415143511067.html": {
+    "name": "Bluza Gerry Weber, albastra, din viscoza, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-noua-stradivarius-dama.html": {
+    "name": "Jacheta noua Stradivarius, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-h-m-bej-dama.html": {
+    "name": "Cardigan H&M bej, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/vesta-united-colors-of-beneton-cu-imprimeu-camuflaj-dama.html": {
+    "name": "Vesta United Colors Of Benetton cu imprimeu camuflaj, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/geaca-crem-zara-dama.html": {
+    "name": "Geaca crem Zara, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-gerry-weber-cu-dungi-albastre-dama.html": {
-    "name": "Bluza Gerry Weber cu dungi albastre, dama",
+  "https://lamajole.ro/geaca-collectif-mon-amour-gri-dama.html": {
+    "name": "Geaca Collectif mon Amour gri, dama",
+    "size": "L",
+    "price": "359,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-comma-negru-din-bumbac-dama-p3260323120433954.html": {
+    "name": "Tricou Comma, negru, din bumbac, dama",
     "size": "L",
     "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p6250918154329731-sneakers-adidas-superstar-dama.html": {
-    "name": "Sneakers Adidas Superstar, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pantofi-sport-nike-negri-cu-siret-talpa-plata-dama-p1260319103018163.html": {
-    "name": "Pantofi Sport Nike, negri, cu siret, talpa plata, dama",
-    "size": "39",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pantaloni-s-oliver-cu-dungi-laterale-dama.html": {
-    "name": "Pantaloni S.Oliver cu dungi laterale, dama",
-    "size": "L",
-    "price": "129,00 RON",
     "category": "haine"
   }
 }
