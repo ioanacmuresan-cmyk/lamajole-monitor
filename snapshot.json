@@ -1,86 +1,74 @@
 {
-  "https://lamajole.ro/pulover-c-a-dama.html": {
-    "name": "Pulover C&A, dama",
+  "https://lamajole.ro/fusta-h-m-din-in-cu-pense-in-talie-si-cordon-atasat-dama.html": {
+    "name": "Fusta H&M din in cu pense in talie si cordon atasat, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-lejeri-cu-buzunare-zara-dama.html": {
-    "name": "Pantaloni lejeri cu buzunare Zara, dama",
+  "https://lamajole.ro/camasa-pom-amsterdam-dama.html": {
+    "name": "Camasa POM Amsterdam, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sneakers-jack-wolfskin-model-din-piele-naturala-si-material-textil-unisex.html": {
-    "name": "Sneakers Jack Wolfskin model din piele naturala si material textil, unisex",
-    "size": "39",
-    "price": "259,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/ghete-tamaris-model-monocromatic-cu-talpa-groasa-dama.html": {
-    "name": "Botine Tamaris, dama",
-    "size": "39",
+  "https://lamajole.ro/ghete-ladysko-imblanite-dama.html": {
+    "name": "Ghete Ladysko imblanite, dama",
+    "size": "37",
     "price": "159,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/slapi-roz-havaianas-dama.html": {
-    "name": "Slapi roz Havaianas, dama",
-    "size": "37",
-    "price": "69,00 RON",
+  "https://lamajole.ro/fusta-marc-cain-noua-cu-talie-elastica-dama.html": {
+    "name": "Fusta Marc Cain noua cu talie elastica, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantofi-gabor-model-monocromatic-din-piele-ecologica-dama.html": {
+    "name": "Sneakers Gabor model monocromatic din piele ecologica, dama",
+    "size": "39",
+    "price": "199,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/bluza-even-odd-cu-decolteu-in-v-dama.html": {
-    "name": "Bluza Even & Odd cu decolteu in V, dama",
+  "https://lamajole.ro/chiloti-de-baie-hm-rosii-dama-p7260520130334317.html": {
+    "name": "Chiloti De Baie H&M, rosii, dama",
     "size": "L",
     "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/camasa-hm-din-bumbac-alba-oversize-cu-guler-clasic-dama-p2260115083040883.html": {
-    "name": "Camasa H&M din bumbac alba oversize cu guler clasic, dama",
+  "https://lamajole.ro/rochie-maxi-zara-multicolora-din-viscoza-dama-p1260323144429941.html": {
+    "name": "Rochie Maxi Zara, multicolora, din viscoza, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/rochie-ca-albastra-plisata-cu-bretele-dama-p6260508105936249.html": {
-    "name": "Rochie C&A, albastra, plisata, cu bretele, dama",
+  "https://lamajole.ro/rochie-shift-dress-yessica-dama.html": {
+    "name": "Rochie shift dress Yessica, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/ghete-catwalk-model-din-piele-ecologica-dama.html": {
+    "name": "Ghete Catwalk model din piele ecologica, dama",
+    "size": "37",
+    "price": "79,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-street-one-verde-cu-maneca-lunga-si-nasturi-dama-p6260223155610345.html": {
+    "name": "Bluza Street One verde, cu maneca lunga si nasturi, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/hanorac-fila-model-cu-logo-aplicat-si-gluga-fixa-dama.html": {
+    "name": "Hanorac Fila model cu logo aplicat si gluga fixa, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/colanti-cu-imprimeu-abstract-h-m-dama.html": {
-    "name": "Colanti cu imprimeu abstract H&M, dama",
+  "https://lamajole.ro/camasa-paul-kehl-cu-maneca-reglabila-si-buzunare-laterale-dama.html": {
+    "name": "Camasa Paul Kehl cu maneca reglabila si buzunare laterale, dama",
     "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-kjus-dama.html": {
-    "name": "Vesta KJus, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/cardigan-kaffe-verde-dama.html": {
-    "name": "Cardigan Kaffe verde, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/ghete-bench-cu-aspect-lucios-si-interior-imblanit-dama.html": {
-    "name": "Ghete Bench cu aspect lucios si interior imblanit, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/slapi-bench-dama.html": {
-    "name": "Slapi Bench., dama",
-    "size": "39",
-    "price": "49,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/camasa-c-a-noua-dama.html": {
-    "name": "Camasa C&A noua, dama",
-    "size": "L",
-    "price": "59,00 RON",
+    "price": "89,00 RON",
     "category": "haine"
   }
 }
