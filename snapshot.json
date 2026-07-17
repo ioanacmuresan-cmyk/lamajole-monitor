@@ -1,68 +1,92 @@
 {
-  "https://lamajole.ro/pantaloni-scurti-adidas-negri-cu-dungi-si-logo-dama-p7260331112119535.html": {
-    "name": "Pantaloni Scurti Adidas, negri, cu dungi si logo, dama",
+  "https://lamajole.ro/ghete-esprit-imblanite-dama.html": {
+    "name": "Ghete Esprit imblanite, dama",
+    "size": "37",
+    "price": "129,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-h-m-model-brodat-si-maneci-evazate-dama.html": {
+    "name": "Bluza H&M model brodat si maneci evazate , dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-street-one-verde-cu-maneca-lunga-si-nasturi-dama-p6260223155610345.html": {
+    "name": "Bluza Street One verde, cu maneca lunga si nasturi, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sandale-brunate-multicolore-din-piele-naturala-dama-p1260629133024254.html": {
+    "name": "Sandale Brunate, multicolore, din piele naturala, dama",
+    "size": "39",
+    "price": "199,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/p1260302074153408-pantofi-cu-toc-catwalk-dama.html": {
+    "name": "Pantofi cu toc Catwalk, dama",
+    "size": "39",
+    "price": "79,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/colanti-oceans-apart-3-4-dama.html": {
+    "name": "Colanti OCEANS APART 3/4, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/trenci-h-m-cu-talie-elastica-dama.html": {
+    "name": "Trenci H&M cu talie elastica, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-h-m-model-capri-cu-talie-inalta-dama.html": {
+    "name": "Pantaloni H&M model capri cu talie inalta, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-argintie-h-m-dama.html": {
+    "name": "Bluza argintie H&M, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-mrs-hugs-alba-din-in-dama-p7260521075403725.html": {
+    "name": "Camasa, MRS & Hugs alba, din in, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/colanti-h-m-albastri-dama.html": {
-    "name": "Colanti H&M albastri, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/slapi-de-casa-isotoner-albi-dama.html": {
-    "name": "Slapi de casa Isotoner albi, dama",
-    "size": "39",
-    "price": "59,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/rochie-c-a-tip-camasa-dama.html": {
-    "name": "Rochie C&A tip camasa,dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sandale-zara-bej-cu-talpa-plata-dama-p2260624075454029.html": {
-    "name": "Sandale Zara, bej, cu talpa plata, dama",
-    "size": "37",
-    "price": "59,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/camasa-opus-alba-din-bumbac-dama-p5260403104652828.html": {
-    "name": "Camasa Opus, alba, din bumbac, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sandale-zara-bej-cu-bretele-animal-print-toc-inalt-dama-p3260618143433574.html": {
-    "name": "Sandale Zara, bej, cu bretele, animal print, toc inalt, dama",
-    "size": "37",
-    "price": "69,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sneakers-nero-giardini-din-piele-intoarsa-dama.html": {
-    "name": "Sneakers Nero Giardini din piele intoarsa, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/bluza-mng-suit-dama.html": {
-    "name": "Bluza Mango Suit, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sandale-only-albe-cu-toc-patrat-dama.html": {
-    "name": "Sandale Only albe cu toc patrat, dama",
-    "size": "37",
-    "price": "89,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/colanti-shaping-by-h-m-sport-dama.html": {
-    "name": "Colanti Shaping by H&M Sport, dama",
+  "https://lamajole.ro/tricou-only-dama-p3250630102813728.html": {
+    "name": "Tricou Only, dama",
     "size": "L",
     "price": "39,00 RON",
     "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-crem-c-a-dama.html": {
+    "name": "Pantaloni crem C&A, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-street-one-verde-din-bumbac-dama-p4260518132736447.html": {
+    "name": "Tricou Street One, verde, din bumbac, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-bonita-multicolor-cu-imprimeu-animal-print-dama-p1260327122935137.html": {
+    "name": "Tricou Bonita, multicolor, cu imprimeu animal print, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sneakers-reebok-model-rosu-dama.html": {
+    "name": "Sneakers Reebok model rosu, dama",
+    "size": "37",
+    "price": "129,00 RON",
+    "category": "incaltaminte"
   }
 }
