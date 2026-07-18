@@ -1,62 +1,86 @@
 {
-  "https://lamajole.ro/rochie-h-m-model-rosu-dama.html": {
-    "name": "Rochie H&M  model rosu, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-soliver-multicolora-din-viscoza-dama-p7260415143510727.html": {
-    "name": "Bluza S.Oliver, multicolora, din viscoza, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/fusta-dolcegabbana-multicolora-cu-imprimeu-floral-dama-p7260320133830127.html": {
-    "name": "Fusta Dolce&Gabbana, multicolora, cu imprimeu floral, dama",
-    "size": "L",
-    "price": "299,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-cartoon-alb-cu-imprimeu-cu-maneca-scurta-dama-p4260518132714528.html": {
-    "name": "Tricou Cartoon alb, cu imprimeu, cu maneca scurta, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-zara-cu-buzunare-laterale-dama.html": {
-    "name": "Pantaloni Zara cu buzunare laterale, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantofi-cu-toc-graceland-dama.html": {
-    "name": "Pantofi cu toc Graceland, dama",
-    "size": "37",
-    "price": "59,00 RON",
+  "https://lamajole.ro/sneakers-nike-running-gri-dama.html": {
+    "name": "Sneakers Nike Running gri, dama",
+    "size": "39",
+    "price": "199,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/tricou-nike-model-monocromatic-dri-fit-dama.html": {
-    "name": "Tricou Nike model monocromatic Dri-Fit, dama",
+  "https://lamajole.ro/tricou-comma-negru-din-bumbac-dama-p3260323120433954.html": {
+    "name": "Tricou Comma, negru, din bumbac, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/hanorac-review-dama.html": {
+    "name": "Hanorac Review, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/geaca-schi-icepeak-cu-imprimeu-logo-dama.html": {
+    "name": "Geaca schi Icepeak cu imprimeu logo, dama",
+    "size": "L",
+    "price": "259,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-esprit-din-piele-ecologica-dama.html": {
+    "name": "Pantaloni Esprit din piele ecologica, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-tom-tailor-multicolora-din-viscoza-dama-p3260604114331936.html": {
-    "name": "Bluza Tom Tailor, multicolora, din viscoza, dama",
+  "https://lamajole.ro/bluza-cecil-cu-terminatie-elastica-dama.html": {
+    "name": "Bluza Cecil cu terminatie elastica, dama",
     "size": "L",
-    "price": "29,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-cos-gri-dama.html": {
-    "name": "Bluza COS gri,dama",
+  "https://lamajole.ro/jacheta-h-m-dama.html": {
+    "name": "Jacheta H&M, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sneakers-united-colors-of-benetton-cu-siret-multicolor-dama.html": {
+    "name": "Sneakers United Colors of Benetton cu siret multicolor, dama",
+    "size": "39",
+    "price": "199,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/p2260220112802789-sacou-albastru-zara-dama.html": {
+    "name": "Sacou albastru Zara, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/jacheta-outdoor-by-betty-barclay-dama.html": {
-    "name": "Jacheta Outdoor by BETTY BARCLAY, dama",
+  "https://lamajole.ro/colanti-h-m-mov-dama.html": {
+    "name": "Colanti H&M mov, dama",
     "size": "L",
-    "price": "199,00 RON",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-united-colors-of-benetton-galben-din-lyocell-si-bumbac-dama-p1260316115943684.html": {
+    "name": "Tricou United Colors Of Benetton, galben, din lyocell si bumbac, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/hanorac-sport-mckinley-dama.html": {
+    "name": "Hanorac sport McKinley, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantofi-next-din-piele-ecologica-dama.html": {
+    "name": "Pantofi Next din piele ecologica, dama",
+    "size": "39",
+    "price": "79,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/rochie-ca-albastra-plisata-cu-bretele-dama-p6260508105936249.html": {
+    "name": "Rochie C&A, albastra, plisata, cu bretele, dama",
+    "size": "L",
+    "price": "89,00 RON",
     "category": "haine"
   }
 }
