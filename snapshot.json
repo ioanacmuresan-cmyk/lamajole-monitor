@@ -1,86 +1,62 @@
 {
-  "https://lamajole.ro/pantaloni-scurti-zebra-bej-din-bumbac-dama-p1260424095902019.html": {
-    "name": "Pantaloni Scurti Zebra, bej, din bumbac, dama",
+  "https://lamajole.ro/rochie-h-m-model-rosu-dama.html": {
+    "name": "Rochie H&M  model rosu, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-soliver-multicolora-din-viscoza-dama-p7260415143510727.html": {
+    "name": "Bluza S.Oliver, multicolora, din viscoza, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/fusta-dolcegabbana-multicolora-cu-imprimeu-floral-dama-p7260320133830127.html": {
+    "name": "Fusta Dolce&Gabbana, multicolora, cu imprimeu floral, dama",
+    "size": "L",
+    "price": "299,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-cartoon-alb-cu-imprimeu-cu-maneca-scurta-dama-p4260518132714528.html": {
+    "name": "Tricou Cartoon alb, cu imprimeu, cu maneca scurta, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-zara-cu-buzunare-laterale-dama.html": {
+    "name": "Pantaloni Zara cu buzunare laterale, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantofi-cu-toc-graceland-dama.html": {
+    "name": "Pantofi cu toc Graceland, dama",
+    "size": "37",
+    "price": "59,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/tricou-nike-model-monocromatic-dri-fit-dama.html": {
+    "name": "Tricou Nike model monocromatic Dri-Fit, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-tom-tailor-multicolora-din-viscoza-dama-p3260604114331936.html": {
+    "name": "Bluza Tom Tailor, multicolora, din viscoza, dama",
     "size": "L",
     "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-tom-tailor-imprimeu-in-dungi-si-snur-in-talie-dama.html": {
-    "name": "Pantaloni scurti Tom Tailor imprimeu in dungi si snur in talie, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-streetone-dama.html": {
-    "name": "Pulover StreetOne, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p2250818121837479-camasa-zara-dama.html": {
-    "name": "Camasa Zara, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sacou-in-carouri-frank-walder-dama.html": {
-    "name": "Sacou in carouri Frank Walder, dama",
+  "https://lamajole.ro/bluza-cos-gri-dama.html": {
+    "name": "Bluza COS gri,dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sandale-tamaris-din-piele-ecologica-si-toc-gros-dama.html": {
-    "name": "Sandale Tamaris din piele ecologica si toc gros, dama",
-    "size": "37",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sandale-catwalk-negre-cu-bretele-cu-talpa-plata-dama-p3260618143750961.html": {
-    "name": "Sandale Catwalk negre, cu bretele, cu talpa plata, dama",
-    "size": "37",
-    "price": "39,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/vesta-gri-chicoree-dama.html": {
-    "name": "Vesta gri Chicoree, dama",
+  "https://lamajole.ro/jacheta-outdoor-by-betty-barclay-dama.html": {
+    "name": "Jacheta Outdoor by BETTY BARCLAY, dama",
     "size": "L",
-    "price": "79,00 RON",
+    "price": "199,00 RON",
     "category": "haine"
-  },
-  "https://lamajole.ro/tricou-gore-multicolor-cu-guler-inalt-si-fermoar-dama-p7260320082657035.html": {
-    "name": "Tricou Gore, multicolor, cu guler inalt si fermoar, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sandale-tamaris-cu-barete-incrucisate-din-strasuri-dama.html": {
-    "name": "Sandale Tamaris cu barete incrucisate din strasuri, dama",
-    "size": "37",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/vesta-kjus-dama.html": {
-    "name": "Vesta KJus, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sandale-hm-roz-cu-talpa-plata-dama-p4260507082302011.html": {
-    "name": "Sandale H&M roz, cu talpa plata, dama",
-    "size": "37",
-    "price": "39,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/camasa-united-colors-of-benetton-multicolora-din-bumbac-dama-p1260416101113685.html": {
-    "name": "Camasa United Colors Of Benetton, multicolora, din bumbac, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sandale-havaianas-roz-cu-bretele-si-talpa-plata-dama-p2260602091209099.html": {
-    "name": "Sandale Havaianas roz, cu bretele si talpa plata, dama",
-    "size": "37",
-    "price": "69,00 RON",
-    "category": "incaltaminte"
   }
 }
