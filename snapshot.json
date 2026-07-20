@@ -1,62 +1,74 @@
 {
-  "https://lamajole.ro/bluza-rabe-model-cu-insertii-perforate-si-aspect-texturat-dama.html": {
-    "name": "Jacheta Rabe model cu insertii perforate si aspect texturat, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p5250728141423006-pantaloni-h-m-bej-dama.html": {
-    "name": "Pantaloni H&M bej, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-desigual-cu-imprimeu-brodat-dama.html": {
-    "name": "Geaca Desigual cu imprimeu brodat, dama",
-    "size": "L",
-    "price": "259,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/ghete-clarks-dama.html": {
-    "name": "Ghete Clarks, dama",
+  "https://lamajole.ro/p6250915114004583-sneakers-puma-suede-dama.html": {
+    "name": "Sneakers Puma Suede, dama",
     "size": "37",
-    "price": "199,00 RON",
+    "price": "129,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/p2250911144454915-camasa-maro-marc-o-polo-dama.html": {
-    "name": "Camasa maro Marc O'Polo, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-de-trening-verde-uniqlo-dama.html": {
-    "name": "Pantaloni de trening verde Uniqlo, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/fusta-raffaello-rossi-dama.html": {
-    "name": "Fusta Raffaello Rossi, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-gerry-weber-cu-dungi-dama.html": {
-    "name": "Bluza Gerry Weber cu dungi, dama",
+  "https://lamajole.ro/cardigan-only-model-lejer-dama.html": {
+    "name": "Cardigan Only model lejer, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/rochie-roz-s-oliver-dama.html": {
-    "name": "Rochie roz s.Oliver, dama",
+  "https://lamajole.ro/saboti-zara-cu-dungi-si-talpa-plata-dama-p7260409133444057.html": {
+    "name": "Saboti Zara, cu dungi si talpa plata, dama",
+    "size": "39",
+    "price": "79,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/p2250820150025291-pantaloni-c-a-negri-dama.html": {
+    "name": "Pantaloni C&A negri, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-icebreaker-monocromatic-si-decolteu-in-forma-de-v-dama.html": {
+    "name": "Tricou Icebreaker monocromatic si decolteu in forma de V, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantofi-tamaris-din-piele-naturala-dama.html": {
+    "name": "Pantofi Tamaris din piele naturala, dama",
+    "size": "37",
+    "price": "129,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/geaca-mustang-model-mastlasat-dama.html": {
+    "name": "Geaca Mustang model mastlasat, dama",
     "size": "L",
     "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pulover-subtire-mango-dama.html": {
-    "name": "Pulover subtire Mango, dama",
+  "https://lamajole.ro/tricou-cecil-roc-si-croiala-lejera-dama.html": {
+    "name": "Tricou Cecil roc si croiala lejera, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-zara-model-bicromatic-cu-imprimeu-abstract-dama.html": {
+    "name": "Camasa Zara model bicromatic cu imprimeu abstract, dama",
     "size": "L",
     "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p6250923083541082-hanorac-nike-gri-dama.html": {
+    "name": "Hanorac Nike gri, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/polar-mckinley-model-flausat-cu-aspect-cambrat-dama.html": {
+    "name": "Polar McKinley model flausat cu aspect cambrat, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-primark-cu-croiala-ampla-si-insertie-de-pense-dama.html": {
+    "name": "Pantaloni Primark cu croiala ampla si insertie de pense, dama",
+    "size": "L",
+    "price": "49,00 RON",
     "category": "haine"
   },
   "https://lamajole.ro/sneakers-na-kd-dama.html": {
@@ -65,40 +77,28 @@
     "price": "79,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/vesta-de-blana-monari-bej-dama.html": {
-    "name": "Vesta de blana Monari bej, dama",
+  "https://lamajole.ro/rochie-yessica-crem-cu-decolteu-in-v-si-cordon-dama-p4260420100946020.html": {
+    "name": "Rochie Yessica crem, cu decolteu in V si cordon, dama",
     "size": "L",
-    "price": "89,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-taifun-cu-imprimeu-dama.html": {
-    "name": "Bluza Taifun cu imprimeu, dama",
+  "https://lamajole.ro/camasa-tom-tailor-bej-din-in-dama-p2260511133141099.html": {
+    "name": "Camasa Tom Tailor, bej, din in, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/cardigan-judith-williams-rosu-dama.html": {
-    "name": "Cardigan Judith Williams rosu, dama",
+  "https://lamajole.ro/fusta-taifun-elastica-dama.html": {
+    "name": "Fusta Taifun elastica, dama",
     "size": "L",
-    "price": "59,00 RON",
+    "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/costum-de-baie-h-m-model-cu-curea-decorativa-in-talie-dama.html": {
-    "name": "Costum de baie H&M model cu curea decorativa in talie, dama",
+  "https://lamajole.ro/pulover-nou-h-m-cu-model-texturat-si-insertie-de-volane-dama.html": {
+    "name": "Pulover nou H&M cu model texturat si insertie de volane, dama",
     "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-maneca-lunga-cu-volane-decorative-united-colors-of-benetton-dama.html": {
-    "name": "Bluza maneca lunga cu volane decorative United Colors of Benetton, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/hanorac-puma-mov-dama.html": {
-    "name": "Hanorac Puma mov, dama",
-    "size": "L",
-    "price": "129,00 RON",
+    "price": "39,00 RON",
     "category": "haine"
   }
 }
