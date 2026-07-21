@@ -1,86 +1,80 @@
 {
-  "https://lamajole.ro/camasa-street-one-cu-guler-tip-tunica-dama.html": {
-    "name": "Camasa Street One cu guler tip tunica, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-manor-albi-din-in-si-bumbac-dama-p2260520075635213.html": {
-    "name": "Pantaloni Scurti Manor, albi, din in si bumbac, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/ghete-paul-green-dama.html": {
-    "name": "Ghete Paul Green, dama",
-    "size": "39",
-    "price": "89,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/tricou-brax-cu-segment-satinat-si-decolteu-tip-barca-dama.html": {
-    "name": "Tricou Brax cu segment satinat si decolteu tip barca, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-h-m-model-pentru-maternitate-dama.html": {
-    "name": "Pantaloni scurti H&M model pentru maternitate, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p3250828102042242-sneakers-adidas-dama.html": {
-    "name": "Sneakers Adidas, dama",
-    "size": "37",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sandale-crem-catwalk-dama.html": {
-    "name": "Sandale crem Catwalk, dama",
-    "size": "37",
-    "price": "59,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pantaloni-de-trening-unifit-dama.html": {
-    "name": "Pantaloni de trening Unifit, dama",
+  "https://lamajole.ro/tricou-ca-negru-din-bumbac-dama-p5260318153924155.html": {
+    "name": "Tricou C&A, negru, din bumbac, dama",
     "size": "L",
     "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-levis-alba-din-bumbac-dama-p6260527145459490.html": {
-    "name": "Bluza Levi's, alba, din bumbac, dama",
+  "https://lamajole.ro/trenci-chicoree-crem-dama.html": {
+    "name": "Trenci Chicoree crem, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-esprit-din-piele-ecologica-dama.html": {
-    "name": "Pantaloni Esprit din piele ecologica, dama",
+  "https://lamajole.ro/geaca-c-a-mov-sidefat-dama.html": {
+    "name": "Geaca C&A mov sidefat, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-cu-imprimeu-floral-zara-dama.html": {
+    "name": "Cardigan cu imprimeu floral Zara, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/ghete-marc-cain-gri-dama.html": {
+    "name": "Ghete Marc Cain gri, dama",
+    "size": "39",
+    "price": "359,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-tom-tailor-din-viscoza-ecologica-si-imprimeu-grafic-dama.html": {
+    "name": "Bluza Tom Tailor din viscoza ecologica si imprimeu grafic, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-piele-ecologica-c-a-femei.html": {
+    "name": "Pantaloni piele ecologica C&A, femei",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-gap-verzi-dama.html": {
-    "name": "Pantaloni Gap verzi, dama",
+  "https://lamajole.ro/tenisi-bench-dama.html": {
+    "name": "Tenisi Bench., dama",
+    "size": "39",
+    "price": "79,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-amisu-model-catifelat-dama.html": {
+    "name": "Bluza Amisu model catifelat, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "29,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/camasa-zara-crop-top-cu-imprimeu-brodat-dama.html": {
-    "name": "Camasa Zara crop top cu imprimeu brodat, dama",
+  "https://lamajole.ro/tricou-street-one-multicolor-cu-maneca-scurta-animal-print-dama-p3260410113911959.html": {
+    "name": "Tricou Street One multicolor, cu maneca scurta, animal print, dama",
     "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-weekend-by-maxmara-dama.html": {
+    "name": "Pantaloni Weekend by MaxMara, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/ghete-vero-moda-dama.html": {
+    "name": "Ghete Vero Moda, dama",
+    "size": "37",
     "price": "89,00 RON",
-    "category": "haine"
+    "category": "incaltaminte"
   },
-  "https://lamajole.ro/bluza-laurel-din-viscoza-crem-cu-maneca-lunga-dama-p3260115143234035.html": {
-    "name": "Bluza Laurel din viscoza crem cu maneca lunga, dama",
+  "https://lamajole.ro/camasa-esprit-dama.html": {
+    "name": "Camasa Esprit, dama",
     "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-lejera-street-one-dama.html": {
-    "name": "Rochie lejera Street One, dama",
-    "size": "L",
-    "price": "129,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   }
 }
