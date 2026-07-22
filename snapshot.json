@@ -1,68 +1,86 @@
 {
-  "https://lamajole.ro/p1250910114153859-sneakers-asics-dama.html": {
-    "name": "Sneakers Asics, dama",
-    "size": "37",
-    "price": "259,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pantaloni-street-one-albi-dama.html": {
-    "name": "Pantaloni Street One albi, dama",
+  "https://lamajole.ro/bluza-gerry-weber-albastra-din-viscoza-dama-p7260415143511067.html": {
+    "name": "Bluza Gerry Weber, albastra, din viscoza, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-calida-roz-din-bumbac-dama-p2260312153427231.html": {
-    "name": "Tricou Calida, roz, din bumbac, dama",
+  "https://lamajole.ro/bluza-est-manomama-cu-maneci-liliac-si-decolteu-barca-dama.html": {
+    "name": "Bluza Est Manomama cu maneci liliac si decolteu barca, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tenisi-paul-green-dama.html": {
+    "name": "Tenisi Paul Green, dama",
+    "size": "39",
+    "price": "259,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-cu-maneca-lunganile-dama.html": {
+    "name": "Bluza cu maneca lunga Nile, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/geaca-s-oliver-gri-dama.html": {
-    "name": "Geaca  S.Oliver gri, dama",
+  "https://lamajole.ro/camasa-alba-sophie-din-in-dama-p7260521075347571.html": {
+    "name": "Camasa, alba, Sophie din in, dama",
     "size": "L",
-    "price": "259,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/ghete-tamaris-gri-din-piele-intoarsa-dama.html": {
-    "name": "Ghete Tamaris gri din piele intoarsa, dama",
-    "size": "39",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sandale-tamaris-albastre-dama.html": {
-    "name": "Sandale Tamaris albastre, dama",
-    "size": "39",
     "price": "89,00 RON",
-    "category": "incaltaminte"
+    "category": "haine"
   },
-  "https://lamajole.ro/jacheta-schoffel-albastra-cu-gluga-dama-p6260319112854736.html": {
-    "name": "Jacheta Schoffel, albastra, cu gluga, dama",
+  "https://lamajole.ro/fusta-opus-multicolora-cu-cordon-dama-p5260223144023184.html": {
+    "name": "Fusta Opus, multicolora, cu cordon, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-alb-liebelingsstuck-din-bumbac-dama-p5260313154134477.html": {
+    "name": "Tricou, alb, Liebelingsstuck din bumbac, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/geaca-sherpa-cu-terminatie-ajustabila-dama.html": {
+    "name": "Geaca Sherpa cu terminatie ajustabila, dama",
+    "size": "L",
+    "price": "259,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/blugi-street-one-albastri-din-bumbac-dama-p7260618143222030.html": {
+    "name": "Blugi Street One, albastri, din bumbac, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-hm-mov-cu-maneca-scurta-dama-p2260218154714344.html": {
+    "name": "Tricou H&M mov, cu maneca scurta, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/hanorac-tally-weijl-cu-snur-reglabil-dama.html": {
+    "name": "Hanorac Tally Weijl cu snur reglabil, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/maiou-nike-cu-slituri-laterale-si-sectiune-perforata-dama.html": {
+    "name": "Maiou Nike cu slituri laterale si sectiune perforata, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-sport-jack-wolfskin-dama.html": {
+    "name": "Jacheta sport Jack Wolfskin, dama",
     "size": "L",
     "price": "199,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/blugi-h-m-straight-regular-fit-dama.html": {
-    "name": "Blugi H&M straight regular fit, dama",
+  "https://lamajole.ro/tricou-superdry-nou-cu-imprimeu-supradimensionat-dama.html": {
+    "name": "Tricou SuperDry  nou cu imprimeu supradimensionat, dama",
     "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-h-m-cu-aspect-satinat-si-mansete-late-dama.html": {
-    "name": "Camasa H&M cu aspect satinat si mansete late, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-s-oliver-cu-decolteu-in-v-si-maneci-cu-terminatii-reiat-dama.html": {
-    "name": "Tricou S. Oliver cu decolteu in V si maneci cu terminatii reiate, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-under-armour-model-de-compresie-dama.html": {
-    "name": "Tricou Under Armour model de compresie, dama",
-    "size": "L",
-    "price": "69,00 RON",
+    "price": "89,00 RON",
     "category": "haine"
   }
 }
