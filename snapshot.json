@@ -1,68 +1,62 @@
 {
+  "https://lamajole.ro/p2250820150025291-pantaloni-c-a-negri-dama.html": {
+    "name": "Pantaloni C&A negri, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
   "https://lamajole.ro/blugi-hm-albastri-cu-talie-inalta-dama-p6260612133620533.html": {
     "name": "Blugi H&M albastri, cu talie inalta, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-de-trening-mascot-dama.html": {
-    "name": "Bluza de trening Mascot, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-jack-wolfskin-mov-cu-maneca-scurta-dama-p3260306140747894.html": {
-    "name": "Tricou Jack Wolfskin mov, cu maneca scurta, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-vero-moda-din-bumbac-cu-model-brodat-dama.html": {
-    "name": "Rochie Vero Moda din bumbac cu model brodat, dama",
+  "https://lamajole.ro/tricou-cartoon-negru-cu-maneca-scurta-dama-p4260429105556875.html": {
+    "name": "Tricou Cartoon, negru, cu maneca scurta, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-karl-lagerfeld-din-bumbac-negru-cu-maneca-scurta-dama-p3260302111440923.html": {
-    "name": "Tricou Karl Lagerfeld din bumbac negru cu maneca scurta, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-adidas-model-crop-cu-decolteu-in-v-dama.html": {
-    "name": "Bluza Adidas model Crop cu decolteu in V, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bustiera-nike-model-dri-fit-cu-imprimeu-cauciucat-si-cusaturi-reliefate-dama.html": {
-    "name": "Bustiera Nike model Dri-Fit cu imprimeu cauciucat si cusaturi reliefate, dama",
+  "https://lamajole.ro/pulover-street-one-bej-dama.html": {
+    "name": "Pulover Street One bej, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/trenci-zara-dama.html": {
-    "name": "Trenci Zara, dama",
+  "https://lamajole.ro/tricou-mc-kinley-dry-plus-cu-guler-rotund-dama.html": {
+    "name": "Tricou  Mc Kinley Dry-plus cu guler rotund, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sandale-din-lac-zara-dama.html": {
-    "name": "Sandale din lac  Zara, dama",
-    "size": "39",
-    "price": "79,00 RON",
-    "category": "incaltaminte"
+  "https://lamajole.ro/tricou-paul-kehl-model-cu-decolteu-rotund-si-intr-o-culoare-monocroma-dama.html": {
+    "name": "Tricou Paul Kehl model cu decolteu rotund si intr-o culoare monocroma, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
   },
-  "https://lamajole.ro/tricou-s-oliver-cu-decolteu-in-v-si-maneci-cu-terminatii-reiat-dama.html": {
-    "name": "Tricou S. Oliver cu decolteu in V si maneci cu terminatii reiate, dama",
+  "https://lamajole.ro/cardigan-c-a-verde-dama.html": {
+    "name": "Cardigan C&A verde, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/ghete-graceland-bej-dama.html": {
-    "name": "Ghete Graceland bej, dama",
+  "https://lamajole.ro/tricou-christian-berg-multicolor-din-bumbac-dama-p3260306140810393.html": {
+    "name": "Tricou Christian Berg, multicolor, din bumbac, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-tchibo-alb-in-carouri-dama.html": {
+    "name": "Pulover Tchibo alb in carouri, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantofi-cu-toc-zara-negri-cu-toc-jos-dama-p2260602091116323.html": {
+    "name": "Pantofi Cu Toc Zara, negri, cu toc jos, dama",
     "size": "39",
-    "price": "89,00 RON",
+    "price": "59,00 RON",
     "category": "incaltaminte"
   }
 }
