@@ -1,62 +1,86 @@
 {
-  "https://lamajole.ro/jacheta-de-alergat-nike-dama.html": {
-    "name": "Jacheta de alergat Nike, dama",
+  "https://lamajole.ro/bluza-verde-din-bumbac-united-colors-of-benetton-dama.html": {
+    "name": "Bluza verde din bumbac United Colors of Benetton, dama",
     "size": "L",
-    "price": "259,00 RON",
+    "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sacou-marc-cain-albastru-dama.html": {
-    "name": "Sacou Marc Cain albastru, dama",
-    "size": "L",
-    "price": "259,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/salopeta-topshop-model-cu-aspect-catifelat-si-usor-texturat-dama.html": {
-    "name": "Salopeta Topshop model cu aspect catifelat si usor texturat, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-esprit-dama.html": {
-    "name": "Camasa Esprit, dama",
+  "https://lamajole.ro/camasa-someday-cu-umeri-cazuti-si-croiala-supradimensionata-dama.html": {
+    "name": "Camasa Someday. cu umeri cazuti si croiala supradimensionata, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sneakers-nike-running-gri-dama.html": {
-    "name": "Sneakers Nike Running gri, dama",
-    "size": "39",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
+  "https://lamajole.ro/tricou-soliver-alb-din-bumbac-dama-p6260522110247073.html": {
+    "name": "Tricou S.Oliver, alb, din bumbac, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
   },
-  "https://lamajole.ro/ghete-u-s-polo-assn-dama.html": {
-    "name": "Ghete U.S. Polo Assn., dama",
-    "size": "37",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/ghete-even-odd-negre-dama.html": {
-    "name": "Ghete Even&Odd negre, dama",
-    "size": "37",
-    "price": "89,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/bluza-cu-imprimeu-floral-rich-royal-dama.html": {
-    "name": "Bluza cu imprimeu floral Rich&Royal, dama",
+  "https://lamajole.ro/camasa-multicolora-rosso35-din-in-dama-p4260525135808095.html": {
+    "name": "Camasa, multicolora, Rosso35 din in, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/jacheta-piele-ecologica-street-one-dama.html": {
-    "name": "Jacheta piele ecologica Street One, dama",
+  "https://lamajole.ro/bluza-comma-tip-sacou-cu-terminatie-valurita-dama.html": {
+    "name": "Bluza Comma tip sacou cu terminatie valurita, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-cu-buzunare-dama.html": {
+    "name": "Cardigan cu buzunare, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/geaca-verde-zara-dama.html": {
+    "name": "Geaca verde Zara, dama",
+    "size": "L",
+    "price": "259,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-zara-crem-din-bumbac-si-in-dama-p1260528102914575.html": {
+    "name": "Pantaloni Zara, crem, din bumbac si in, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sneakers-na-kd-dama.html": {
-    "name": "Sneakers NA-KD, dama",
+  "https://lamajole.ro/tricou-casttelli-albastru-dama.html": {
+    "name": "Tricou Casttelli albastru , dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/slapi-havaianas-roz-dama.html": {
+    "name": "Slapi Havaianas roz, dama",
+    "size": "39",
+    "price": "69,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/pantofi-tamaris-din-piele-naturala-dama.html": {
+    "name": "Pantofi Tamaris din piele naturala, dama",
     "size": "37",
-    "price": "79,00 RON",
+    "price": "129,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/geaca-s-oliver-bej-dama.html": {
+    "name": "Geaca S.Oliver bej, dama",
+    "size": "L",
+    "price": "259,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/hanorac-cu-guler-jack-wolfskin-dama.html": {
+    "name": "Hanorac cu guler Jack Wolfskin, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sneakers-skechers-goga-max-dama.html": {
+    "name": "Sneakers Skechers goga max, dama",
+    "size": "39",
+    "price": "159,00 RON",
     "category": "incaltaminte"
   }
 }
