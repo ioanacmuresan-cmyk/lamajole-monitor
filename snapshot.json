@@ -1,62 +1,62 @@
 {
-  "https://lamajole.ro/p2250820150025291-pantaloni-c-a-negri-dama.html": {
-    "name": "Pantaloni C&A negri, dama",
+  "https://lamajole.ro/jacheta-de-alergat-nike-dama.html": {
+    "name": "Jacheta de alergat Nike, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "259,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/blugi-hm-albastri-cu-talie-inalta-dama-p6260612133620533.html": {
-    "name": "Blugi H&M albastri, cu talie inalta, dama",
+  "https://lamajole.ro/sacou-marc-cain-albastru-dama.html": {
+    "name": "Sacou Marc Cain albastru, dama",
     "size": "L",
-    "price": "79,00 RON",
+    "price": "259,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-cartoon-negru-cu-maneca-scurta-dama-p4260429105556875.html": {
-    "name": "Tricou Cartoon, negru, cu maneca scurta, dama",
+  "https://lamajole.ro/salopeta-topshop-model-cu-aspect-catifelat-si-usor-texturat-dama.html": {
+    "name": "Salopeta Topshop model cu aspect catifelat si usor texturat, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pulover-street-one-bej-dama.html": {
-    "name": "Pulover Street One bej, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-mc-kinley-dry-plus-cu-guler-rotund-dama.html": {
-    "name": "Tricou  Mc Kinley Dry-plus cu guler rotund, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-paul-kehl-model-cu-decolteu-rotund-si-intr-o-culoare-monocroma-dama.html": {
-    "name": "Tricou Paul Kehl model cu decolteu rotund si intr-o culoare monocroma, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/cardigan-c-a-verde-dama.html": {
-    "name": "Cardigan C&A verde, dama",
+  "https://lamajole.ro/camasa-esprit-dama.html": {
+    "name": "Camasa Esprit, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-christian-berg-multicolor-din-bumbac-dama-p3260306140810393.html": {
-    "name": "Tricou Christian Berg, multicolor, din bumbac, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-tchibo-alb-in-carouri-dama.html": {
-    "name": "Pulover Tchibo alb in carouri, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantofi-cu-toc-zara-negri-cu-toc-jos-dama-p2260602091116323.html": {
-    "name": "Pantofi Cu Toc Zara, negri, cu toc jos, dama",
+  "https://lamajole.ro/sneakers-nike-running-gri-dama.html": {
+    "name": "Sneakers Nike Running gri, dama",
     "size": "39",
-    "price": "59,00 RON",
+    "price": "199,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/ghete-u-s-polo-assn-dama.html": {
+    "name": "Ghete U.S. Polo Assn., dama",
+    "size": "37",
+    "price": "159,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/ghete-even-odd-negre-dama.html": {
+    "name": "Ghete Even&Odd negre, dama",
+    "size": "37",
+    "price": "89,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-cu-imprimeu-floral-rich-royal-dama.html": {
+    "name": "Bluza cu imprimeu floral Rich&Royal, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-piele-ecologica-street-one-dama.html": {
+    "name": "Jacheta piele ecologica Street One, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sneakers-na-kd-dama.html": {
+    "name": "Sneakers NA-KD, dama",
+    "size": "37",
+    "price": "79,00 RON",
     "category": "incaltaminte"
   }
 }
