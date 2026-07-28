@@ -1,50 +1,80 @@
 {
-  "https://lamajole.ro/camasa-cu-imprimeu-h-m-dama.html": {
-    "name": "Camasa cu imprimeu H&M, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-manor-kaki-din-bumbac-dama-p1260327123247975.html": {
-    "name": "Tricou Manor, kaki, din bumbac, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-maxco-alb-cu-maneca-scurta-cu-guler-rotund-dama-p4260317143900842.html": {
-    "name": "Tricou Max&Co alb, cu maneca scurta, cu guler rotund, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/jacheta-nike-storm-fit-noua-dama.html": {
-    "name": "Jacheta Nike Storm-Fit noua, dama",
-    "size": "L",
-    "price": "299,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-white-label-cu-aspect-de-blana-dama.html": {
-    "name": "Vesta White Label cu aspect de blana, dama",
-    "size": "L",
+  "https://lamajole.ro/ghete-roz-landrover-dama.html": {
+    "name": "Ghete roz Landrover, dama",
+    "size": "39",
     "price": "199,00 RON",
-    "category": "haine"
+    "category": "incaltaminte"
   },
-  "https://lamajole.ro/tricou-united-colors-of-benetton-galben-din-lyocell-si-bumbac-dama-p1260316115943684.html": {
-    "name": "Tricou United Colors Of Benetton, galben, din lyocell si bumbac, dama",
+  "https://lamajole.ro/camasa-h-m-albastra-dama.html": {
+    "name": "Camasa H&M albastra, dama",
     "size": "L",
-    "price": "79,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/maiou-taifun-maro-cu-bretele-si-decolteu-rotund-dama-p4250627095039114.html": {
-    "name": "Maiou Taifun, maro, cu bretele si decolteu rotund, dama",
-    "size": "L",
-    "price": "19,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-halhuber-cu-imprimeu-leopard-dama.html": {
-    "name": "Pulover Halhuber cu imprimeu leopard, dama",
+  "https://lamajole.ro/vesta-chicoree-albastra-dama.html": {
+    "name": "Vesta Chicoree albastra, dama",
     "size": "L",
     "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sacou-nou-street-one-cu-dungi-dama.html": {
+    "name": "Sacou nou Street One cu dungi, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-opus-roz-dama.html": {
+    "name": "Bluza Opus roz, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-alb-liebelingsstuck-din-bumbac-dama-p5260313154134477.html": {
+    "name": "Tricou, alb, Liebelingsstuck din bumbac, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/blugi-bershka-albastri-din-bumbac-dama-p4260423143711077.html": {
+    "name": "Blugi Bershka, albastri, din bumbac, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sandale-tamaris-din-piele-ecologica-si-toc-gros-dama.html": {
+    "name": "Sandale Tamaris din piele ecologica si toc gros, dama",
+    "size": "37",
+    "price": "159,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/sneakers-nike-running-gri-dama.html": {
+    "name": "Sneakers Nike Running gri, dama",
+    "size": "39",
+    "price": "199,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/bluza-icebreaker-cu-inchidere-nasturi-dama.html": {
+    "name": "Bluza Icebreaker cu inchidere nasturi, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-united-colors-of-benetton-alba-cu-maneca-lunga-dama-p3260226140906994.html": {
+    "name": "Bluza United Colors Of Benetton, alba, cu maneca lunga, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-sort-margittes-cu-insertii-decorative-la-buzunare-dama.html": {
+    "name": "Pantaloni sort Margittes cu insertii decorative la buzunare, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sacou-st-emile-turcoaz-dama.html": {
+    "name": "Sacou St. Emile turcoaz, dama",
+    "size": "L",
+    "price": "199,00 RON",
     "category": "haine"
   }
 }
