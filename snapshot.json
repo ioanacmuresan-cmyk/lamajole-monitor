@@ -1,84 +1,60 @@
 {
-  "https://lamajole.ro/costum-liu-jo-dama.html": {
-    "name": "Costum LIU JO, dama",
-    "size": "L",
-    "price": "359,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/ghete-zara-model-cu-inchidere-cu-fermoar-dama.html": {
-    "name": "Ghete Zara model cu inchidere cu fermoar, dama",
-    "size": "39",
-    "price": "89,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pantaloni-hm-roz-din-viscoza-dama-p7260320082518494.html": {
-    "name": "Pantaloni H&M roz, din viscoza, dama",
+  "https://lamajole.ro/camasa-pepe-jeans-alba-din-viscoza-si-bumbac-dama-p7260415143511778.html": {
+    "name": "Camasa Pepe Jeans, alba, din viscoza si bumbac, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/camasa-only-cu-croiala-lejera-si-imprimeu-bicromatic-dama.html": {
-    "name": "Camasa Only cu croiala lejera si imprimeu bicromatic, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sandale-aldo-cu-bareta-cu-strasuri-si-toc-patrat-dama.html": {
-    "name": "Sandale Aldo cu bareta cu strasuri si toc patrat, dama",
-    "size": "39",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/rochie-h-m-bicromatic-dama.html": {
-    "name": "Rochie H&M bicromatic, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/maiou-taifun-maro-cu-bretele-si-decolteu-rotund-dama-p4250627095039114.html": {
-    "name": "Maiou Taifun, maro, cu bretele si decolteu rotund, dama",
-    "size": "L",
-    "price": "19,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-mckinley-albastru-dama.html": {
-    "name": "Tricou McKinley albastru, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-c-a-cu-guler-inalt-bej-dama.html": {
-    "name": "Vesta C&A cu guler inalt bej, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-sport-salomon-gri-lungi-cu-fermoar-dama-p2260403074944267.html": {
-    "name": "Pantaloni Sport Salomon gri, lungi, cu fermoar, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-adidas-dama.html": {
-    "name": "Vesta Adidas, dama",
+  "https://lamajole.ro/vesta-albastra-madeleine-dama.html": {
+    "name": "Vesta albastra Madeleine, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/ghete-geox-bordo-dama.html": {
-    "name": "Ghete Geox bordo, dama",
-    "size": "39",
-    "price": "299,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/vesta-cream-matlasata-dama.html": {
-    "name": "Vesta Cream matlasata, dama",
+  "https://lamajole.ro/tricou-zara-multicolor-din-bumbac-dama-p7260415143247058.html": {
+    "name": "Tricou Zara, multicolor, din bumbac, dama",
     "size": "L",
-    "price": "159,00 RON",
+    "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/p7251209132936861-bluza-de-trening-odlo-dama.html": {
-    "name": "Bluza de trening Odlo, dama",
+  "https://lamajole.ro/pulover-massimo-dutti-dama.html": {
+    "name": "Pulover Massimo Dutti, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-ca-alba-cu-guler-inalt-si-nasturi-dama-p3260122155400373.html": {
+    "name": "Bluza C&A alba cu guler inalt si nasturi, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-chicoree-bej-din-viscoza-dama-p4260424101543460.html": {
+    "name": "Pantaloni Chicoree, bej, din viscoza, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p2251020113609909-bluza-zara-dama.html": {
+    "name": "Bluza Zara, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-zara-model-bicromatic-cu-imprimeu-abstract-dama.html": {
+    "name": "Camasa Zara model bicromatic cu imprimeu abstract, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-raffaello-rossi-rosu-cu-maneca-scurta-dama-p5260313154124224.html": {
+    "name": "Tricou Raffaello Rossi, rosu, cu maneca scurta, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/geaca-zebra-neagra-dama.html": {
+    "name": "Geaca Zebra noua, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
