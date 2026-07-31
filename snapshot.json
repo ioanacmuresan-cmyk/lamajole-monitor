@@ -1,126 +1,24 @@
 {
-  "https://lamajole.ro/slapi-bench-dama.html": {
-    "name": "Slapi Bench., dama",
+  "https://lamajole.ro/pantaloni-de-trening-gri-c-a-dama.html": {
+    "name": "Pantaloni de trening gri C&A, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-olsen-dama.html": {
+    "name": "Bluza Olsen, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/ghete-bologna-dinpiele-intoarsa-dama.html": {
+    "name": "Ghete Bologna dinpiele intoarsa, dama",
     "size": "39",
-    "price": "49,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/jacheta-rosie-frieda-dama.html": {
-    "name": "Jacheta rosie Frieda, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sandale-anna-field-din-material-textil-si-varf-rotund-dama.html": {
-    "name": "Sandale Anna Field din material textil si varf rotund, dama",
-    "size": "39",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/vesta-clarina-roz-dama.html": {
-    "name": "Vesta Clarina roz, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-c-a-linen-blend-dama.html": {
-    "name": "Bluza C&A LINEN BLEND, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-esprit-dama.html": {
-    "name": "Camasa Esprit, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-h-m-model-lejer-cu-terminatie-evazata-dama.html": {
-    "name": "Rochie H&M model lejer cu  terminatie evazata, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/chiloti-de-baie-oneill-turcoaz-talie-inalta-dama-p7260520130334092.html": {
-    "name": "Chiloti De Baie O'Neill, turcoaz, talie inalta, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-equitheme-dama.html": {
-    "name": "Pantaloni EQUITHEME, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sutien-de-baie-h-m-model-cu-bretele-subtiri-reglabile-dama.html": {
-    "name": "Sutien de baie H&M model cu bretele subtiri reglabile, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-superdry-dama.html": {
-    "name": "Geaca SuperDry, dama",
-    "size": "L",
     "price": "259,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-sport-ca-bej-din-viscoza-dama-p3260205123532860.html": {
-    "name": "Pantaloni Sport C&A, bej, din viscoza, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sacou-chicoree-alb-din-viscoza-dama-p4260420101008236.html": {
-    "name": "Sacou, Chicoree alb, din viscoza, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-roz-gina-benotti-dama.html": {
-    "name": "Vesta roz Gina Benotti, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sandale-primark-negre-dama.html": {
-    "name": "Sandale Primark negre, dama",
-    "size": "39",
-    "price": "49,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/tricou-guess-alb-din-bumbac-dama-p3260415114958484.html": {
-    "name": "Tricou Guess, alb, din bumbac, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-c-a-cu-imprimeu-floral-dama.html": {
-    "name": "Bluza C&A cu imprimeu floral, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/costum-de-baie-h-m-cu-decolteu-in-v-din-material-texturat-dama.html": {
-    "name": "Costum de baie H&M cu decolteu in V din material texturat, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/hanorac-naketano-bordo-dama.html": {
-    "name": "Hanorac Naketano bordo, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/colanti-h-m-bej-dama.html": {
-    "name": "Colanti H&M bej, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-street-one-alb-dama.html": {
-    "name": "Tricou Street One alb, dama",
+  "https://lamajole.ro/rochie-yessica-crem-cu-decolteu-in-v-si-cordon-dama-p4260420100946020.html": {
+    "name": "Rochie Yessica crem, cu decolteu in V si cordon, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
