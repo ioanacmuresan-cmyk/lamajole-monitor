@@ -1,26 +1,92 @@
 {
-  "https://lamajole.ro/pantaloni-de-trening-gri-c-a-dama.html": {
-    "name": "Pantaloni de trening gri C&A, dama",
+  "https://lamajole.ro/bluza-guess-neagra-dama.html": {
+    "name": "Bluza Guess neagra, dama",
     "size": "L",
-    "price": "59,00 RON",
+    "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-olsen-dama.html": {
-    "name": "Bluza Olsen, dama",
+  "https://lamajole.ro/p1251111164305770-pulover-mango-alb-dama.html": {
+    "name": "Pulover  Mango alb, dama",
     "size": "L",
-    "price": "59,00 RON",
+    "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/ghete-bologna-dinpiele-intoarsa-dama.html": {
-    "name": "Ghete Bologna dinpiele intoarsa, dama",
-    "size": "39",
-    "price": "259,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/rochie-yessica-crem-cu-decolteu-in-v-si-cordon-dama-p4260420100946020.html": {
-    "name": "Rochie Yessica crem, cu decolteu in V si cordon, dama",
+  "https://lamajole.ro/pantaloni-taifun-crem-dama.html": {
+    "name": "Pantaloni Taifun crem, dama",
     "size": "L",
-    "price": "59,00 RON",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p3251021102752265-sacou-h-m-gri-dama.html": {
+    "name": "Sacou H&M gri, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/vests-light-weight-s-oliver.html": {
+    "name": "Vests light weight s.Oliver",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-zara-multicolora-animal-print-cu-maneca-lunga-dama-p4260410104829738.html": {
+    "name": "Camasa Zara, multicolora, animal print, cu maneca lunga, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-adidas-alb-cu-maneca-scurta-dama-p1260316115943385.html": {
+    "name": "Tricou Adidas alb, cu maneca scurta, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/chiloti-de-baie-oneill-turcoaz-talie-inalta-dama-p7260520130334092.html": {
+    "name": "Chiloti De Baie O'Neill, turcoaz, talie inalta, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-diesel-alb-cu-maneca-scurta-cu-imprimeu-floral-dama-p7260525094939276.html": {
+    "name": "Tricou Diesel, alb, cu maneca scurta, cu imprimeu floral, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-someday-model-monocromatic-cu-decolteu-la-baza-gatului-dama.html": {
+    "name": "Tricou Someday model monocromatic cu decolteu la baza gatului, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-bettyco-galben-cu-maneca-scurta-dama-p3260415115006144.html": {
+    "name": "Tricou Betty&Co, galben, cu maneca scurta, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-gri-zara-cu-talie-elastica-dama.html": {
+    "name": "Pantaloni gri Zara cu talie elastica, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-brax-multicolor-din-in-dama-p6260522105904035.html": {
+    "name": "Tricou Brax, multicolor, din in, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-vila-maro-dana.html": {
+    "name": "Rochie Vila maro, dana",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/geaca-manisa-model-cu-gluga-detasabila-dama.html": {
+    "name": "Geaca Manisa model cu gluga detasabila, dama",
+    "size": "L",
+    "price": "199,00 RON",
     "category": "haine"
   }
 }
