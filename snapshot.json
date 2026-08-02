@@ -1,80 +1,68 @@
 {
-  "https://lamajole.ro/bluza-gri-icebreaker-dama.html": {
-    "name": "Bluza gri Icebreaker, dama",
+  "https://lamajole.ro/cardigan-lieblingsstuck-alb-dama.html": {
+    "name": "Cardigan Lieblingsstuck alb, dama",
     "size": "L",
-    "price": "159,00 RON",
+    "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-alysi-galbeni-dama.html": {
-    "name": "Pantaloni Alysi galbeni, dama",
+  "https://lamajole.ro/rochie-neagra-c-a-dama.html": {
+    "name": "Rochie neagra C&A, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-c-a-model-cromatic-cu-decolteu-in-v-cu-nasturi-decorativi-dama.html": {
+    "name": "Bluza C&A model cromatic cu decolteu in V cu nasturi decorativi, dama",
+    "size": "L",
+    "price": "19,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/hanorac-stradivarius-verde-dama.html": {
+    "name": "Hanorac Stradivarius verde, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-tom-tailor-roz-dama.html": {
-    "name": "Tricou Tom Tailor roz, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-bershka-cu-talie-inalta-dama.html": {
-    "name": "Pantaloni Bershka cu talie inalta, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-ca-alb-din-bumbac-dama-p6260309111032525.html": {
-    "name": "Tricou C&A alb, din bumbac, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-gymshark-verzi-sport-dama-p4260701112200156.html": {
-    "name": "Pantaloni Scurti Gymshark, verzi, sport, dama",
+  "https://lamajole.ro/tricou-armedangels-multicolor-din-lyocell-si-bumbac-dama-p7260408150830617.html": {
+    "name": "Tricou Armedangels, multicolor, din lyocell si bumbac, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/maiou-engelbert-strauss-dama.html": {
-    "name": "Maiou Engelbert Strauss, dama",
+  "https://lamajole.ro/bluza-jack-wolfskin-sport-dama.html": {
+    "name": "Bluza Jack Wolfskin sport, dama",
     "size": "L",
-    "price": "29,00 RON",
+    "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/jacheta-rosie-geox-dama.html": {
-    "name": "Jacheta rosie Geox, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-zero-alb-din-viscoza-dama-p1260327123248321.html": {
-    "name": "Tricou Zero alb, din viscoza, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-opus-roz-dama.html": {
-    "name": "Pulover Opus roz, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-maro-semitransparenta-marc-o-polo-dama.html": {
-    "name": "Camasa maro semitransparenta Marc O'Polo, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-de-drumetie-pearl-izumi-cu-talie-ajustabila-dama.html": {
-    "name": "Pantaloni scurti de drumetie Pearl Izumi cu talie ajustabila, dama",
+  "https://lamajole.ro/pantaloni-h-m-model-capri-cu-talie-inalta-dama.html": {
+    "name": "Pantaloni H&M model capri cu talie inalta, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/p5251106131823211-vesta-only-bej-dama.html": {
-    "name": "Vesta Only bej, dama",
+  "https://lamajole.ro/p3250915083502518-pantaloni-h-m-in-carouri-dama.html": {
+    "name": "Pantaloni H&M in carouri, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-ca-multicolor-cu-animal-print-si-maneca-scurta-dama-p5260302075801739.html": {
+    "name": "Tricou C&A, multicolor, cu animal print si maneca scurta, dama",
     "size": "L",
     "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-bruno-manetti-albastru-dama.html": {
+    "name": "Cardigan Bruno Manetti albastru, dama",
+    "size": "L",
+    "price": "259,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-noua-vera-mont-cu-aspect-dublu-si-terminatie-valurita-dama.html": {
+    "name": "Rochie noua Vera Mont cu aspect dublu si terminatie valurita, dama",
+    "size": "L",
+    "price": "459,00 RON",
     "category": "haine"
   }
 }
