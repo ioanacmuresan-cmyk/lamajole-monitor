@@ -1,32 +1,116 @@
 {
-  "https://lamajole.ro/pantaloni-frank-walder-model-cu-imprimeu-floral-si-talie-joasa-dama.html": {
-    "name": "Pantaloni Frank Walder model cu imprimeu floral si talie joasa, dama",
+  "https://lamajole.ro/jacheta-sport-jack-wolfskin-dama.html": {
+    "name": "Jacheta sport Jack Wolfskin, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-basic-nike-dri-fit-dama.html": {
+    "name": "Colanti Basic Nike DRI-FIT, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sacou-cos-gri-dama.html": {
+    "name": "Sacou COS gri, dama",
+    "size": "L",
+    "price": "259,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-drykorn-gri-din-bumbac-dama-p4260605090947561.html": {
+    "name": "Pantaloni Scurti Drykorn, gri, din bumbac, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sandale-brunate-multicolore-din-piele-naturala-dama-p1260629133024254.html": {
-    "name": "Sandale Brunate, multicolore, din piele naturala, dama",
-    "size": "39",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/blugi-hm-albastri-din-bumbac-dama-p6260612133620443.html": {
-    "name": "Blugi H&M, albastri, din bumbac, dama",
+  "https://lamajole.ro/bluza-lieblingsstuck-cu-imprimeu-grafic-dama.html": {
+    "name": "Bluza Lieblingsstuck cu imprimeu grafic, dama",
     "size": "L",
-    "price": "79,00 RON",
+    "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-h-m-model-bicromatic-cu-imprimeu-pepit-dama.html": {
-    "name": "Pantaloni H&M model bicromatic cu imprimeu pepit, dama",
+  "https://lamajole.ro/ghete-tommy-hilfiger-model-din-piele-naturala-inchidere-ajustabila-dama.html": {
+    "name": "Ghete Tommy Hilfiger model din piele naturala, inchidere ajustabila, dama",
+    "size": "37",
+    "price": "359,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/fusta-harvard-cu-pliuri-dama.html": {
+    "name": "Fusta Harvard cu pliuri, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/p6251014085342286-pantaloni-gri-zara-dama.html": {
-    "name": "Pantaloni gri Zara, dama",
+  "https://lamajole.ro/bluza-sport-celsius-dama.html": {
+    "name": "Bluza sport Celsius, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-c-a-cu-imprimeu-abstract-dama.html": {
+    "name": "Bluza C&A cu imprimeu abstract, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-clockhouse-multicolor-cu-imprimeu-floral-cu-maneca-scurta-dama-p4260311123841047.html": {
+    "name": "Tricou Clockhouse, multicolor cu imprimeu floral, cu maneca scurta, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/incaltaminte-sport-asics-model-cu-logo-pentru-alergare-dama.html": {
+    "name": "Incaltaminte sport Asics model cu logo pentru alergare, dama",
+    "size": "39",
+    "price": "199,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/pantaloni-stradivarius-cu-talie-elastica-dama.html": {
+    "name": "Pantaloni Stradivarius cu talie elastica, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-h-m-model-crop-top-cu-buzunar-frontal-dama.html": {
+    "name": "Camasa H&M model crop top cu buzunar frontal, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-icebreaker-maro-din-lana-dama-p6260522105828727.html": {
+    "name": "Tricou Icebreaker, maro, din lana, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/set-pijama-seidensticker-multicolor-din-bumbac-dama-p5260319154917079.html": {
+    "name": "Set Pijama Seidensticker, multicolor, din bumbac, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/p1251009101224184-pantaloni-de-drumetie-decathlon-dama.html": {
+    "name": "Pantaloni de drumetie Decathlon, dama",
     "size": "L",
     "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/slapi-roz-havaianas-dama.html": {
+    "name": "Slapi roz Havaianas, dama",
+    "size": "37",
+    "price": "69,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/pantaloni-negri-someday-dama.html": {
+    "name": "Pantaloni negri Someday., dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-c-a-cu-funda-dama.html": {
+    "name": "Bluza C&A cu funda, dama",
+    "size": "L",
+    "price": "39,00 RON",
     "category": "haine"
   }
 }
