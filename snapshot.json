@@ -1,98 +1,68 @@
 {
-  "https://lamajole.ro/bluza-marc-o-polo-cu-inchidere-cu-nasturi-dama.html": {
-    "name": "Bluza Marc O'Polo cu inchidere cu nasturi, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sneakers-geox-dama.html": {
-    "name": "Sneakers Geox, dama",
-    "size": "39",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/p4250721153630183-rochie-s-oliver-dama.html": {
-    "name": "Rochie S.Oliver, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/salopeta-yessica-tailored-cu-croiala-ampla-si-cordon-atasat-dama.html": {
-    "name": "Salopeta Yessica Tailored cu croiala ampla si cordon atasat, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-ca-negru-din-bumbac-dama-p6260623113956557.html": {
-    "name": "Tricou C&A, negru, din bumbac, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/jacheta-odlo-neagra-dama.html": {
-    "name": "Jacheta Odlo neagra, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-guess-alb-din-bumbac-dama-p3260415114958484.html": {
-    "name": "Tricou Guess, alb, din bumbac, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-mango-transparenta-dama.html": {
-    "name": "Camasa Mango transparenta, dama",
+  "https://lamajole.ro/pantaloni-h-m-model-capri-cu-talie-inalta-dama.html": {
+    "name": "Pantaloni H&M model capri cu talie inalta, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tenisi-diadora-dama.html": {
-    "name": "Tenisi Diadora, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
+  "https://lamajole.ro/fusta-albastra-laurel-cu-imprimeu-floral-dama-p7260320133923270.html": {
+    "name": "Fusta albastra Laurel cu imprimeu floral, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
   },
-  "https://lamajole.ro/camasa-someday-model-lejer-cu-insertii-valurite-si-maneci-cu-terminatii-elastice-dama.html": {
-    "name": "Camasa Someday. model lejer cu insertii valurite si maneci cu terminatii elastice, dama",
+  "https://lamajole.ro/hanorac-sport-regatta-dama.html": {
+    "name": "Hanorac sport Regatta, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-someday-cu-decolteu-in-v-dama.html": {
-    "name": "Bluza Someday. cu decolteu in V, dama",
+  "https://lamajole.ro/hanorac-nike-portocaliu-dama.html": {
+    "name": "Hanorac Nike portocaliu, dama",
     "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantofi-negri-peter-kaiser-dama.html": {
-    "name": "Pantofi negri Peter Kaiser, dama",
-    "size": "39",
     "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/p6260303140414815-pantofi-graceland-negri-dama.html": {
-    "name": "Pantofi Graceland negri, dama",
-    "size": "37",
-    "price": "79,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pulover-c-a-dama.html": {
-    "name": "Pulover C&A, dama",
-    "size": "L",
-    "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/costum-de-baie-hunkemoller-cu-aplicatii-metalice-si-bretele-subtiri-dama.html": {
-    "name": "Costum de baie Hunkemoller cu aplicatii metalice si bretele subtiri, dama",
+  "https://lamajole.ro/tricou-street-one-model-cu-inscriptie-sidefata-si-aplicatii-cu-strasuri-dama.html": {
+    "name": "Tricou Street One model cu inscriptie sidefata si aplicatii cu strasuri, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sandale-graceland-dama.html": {
+    "name": "Sandale Graceland, dama",
+    "size": "39",
+    "price": "39,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/tricou-peak-performance-alba-cu-maneca-scurta-si-guler-polo-dama-p3260331104223332.html": {
+    "name": "Tricou Peak Performance, alba, cu maneca scurta si guler polo, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-hemisphere-din-matase-dama.html": {
-    "name": "Bluza Hemisphere din matase, dama",
+  "https://lamajole.ro/pulover-gri-s-oliver-dama.html": {
+    "name": "Pulover gri S.Oliver, dama",
     "size": "L",
-    "price": "199,00 RON",
+    "price": "39,00 RON",
     "category": "haine"
+  },
+  "https://lamajole.ro/sacou-c-a-in-carouri-bej-dama.html": {
+    "name": "Sacou C&A in carouri bej, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-zara-din-piele-ecologica-dama.html": {
+    "name": "Bluza Zara din piele ecologica, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sandale-catwalk-negre-cu-bretele-cu-talpa-plata-dama-p3260618143750961.html": {
+    "name": "Sandale Catwalk negre, cu bretele, cu talpa plata, dama",
+    "size": "37",
+    "price": "39,00 RON",
+    "category": "incaltaminte"
   }
 }
