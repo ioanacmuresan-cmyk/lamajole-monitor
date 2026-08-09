@@ -1,26 +1,38 @@
 {
-  "https://lamajole.ro/tricou-betty-barclay-multicolor-cu-imprimeu-geometric-dama-p7260323104449413.html": {
-    "name": "Tricou Betty Barclay multicolor, cu imprimeu geometric, dama",
+  "https://lamajole.ro/papuci-de-casa-gri-rohde-dama.html": {
+    "name": "Papuci de casa gri Rohde, dama",
+    "size": "40",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-sport-superdry-dama.html": {
+    "name": "Colanti sport Superdry, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-tchibo-sports-perfromance-dama.html": {
+    "name": "Colanti Tchibo Sports Perfromance, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/rochie-crem-valerie-khalfon-dama.html": {
-    "name": "Rochie crem Valerie Khalfon, dama",
-    "size": "L",
-    "price": "259,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-gerry-weber-model-cu-imprimeu-floral-si-cu-dungi-dama.html": {
-    "name": "Tricou Gerry Weber model cu imprimeu floral si cu dungi, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/jacheta-rosie-lecomte-cu-guler-camasa-dama-p3260708154650297.html": {
-    "name": "Jacheta rosie, Lecomte cu guler camasa, dama",
+  "https://lamajole.ro/geaca-noua-roz-bench-dama.html": {
+    "name": "Geaca noua roz Bench, dama",
     "size": "L",
     "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-adidas-rosu-din-bumbac-dama-p7260623130902250.html": {
+    "name": "Tricou Adidas rosu, din bumbac, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-asics-cu-chiloti-inserati-dama.html": {
+    "name": "Pantaloni scurti Asics cu chiloti inserati, dama",
+    "size": "L",
+    "price": "69,00 RON",
     "category": "haine"
   },
   "https://lamajole.ro/tricou-guess-alb-din-viscoza-dama-p1260316115930486.html": {
@@ -29,58 +41,76 @@
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-yessica-premium-dama.html": {
-    "name": "Bluza YESSICA PREMIUM, dama",
+  "https://lamajole.ro/jacheta-icepeak-model-multicolor-dama.html": {
+    "name": "Jacheta Icepeak, model multicolor dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-eterna-alba-dama.html": {
+    "name": "Camasa Eterna alba, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-stronger-cu-inscriptii-dama.html": {
+    "name": "Colanti Stronger cu inscriptii, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sandale-aldo-din-piele-ecologica-si-bareta-transparenta-dama.html": {
-    "name": "Sandale Aldo din piele ecologica si bareta transparenta, dama",
-    "size": "39",
-    "price": "129,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/tricou-street-one-multicolor-cu-maneca-scurta-animal-print-dama-p3260410113911959.html": {
-    "name": "Tricou Street One multicolor, cu maneca scurta, animal print, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-uniqlo-model-matlasat-si-inchidere-cu-fermoar-dama.html": {
-    "name": "Geaca Uniqlo model matlasat si inchidere cu fermoar , dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-c-a-gri-cu-terminatii-adunate-dama.html": {
-    "name": "Pantaloni C&A gri cu terminatii adunate, dama",
+  "https://lamajole.ro/pulover-tchibo-alb-in-carouri-dama.html": {
+    "name": "Pulover Tchibo alb in carouri, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/blugi-desigual-elatici-dama.html": {
-    "name": "Blugi Desigual elatici, dama",
+  "https://lamajole.ro/pantaloni-raffaello-rossi-kaki-trei-sferturi-casual-dama-p7260514095728194.html": {
+    "name": "Pantaloni Raffaello Rossi kaki, trei sferturi, casual, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-paul-kehl-model-cu-decolteu-rotund-si-intr-o-culoare-monocroma-dama.html": {
-    "name": "Tricou Paul Kehl model cu decolteu rotund si intr-o culoare monocroma, dama",
+  "https://lamajole.ro/pantaloni-scurti-de-drumetie-pearl-izumi-cu-talie-ajustabila-dama.html": {
+    "name": "Pantaloni scurti de drumetie Pearl Izumi cu talie ajustabila, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/cardigan-street-one-albastrau-dama.html": {
-    "name": "Cardigan Street One albastrau, dama",
+  "https://lamajole.ro/pulover-streetone-dama.html": {
+    "name": "Pulover StreetOne, dama",
     "size": "L",
-    "price": "39,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/vesta-broadway-crem-dama.html": {
-    "name": "Vesta Broadway crem, dama",
+  "https://lamajole.ro/pantaloni-soliver-albastri-cu-pliuri-dama-p1260507115521710.html": {
+    "name": "Pantaloni S.Oliver, albastri, cu pliuri, dama",
     "size": "L",
-    "price": "79,00 RON",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-christian-berg-maro-dama.html": {
+    "name": "Cardigan Christian Berg maro, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sandale-michael-kors-roz-din-piele-naturala-dama-p3260618143037976.html": {
+    "name": "Sandale Michael Kors, roz, din piele naturala, dama",
+    "size": "37",
+    "price": "259,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/palton-texturat-s-oliver-dama.html": {
+    "name": "Palton texturat S.Oliver, dama",
+    "size": "L",
+    "price": "299,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-cecil-roc-si-croiala-lejera-dama.html": {
+    "name": "Tricou Cecil roc si croiala lejera, dama",
+    "size": "L",
+    "price": "29,00 RON",
     "category": "haine"
   }
 }
