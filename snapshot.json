@@ -1,62 +1,86 @@
 {
-  "https://lamajole.ro/pantaloni-de-trening-camp-david-dama.html": {
-    "name": "Pantaloni de trening Camp David, dama",
+  "https://lamajole.ro/hanorac-peak-performance-dama.html": {
+    "name": "Hanorac Peak Performance, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/fusta-jake-s-argintie-plisata-dama-p7260421132721009.html": {
+    "name": "Fusta Jake's argintie, plisata, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/colanti-sport-superdry-dama.html": {
-    "name": "Colanti sport Superdry, dama",
+  "https://lamajole.ro/pulover-part-two-maro-dama.html": {
+    "name": "Pulover Part Two maro, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/colanti-asos-bordo-sport-lungi-dama-p7260324131251880.html": {
-    "name": "Colanti Asos bordo, sport, lungi, dama",
+  "https://lamajole.ro/tricou-esmara-bej-cu-maneca-scurta-croiala-lejera-dama-p7260702083958182.html": {
+    "name": "Tricou Esmara, bej, cu maneca scurta, croiala lejera, dama",
+    "size": "L",
+    "price": "19,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/palton-olsen-texturat-dama.html": {
+    "name": "Palton Olsen texturat, dama",
+    "size": "L",
+    "price": "259,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/vesta-de-alergat-brooks-dama.html": {
+    "name": "Vesta de alergat Brooks, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-ca-alb-cu-maneca-scurta-si-imprimeu-logo-dama-p7260511113503381.html": {
-    "name": "Tricou C&A, alb, cu maneca scurta si imprimeu logo, dama",
+  "https://lamajole.ro/geaca-bonita-dama.html": {
+    "name": "Geaca Bonita, dama",
     "size": "L",
-    "price": "39,00 RON",
+    "price": "199,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-sport-puma-albastri-lejeri-dama-p4260112151639779.html": {
-    "name": "Pantaloni Sport Puma albastri, lejeri, dama",
+  "https://lamajole.ro/hanorac-multicolor-scotch-soda-dama.html": {
+    "name": "Hanorac multicolor Scotch & Soda, dama",
     "size": "L",
-    "price": "69,00 RON",
+    "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-taifun-albastru-cu-maneca-scurta-dama-p1260316115943479.html": {
-    "name": "Tricou Taifun, albastru, cu maneca scurta, dama",
+  "https://lamajole.ro/jacheta-c-a-argintie-dama.html": {
+    "name": "Jacheta C&A argintie, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-de-trening-roz-esprit-dama.html": {
-    "name": "Pantaloni de trening roz Esprit, dama",
+  "https://lamajole.ro/p7251002120250720-bluza-lieblingsstuck-dama.html": {
+    "name": "Bluza Lieblingsstuck, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-gerry-weber-alb-dama.html": {
+    "name": "Tricou Gerry Weber alb, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-verde-zara-femei.html": {
+    "name": "Cardigan verde Zara, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-asics-cu-chiloti-inserati-dama.html": {
+    "name": "Pantaloni scurti Asics cu chiloti inserati, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-h-m-model-pentru-maternitate-dama.html": {
-    "name": "Pantaloni scurti H&M model pentru maternitate, dama",
+  "https://lamajole.ro/p6260107151348675-jacheta-sport-jack-wolfskin-dama.html": {
+    "name": "Jacheta sport Jack Wolfskin, dama",
     "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-manor-kaki-din-bumbac-dama-p1260327123247975.html": {
-    "name": "Tricou Manor, kaki, din bumbac, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/maiou-h-m-model-2-in-1-si-terminatie-perforata-dama.html": {
-    "name": "Maiou H&M model 2 in 1 si terminatie perforata, dama",
-    "size": "L",
-    "price": "39,00 RON",
+    "price": "259,00 RON",
     "category": "haine"
   }
 }
