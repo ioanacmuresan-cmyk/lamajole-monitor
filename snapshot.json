@@ -1,56 +1,80 @@
 {
-  "https://lamajole.ro/geaca-mango-water-repellent-dama.html": {
-    "name": "Geaca Mango Water Repellent, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-s-oliver-supradimensionat-cu-pliuri-in-decolteu-dama.html": {
-    "name": "Tricou S.Oliver supradimensionat cu pliuri in decolteu, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-street-one-model-cu-imprimeu-in-dungi-si-guler-clasic-dama.html": {
-    "name": "Camasa Street One model cu imprimeu in dungi si guler clasic, dama",
+  "https://lamajole.ro/colanti-dri-fit-nike-dama.html": {
+    "name": "Colanti Dri-Fit Nike, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/hanorac-c-a-model-cu-imprimeu-reliefat-dama.html": {
-    "name": "Hanorac C&A model cu imprimeu reliefat, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/fusta-neagra-raffaello-rossi-dama.html": {
-    "name": "Fusta neagra Raffaello Rossi, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-taifun-dama.html": {
-    "name": "Geaca Taifun, dama",
+  "https://lamajole.ro/geaca-schi-icepeak-cu-imprimeu-logo-dama.html": {
+    "name": "Geaca schi Icepeak cu imprimeu logo, dama",
     "size": "L",
     "price": "259,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/palton-street-one-in-carouri-dama.html": {
-    "name": "Palton Street One in carouri, dama",
+  "https://lamajole.ro/palton-texturat-s-oliver-dama.html": {
+    "name": "Palton texturat S.Oliver, dama",
+    "size": "L",
+    "price": "299,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sacou-gerry-weber-multicolor-cu-dungi-dama-p7260402114258953.html": {
+    "name": "Sacou Gerry Weber, multicolor, cu dungi, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/p6251210115947297-pantaloni-c-a-verzi-dama.html": {
-    "name": "Pantaloni C&A verzi, dama",
+  "https://lamajole.ro/p6250918154329731-sneakers-adidas-superstar-dama.html": {
+    "name": "Sneakers Adidas Superstar, dama",
+    "size": "37",
+    "price": "199,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/pulover-cos-gri-dama.html": {
+    "name": "Pulover COS gri, dama",
     "size": "L",
-    "price": "79,00 RON",
+    "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-marc-o-polo-cu-maneca-lunga-dama.html": {
-    "name": "Bluza Marc O`Polo cu maneca lunga, dama",
+  "https://lamajole.ro/pantaloni-vero-moda-model-tricotat-dama.html": {
+    "name": "Pantaloni Vero Moda model tricotat, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sacou-vero-moda-albastru-dama.html": {
+    "name": "Sacou Vero Moda albastru, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-maxi-tom-tailor-multicolora-din-viscoza-dama-p7260318131912267.html": {
+    "name": "Rochie Maxi Tom Tailor, multicolora, din viscoza, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
+  },
+  "https://lamajole.ro/hanorac-stradivarius-verde-dama.html": {
+    "name": "Hanorac Stradivarius verde, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-sherpa-dama.html": {
+    "name": "Jacheta Sherpa, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-yessica-rosu-din-bumbac-dama-p5260401110309333.html": {
+    "name": "Tricou Yessica rosu, din bumbac, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/incaltaminte-sport-adidas-cu-talpa-bounce-dama.html": {
+    "name": "Incaltaminte sport Adidas cu talpa Bounce, dama",
+    "size": "39",
+    "price": "199,00 RON",
+    "category": "incaltaminte"
   }
 }
