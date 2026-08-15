@@ -1,62 +1,20 @@
 {
-  "https://lamajole.ro/pantaloni-uniqlo-verde-dama.html": {
-    "name": "Pantaloni Uniqlo verde, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-chicoree-albastra-dama.html": {
-    "name": "Vesta Chicoree albastra, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-someday-cu-decupaje-laterale-dama.html": {
-    "name": "Bluza Someday. cu decupaje laterale, dama",
+  "https://lamajole.ro/pantaloni-roz-sport-h-m-dama.html": {
+    "name": "Pantaloni roz sport H&M, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-ulla-popken-cu-decolteu-evidentiat-dama.html": {
-    "name": "Bluza Ulla Popken cu decolteu evidentiat, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-vila-verde-cu-maneca-lunga-cu-nasturi-dama-p7260127145817475.html": {
-    "name": "Bluza Vila verde cu maneca lunga cu nasturi, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p2250916105540992-bluza-neagra-cos-dama.html": {
-    "name": "Bluza neagra COS, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-taifun-cu-imprimeu-dama.html": {
-    "name": "Bluza Taifun cu imprimeu, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-nile-cu-imprimeu-abstract-dama.html": {
-    "name": "Bluza Nile  cu imprimeu abstract, dama",
+  "https://lamajole.ro/rochie-h-m-bicromatic-dama.html": {
+    "name": "Rochie H&M bicromatic, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantofi-cu-toc-patrat-gabor-dama.html": {
-    "name": "Pantofi cu toc patrat Gabor, dama",
-    "size": "37",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pantaloni-cambio-gri-dama.html": {
-    "name": "Pantaloni Cambio gri, dama",
+  "https://lamajole.ro/tricou-street-one-verde-din-bumbac-dama-p5260312134920659.html": {
+    "name": "Tricou Street One, verde, din bumbac, dama",
     "size": "L",
-    "price": "89,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   },
   "https://lamajole.ro/hanorac-sport-loffler-dama.html": {
@@ -65,10 +23,52 @@
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-maro-gerry-weber-dama.html": {
-    "name": "Pantaloni maro Gerry Weber, dama",
+  "https://lamajole.ro/p7260107112033363-bluza-sport-salomon-dama.html": {
+    "name": "Bluza sport Salomon, dama",
     "size": "L",
-    "price": "129,00 RON",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-ca-alb-cu-maneca-scurta-dama-p7260511113503542.html": {
+    "name": "Tricou C&A alb, cu maneca scurta, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-frieda-freddies-dama.html": {
+    "name": "Jacheta Frieda&Freddies, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/blugi-cu-talie-inalta-gri-h-m-dama.html": {
+    "name": "Blugi cu talie inalta gri H&M, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/tricou-brax-cu-segment-satinat-si-decolteu-tip-barca-dama.html": {
+    "name": "Tricou Brax cu segment satinat si decolteu tip barca, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-jake-s-dama.html": {
+    "name": "Jacheta Jake's, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/salopeta-anna-field-verde-dama.html": {
+    "name": "Salopeta Anna Field verde, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/set-de-pijama-hm-multicolor-cu-dungi-dama-p3260625164319332.html": {
+    "name": "Set De Pijama H&M, multicolor, cu dungi, dama",
+    "size": "L",
+    "price": "59,00 RON",
     "category": "haine"
   }
 }
