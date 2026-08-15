@@ -1,74 +1,98 @@
 {
-  "https://lamajole.ro/pantaloni-roz-sport-h-m-dama.html": {
-    "name": "Pantaloni roz sport H&M, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-h-m-bicromatic-dama.html": {
-    "name": "Rochie H&M bicromatic, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-street-one-verde-din-bumbac-dama-p5260312134920659.html": {
-    "name": "Tricou Street One, verde, din bumbac, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/hanorac-sport-loffler-dama.html": {
-    "name": "Hanorac sport Loffler, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p7260107112033363-bluza-sport-salomon-dama.html": {
-    "name": "Bluza sport Salomon, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricou-ca-alb-cu-maneca-scurta-dama-p7260511113503542.html": {
-    "name": "Tricou C&A alb, cu maneca scurta, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/jacheta-frieda-freddies-dama.html": {
-    "name": "Jacheta Frieda&Freddies, dama",
+  "https://lamajole.ro/colanti-nike-roz-sport-dama-p6260225104503143.html": {
+    "name": "Colanti Nike roz, sport, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/blugi-cu-talie-inalta-gri-h-m-dama.html": {
-    "name": "Blugi cu talie inalta gri H&M, dama",
+  "https://lamajole.ro/slapi-havaianas-roz-dama-p2260624075438963.html": {
+    "name": "Slapi Havaianas roz, dama",
+    "size": "37",
+    "price": "39,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/tricou-street-one-rosu-din-viscoza-dama-p4260630094628937.html": {
+    "name": "Tricou Street One, rosu, din viscoza, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-zara-multicolora-din-bumbac-dama-p7260302110106579.html": {
+    "name": "Camasa Zara, multicolora, din bumbac, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/maiou-nike-cu-slituri-laterale-si-sectiune-perforata-dama.html": {
+    "name": "Maiou Nike cu slituri laterale si sectiune perforata, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/tricou-brax-cu-segment-satinat-si-decolteu-tip-barca-dama.html": {
-    "name": "Tricou Brax cu segment satinat si decolteu tip barca, dama",
+  "https://lamajole.ro/polar-sportalm-dama.html": {
+    "name": "Polar Sportalm, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-massimo-dutti-cu-terminatie-asimetrica-si-imprimeu-cu-buline-dama.html": {
+    "name": "Camasa Massimo Dutti cu terminatie asimetrica si imprimeu cu buline, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/sneakers-buffalo-multicolori-talpa-cu-platforma-dama-p1260319103011931.html": {
+    "name": "Sneakers Buffalo, multicolori, talpa cu platforma, dama",
+    "size": "39",
+    "price": "199,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/chiloti-de-baie-hm-verzi-cu-dungi-dama-p7260520130438034.html": {
+    "name": "Chiloti De Baie H&M, verzi cu dungi, dama",
+    "size": "L",
+    "price": "19,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-c-a-model-cromatic-cu-decolteu-in-v-cu-nasturi-decorativi-dama.html": {
+    "name": "Bluza C&A model cromatic cu decolteu in V cu nasturi decorativi, dama",
+    "size": "L",
+    "price": "19,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-street-one-multocolora-dama.html": {
+    "name": "Camasa Street One multicolora, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/slapi-tommy-hilfiger-albastri-cu-imprimeu-geometric-dama-p1260623141138445.html": {
+    "name": "Slapi Tommy Hilfiger, albastri, cu imprimeu geometric, dama",
+    "size": "39",
+    "price": "129,00 RON",
+    "category": "incaltaminte"
+  },
+  "https://lamajole.ro/costum-sport-puma-mov-cu-bretele-fara-maneci-dama-p5260415151511283.html": {
+    "name": "Costum Sport Puma mov, cu bretele, fara maneci, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/jacheta-jake-s-dama.html": {
-    "name": "Jacheta Jake's, dama",
+  "https://lamajole.ro/hanorac-naketano-albastru-dama.html": {
+    "name": "Hanorac Naketano albastru, dama",
     "size": "L",
-    "price": "199,00 RON",
+    "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/salopeta-anna-field-verde-dama.html": {
-    "name": "Salopeta Anna Field verde, dama",
+  "https://lamajole.ro/pantaloni-sport-essentials-monocromatici-cu-talie-elastica-dama.html": {
+    "name": "Pantaloni sport Essentials monocromatici cu talie elastica, dama",
     "size": "L",
-    "price": "59,00 RON",
+    "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/set-de-pijama-hm-multicolor-cu-dungi-dama-p3260625164319332.html": {
-    "name": "Set De Pijama H&M, multicolor, cu dungi, dama",
+  "https://lamajole.ro/p4250902081407035-sacou-h-m-verde-dama.html": {
+    "name": "Sacou H&M verde, dama",
     "size": "L",
-    "price": "59,00 RON",
+    "price": "79,00 RON",
     "category": "haine"
   }
 }
