@@ -83,12 +83,6 @@
     "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/vesta-gri-chicoree-dama.html": {
-    "name": "Vesta gri Chicoree, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/fusta-gerry-weber-model-petrecut-dama.html": {
     "name": "Fusta Gerry Weber model petrecut, dama",
     "size": "L",
@@ -112,5 +106,11 @@
     "size": "L",
     "price": "29,00 RON",
     "category": "haine"
+  },
+  "https://lamajole.ro/sandale-anna-field-roz-cu-barete-evidentiate-din-strasuri-dama.html": {
+    "name": "Sandale Anna Field roz cu barete evidentiate din strasuri, dama",
+    "size": "39",
+    "price": "159,00 RON",
+    "category": "incaltaminte"
   }
 }
