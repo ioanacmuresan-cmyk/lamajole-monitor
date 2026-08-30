@@ -1,4 +1,10 @@
 {
+  "https://lamajole.ro/tricou-paul-kehl-model-cu-decolteu-rotund-si-intr-o-culoare-monocroma-dama.html": {
+    "name": "Tricou Paul Kehl model cu decolteu rotund si intr-o culoare monocroma, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
   "https://lamajole.ro/bluza-de-compresie-oldo-cu-imprimeu-camuflaj-barbati.html": {
     "name": "Bluza de compresie Oldo cu imprimeu camuflaj, dama",
     "size": "L",
@@ -111,12 +117,6 @@
     "name": "Camasa H&M, multicolora, din in si bumbac, dama",
     "size": "L",
     "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/cardigan-gri-c-a-dama.html": {
-    "name": "Cardigan gri C&A, dama",
-    "size": "L",
-    "price": "59,00 RON",
     "category": "haine"
   }
 }
