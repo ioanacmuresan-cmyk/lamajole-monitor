@@ -59,12 +59,6 @@
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-smithsoul-alba-cu-maneca-lunga-cu-pliuri-dama-p3260115143245965.html": {
-    "name": "Bluza Smith&Soul alba cu maneca lunga cu pliuri, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/pantaloni-scurti-hm-albastri-din-bumbac-dama-p4260605090933075.html": {
     "name": "Pantaloni Scurti H&M, albastri, din bumbac, dama",
     "size": "L",
@@ -117,6 +111,12 @@
     "name": "Camasa H&M, multicolora, din in si bumbac, dama",
     "size": "L",
     "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-gri-c-a-dama.html": {
+    "name": "Cardigan gri C&A, dama",
+    "size": "L",
+    "price": "59,00 RON",
     "category": "haine"
   }
 }
