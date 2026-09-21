@@ -1,126 +1,18 @@
 {
-  "https://lamajole.ro/tricou-paul-kehl-model-cu-decolteu-rotund-si-intr-o-culoare-monocroma-dama.html": {
-    "name": "Tricou Paul Kehl model cu decolteu rotund si intr-o culoare monocroma, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-de-compresie-oldo-cu-imprimeu-camuflaj-barbati.html": {
-    "name": "Bluza de compresie Oldo cu imprimeu camuflaj, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/polar-snow-tech-bordo-dama.html": {
-    "name": "Polar Snow Tech bordo, dama",
+  "https://lamajole.ro/tricouri-maneca-lunga-soliver-multicolor-dama-p6260827154919358.html": {
+    "name": "Tricou Maneca Lunga s.Oliver, multicolor, dama",
     "size": "L",
     "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-tom-tailor-multicolora-din-viscoza-dama-p3260604114331936.html": {
-    "name": "Bluza Tom Tailor, multicolora, din viscoza, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/p7250820155035491-bluza-c-a-albastra-dama.html": {
-    "name": "Bluza C&A albastra, dama",
+  "https://lamajole.ro/bluza-united-colors-of-benetton-albastra-din-bumbac-dama-p6260827154919247.html": {
+    "name": "Bluza United Colors Of Benetton, albastra, din bumbac, dama",
     "size": "L",
     "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantofi-dorothy-perkins-dama.html": {
-    "name": "Pantofi Dorothy Perkins, dama",
-    "size": "37",
-    "price": "69,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/bluza-street-one-cu-buline-dama.html": {
-    "name": "Bluza Street One cu buline, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-nina-maro-dama.html": {
-    "name": "Pulover Nina maro, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-cos-semitransparent-dama.html": {
-    "name": "Pulover COS semitransparent, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-smithsoul-alba-cu-maneca-lunga-cu-pliuri-dama-p3260115143245965.html": {
-    "name": "Bluza Smith&Soul alba cu maneca lunga cu pliuri, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-hm-albastri-din-bumbac-dama-p4260605090933075.html": {
-    "name": "Pantaloni Scurti H&M, albastri, din bumbac, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sacou-gri-pinko-dama.html": {
-    "name": "Sacou gri Pinko, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/fusta-gerry-weber-model-petrecut-dama.html": {
-    "name": "Fusta Gerry Weber model petrecut, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/maiou-nike-cu-slituri-laterale-si-sectiune-perforata-dama.html": {
-    "name": "Maiou Nike cu slituri laterale si sectiune perforata, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-sport-tommy-hilfiger-cu-imprimeu-camuflaj-dama.html": {
-    "name": "Pantaloni scurti sport Tommy Hilfiger cu imprimeu camuflaj, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantofi-gerry-weber-bej-cu-catarama-dama-p6260319134444855.html": {
-    "name": "Pantofi Gerry Weber, bej, cu catarama, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sandale-anna-field-roz-cu-barete-evidentiate-din-strasuri-dama.html": {
-    "name": "Sandale Anna Field roz cu barete evidentiate din strasuri, dama",
-    "size": "39",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/geaca-bonita-model-bicromatic-dama.html": {
-    "name": "Geaca Bonita model bicromatic, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/camasa-hm-multicolora-din-in-si-bumbac-dama-p1260518152930736.html": {
-    "name": "Camasa H&M, multicolora, din in si bumbac, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/cardigan-gri-c-a-dama.html": {
-    "name": "Cardigan gri C&A, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/salopeta-topshop-model-cu-aspect-catifelat-si-usor-texturat-dama.html": {
-    "name": "Salopeta Topshop model cu aspect catifelat si usor texturat, dama",
+  "https://lamajole.ro/fusta-set-multicolora-din-viscoza-si-matase-dama-p7260326083454705.html": {
+    "name": "Fusta Set, multicolora, din viscoza si matase, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
