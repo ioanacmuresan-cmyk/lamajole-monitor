@@ -35,14 +35,14 @@
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-hm-neagra-cu-maneca-lunga-cu-nasturi-dama-p6260828130203481.html": {
-    "name": "Bluza H&M neagra, cu maneca lunga, cu nasturi, dama",
+  "https://lamajole.ro/bluza-vila-alb-din-bumbac-dama-p6260828130203387.html": {
+    "name": "Bluza Vila, alba, din bumbac, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluza-vila-alb-din-bumbac-dama-p6260828130203387.html": {
-    "name": "Bluza Vila, alba, din bumbac, dama",
+  "https://lamajole.ro/bluza-hm-neagra-cu-maneca-lunga-cu-nasturi-dama-p6260828130203481.html": {
+    "name": "Bluza H&M neagra, cu maneca lunga, cu nasturi, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
@@ -59,16 +59,16 @@
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/jacheta-mammut-albastra-dama-p6260824111339954.html": {
-    "name": "Jacheta Mammut albastra, dama",
-    "size": "L",
-    "price": "259,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/bluza-cecil-albastra-din-viscoza-dama-p4260903115424686.html": {
     "name": "Bluza Cecil, albastra, din viscoza, dama",
     "size": "L",
     "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/jacheta-mammut-albastra-dama-p6260824111339954.html": {
+    "name": "Jacheta Mammut albastra, dama",
+    "size": "L",
+    "price": "259,00 RON",
     "category": "haine"
   },
   "https://lamajole.ro/hanorace-bej-dama-p3260908091826392.html": {
@@ -93,6 +93,12 @@
     "name": "Hanorac Monari, bej, din viscoza, dama",
     "size": "L",
     "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-amisu-multicolor-din-bumbac-si-lana-dama-p3260831083853055.html": {
+    "name": "Pulover Amisu, multicolor, din bumbac si lana, dama",
+    "size": "L",
+    "price": "39,00 RON",
     "category": "haine"
   }
 }
