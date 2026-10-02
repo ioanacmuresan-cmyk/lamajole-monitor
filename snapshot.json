@@ -1,104 +1,74 @@
 {
-  "https://lamajole.ro/rochii-maxi-hm-negre-din-bumbac-si-viscoza-dama-p7260902104725894.html": {
-    "name": "Rochie Maxi H&M, neagra, din bumbac si viscoza, dama",
+  "https://lamajole.ro/colanti-adidas-visiniu-dama-p7260825122140225.html": {
+    "name": "Colanti Adidas, visinii, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-sport-mckinley-gri-dama-p7260825122109990.html": {
+    "name": "Pantaloni Sport McKinley gri, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-sport-mckinley-gri-dama-p7260825122109629.html": {
+    "name": "Pantaloni Sport McKinley gri, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-sport-cambio-negri-dama-p6260904105708647.html": {
+    "name": "Pantaloni Sport Cambio, negri, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-mammut-negri-dama-p6260825152416005.html": {
+    "name": "Pantaloni Mammut negri, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-sport-soldout-bej-dama-p3260908091826237.html": {
+    "name": "Pantaloni Sport, Soldout bej, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-puma-multicolori-dama-p2260821120338294.html": {
+    "name": "Colanti Puma, multicolori, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-nike-multicolori-dama-p2260821120328774.html": {
+    "name": "Colanti Nike multicolori, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-de-trening-hm-galbeni-dama-p1260818115639557.html": {
+    "name": "Pantaloni De Trening H&M galbeni, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-sport-schoffel-gri-dama-p1260818115616339.html": {
+    "name": "Pantaloni Sport Schoffel gri, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-sport-street-one-maro-din-viscoza-dama-p7260821102059092.html": {
+    "name": "Pantaloni Sport Street One, maro, din viscoza, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/bluze-bogner-multicolora-dama-p7260825122120362.html": {
-    "name": "Bluza Bogner, multicolora, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricouri-maneca-lunga-street-one-negru-dama-p7260824120624297.html": {
-    "name": "Tricou Maneca Lunga Street One, negru, dama",
+  "https://lamajole.ro/bluza-hm-multicolora-dama-p4260901160902082.html": {
+    "name": "Bluza H&M, multicolora, dama",
     "size": "L",
     "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-bonita-multicolora-dama-p7260824120616705.html": {
-    "name": "Bluza Bonita multicolora, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/tricouri-maneca-lunga-zero-negru-dama-p7260824120624013.html": {
-    "name": "Tricou Maneca Lunga Zero, negru, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-goldbergh-aurie-dama-p7260821102051318.html": {
-    "name": "Bluza Goldbergh aurie, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-vila-alb-din-bumbac-dama-p6260828130203387.html": {
-    "name": "Bluza Vila, alba, din bumbac, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-hm-neagra-cu-maneca-lunga-cu-nasturi-dama-p6260828130203481.html": {
-    "name": "Bluza H&M neagra, cu maneca lunga, cu nasturi, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluze-hm-bej-din-viscoza-dama-p6260828130203190.html": {
-    "name": "Bluza H&M, bej, din viscoza, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-maneca-lunga-rapha-multicolora-dama-p6260824111353318.html": {
-    "name": "Bluza Maneca Lunga Rapha, multicolora, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-cecil-albastra-din-viscoza-dama-p4260903115424686.html": {
-    "name": "Bluza Cecil, albastra, din viscoza, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/jacheta-mammut-albastra-dama-p6260824111339954.html": {
-    "name": "Jacheta Mammut albastra, dama",
-    "size": "L",
-    "price": "259,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/hanorace-bej-dama-p3260908091826392.html": {
-    "name": "Hanorac, bej, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/hanorac-bej-din-bumbac-dama-p3260908091826069.html": {
-    "name": "Hanorac bej, din bumbac, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-sherpa-neagra-dama-p3260908091803736.html": {
-    "name": "Geaca Sherpa neagra, dama",
-    "size": "L",
-    "price": "259,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/hanorac-monari-bej-din-viscoza-dama-p3260904102213961.html": {
-    "name": "Hanorac Monari, bej, din viscoza, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-amisu-multicolor-din-bumbac-si-lana-dama-p3260831083853055.html": {
-    "name": "Pulover Amisu, multicolor, din bumbac si lana, dama",
-    "size": "L",
-    "price": "39,00 RON",
     "category": "haine"
   }
 }
