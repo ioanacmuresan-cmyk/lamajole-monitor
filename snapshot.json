@@ -1,68 +1,74 @@
 {
-  "https://lamajole.ro/colanti-adidas-visiniu-dama-p7260825122140225.html": {
-    "name": "Colanti Adidas, visinii, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-sport-mckinley-gri-dama-p7260825122109990.html": {
-    "name": "Pantaloni Sport McKinley gri, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-sport-mckinley-gri-dama-p7260825122109629.html": {
-    "name": "Pantaloni Sport McKinley gri, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-sport-cambio-negri-dama-p6260904105708647.html": {
-    "name": "Pantaloni Sport Cambio, negri, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-mammut-negri-dama-p6260825152416005.html": {
-    "name": "Pantaloni Mammut negri, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-sport-soldout-bej-dama-p3260908091826237.html": {
-    "name": "Pantaloni Sport, Soldout bej, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/colanti-puma-multicolori-dama-p2260821120338294.html": {
-    "name": "Colanti Puma, multicolori, dama",
+  "https://lamajole.ro/camasa-bonita-cu-decupaj-la-decolteu-si-terminatie-elastica-dama.html": {
+    "name": "Camasa Bonita cu decupaj la decolteu si terminatie elastica, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/colanti-nike-multicolori-dama-p2260821120328774.html": {
-    "name": "Colanti Nike multicolori, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-de-trening-hm-galbeni-dama-p1260818115639557.html": {
-    "name": "Pantaloni De Trening H&M galbeni, dama",
+  "https://lamajole.ro/pulover-nou-h-m-cu-model-texturat-si-insertie-de-volane-dama.html": {
+    "name": "Pulover nou H&M cu model texturat si insertie de volane, dama",
     "size": "L",
     "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-sport-schoffel-gri-dama-p1260818115616339.html": {
-    "name": "Pantaloni Sport Schoffel gri, dama",
+  "https://lamajole.ro/bluza-est-manomama-cu-maneci-liliac-si-decolteu-barca-dama.html": {
+    "name": "Bluza Est Manomama cu maneci liliac si decolteu barca, dama",
     "size": "L",
-    "price": "129,00 RON",
+    "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-sport-street-one-maro-din-viscoza-dama-p7260821102059092.html": {
-    "name": "Pantaloni Sport Street One, maro, din viscoza, dama",
+  "https://lamajole.ro/camasa-gerry-weber-casual-cu-decolteu-decupat-dama.html": {
+    "name": "Camasa Gerry Weber cu decolteu decupat, dama",
     "size": "L",
-    "price": "79,00 RON",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-hm-din-denim-model-cu-buzunare-false-dama.html": {
+    "name": "Pantaloni scurti H&M din denim, model cu buzunare false, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/maiou-zara-cu-model-scurt-si-aspect-reiat-dama.html": {
+    "name": "Maiou Zara cu model scurt si aspect reiat, dama",
+    "size": "L",
+    "price": "29,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-s-oliver-cu-nasturi-metalici-si-imprimeu-oriental-dama.html": {
+    "name": "Camasa s.Oliver cu nasturi metalici si imprimeu oriental, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-someday-cu-decupaje-laterale-dama.html": {
+    "name": "Bluza Someday. cu decupaje laterale, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-guess-cu-maneci-cazute-si-strasuri-aplicate-dama.html": {
+    "name": "Bluza Guess cu maneci cazute si strasuri aplicate, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-benetton-cu-terminatie-elastica-si-aspect-sidefat-dama.html": {
+    "name": "Bluza Benetton cu terminatie elastica si aspect sidefat, dama",
+    "size": "L",
+    "price": "49,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-h-m-cu-decolteu-patrat-si-terminatie-valurita-dama.html": {
+    "name": "Camasa H&M cu decolteu patrat si terminatie valurita, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/camasa-h-m-cu-aspect-satinat-si-mansete-late-dama.html": {
+    "name": "Camasa H&M cu aspect satinat si mansete late, dama",
+    "size": "L",
+    "price": "59,00 RON",
     "category": "haine"
   }
 }
