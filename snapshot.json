@@ -1,4 +1,58 @@
 {
+  "https://lamajole.ro/pantaloni-ca-negri-cu-talie-inalta-dama-p7260923113007995.html": {
+    "name": "Pantaloni C&A negri, cu talie inalta, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-sport-icepeak-negri-cu-fermoar-sport-dama-p7260923112901761.html": {
+    "name": "Pantaloni Sport Icepeak, negri, cu fermoar, sport, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-hm-gri-cu-dungi-dama-p7260918120721844.html": {
+    "name": "Pantaloni H&M, gri, cu dungi, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-casual-comma-maro-croiala-standard-dama-p7260918120701311.html": {
+    "name": "Pantaloni Casual Comma, maro, croiala standard, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-esprit-negri-din-viscoza-dama-p6260909110227316.html": {
+    "name": "Pantaloni Esprit, negri, din viscoza, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-de-pijama-naturaline-multicolori-din-bumbac-dama-p4260922112559821.html": {
+    "name": "Pantaloni De Pijama Naturaline, multicolori, din bumbac, dama",
+    "size": "L",
+    "price": "39,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-de-pijama-calida-multicolori-din-bumbac-dama-p4260922112530802.html": {
+    "name": "Pantaloni De Pijama Calida, multicolori, din bumbac, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-bonita-albastri-cu-talie-elastica-dama-p4260914092954298.html": {
+    "name": "Pantaloni Bonita, albastri, cu talie elastica, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantalon-casual-ca-maro-din-viscoza-dama-p3260917113624981.html": {
+    "name": "Pantalon Casual C&A, maro, din viscoza, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
   "https://lamajole.ro/halat-rosch-multicolor-cu-imprimeu-geometric-dama-p5260916103905573.html": {
     "name": "Halat Rosch, multicolor, cu imprimeu geometric, dama",
     "size": "L",
@@ -15,42 +69,6 @@
     "name": "Fusta Primark, neagra, din viscoza, dama",
     "size": "L",
     "price": "19,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/fusta-zara-neagra-dama-p4260922151155246.html": {
-    "name": "Fusta Zara, neagra, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantalon-ca-gri-cu-pliuri-dama-p4260922112450134.html": {
-    "name": "Pantalon C&A gri, cu pliuri, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-ca-neagra-casual-matlasata-cu-cordon-dama-p4260914094916868.html": {
-    "name": "Vesta C&A, neagra, casual, matlasata, cu cordon, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-casual-stradivarius-gri-lejeri-dama-p4260910141038961.html": {
-    "name": "Pantaloni Casual Stradivarius, gri, lejeri, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-maxi-taifun-multicolora-din-bumbac-dama-p3260923123404050.html": {
-    "name": "Rochie Maxi Taifun, multicolora, din bumbac, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-maxi-hm-kaki-din-viscoza-si-lana-dama-p3260923080542385.html": {
-    "name": "Rochie Maxi H&M, kaki, din viscoza si lana, dama",
-    "size": "L",
-    "price": "69,00 RON",
     "category": "haine"
   }
 }
