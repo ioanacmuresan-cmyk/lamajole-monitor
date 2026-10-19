@@ -1,4 +1,52 @@
 {
+  "https://lamajole.ro/vesta-multiblu-albastra-dama.html": {
+    "name": "Vesta Multiblu albastra, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-zara-maro-cu-fermoar-dama-p6260909110243380.html": {
+    "name": "Pantaloni Zara maro, cu fermoar, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-casual-street-one-gri-dama-p6260909110233227.html": {
+    "name": "Pantaloni Casual Street One, gri, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-asos-negri-cu-pliuri-dama-p5260916103811063.html": {
+    "name": "Pantaloni Asos, negri, cu pliuri, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-cargo-zebra-maro-cu-mansete-elastice-dama-p5260916103835862.html": {
+    "name": "Pantaloni Cargo Zebra, maro, cu mansete elastice, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-stradivarius-negri-din-viscoza-dama-p5260916103836048.html": {
+    "name": "Pantaloni Stradivarius, negri, din viscoza, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/colanti-nike-gri-din-bumbac-dama-p4260914094256537.html": {
+    "name": "Colanti Nike, gri, din bumbac, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-stradivarius-negri-din-viscoza-dama-p4260914094322002.html": {
+    "name": "Pantaloni Stradivarius, negri, din viscoza, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
   "https://lamajole.ro/pantaloni-ca-negri-cu-talie-inalta-dama-p7260923113007995.html": {
     "name": "Pantaloni C&A negri, cu talie inalta, dama",
     "size": "L",
@@ -55,24 +103,6 @@
   },
   "https://lamajole.ro/halat-rosch-multicolor-cu-imprimeu-geometric-dama-p5260916103905573.html": {
     "name": "Halat Rosch, multicolor, cu imprimeu geometric, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-maxi-h-m-roz-din-viscoza-dama-p5260916103824247.html": {
-    "name": "Rochie Maxi H&M, roz, din viscoza, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/fusta-primark-neagra-din-viscoza-dama-p4260922151253019.html": {
-    "name": "Fusta Primark, neagra, din viscoza, dama",
-    "size": "L",
-    "price": "19,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/fusta-zara-neagra-dama-p4260922151155246.html": {
-    "name": "Fusta Zara, neagra, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
