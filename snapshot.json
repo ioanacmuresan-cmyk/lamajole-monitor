@@ -1,4 +1,10 @@
 {
+  "https://lamajole.ro/set-de-pijama-calida-albastru-cu-dantela-dama-p5260916103857390.html": {
+    "name": "Set De Pijama Calida albastru, cu dantela, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
   "https://lamajole.ro/pantaloni-zara-maro-cu-fermoar-dama-p6260909110243380.html": {
     "name": "Pantaloni Zara maro, cu fermoar, dama",
     "size": "L",
@@ -77,12 +83,6 @@
     "price": "39,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-de-pijama-calida-multicolori-din-bumbac-dama-p4260922112530802.html": {
-    "name": "Pantaloni De Pijama Calida, multicolori, din bumbac, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/pantaloni-bonita-albastri-cu-talie-elastica-dama-p4260914092954298.html": {
     "name": "Pantaloni Bonita, albastri, cu talie elastica, dama",
     "size": "L",
@@ -91,12 +91,6 @@
   },
   "https://lamajole.ro/pantalon-casual-ca-maro-din-viscoza-dama-p3260917113624981.html": {
     "name": "Pantalon Casual C&A, maro, din viscoza, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/halat-rosch-multicolor-cu-imprimeu-geometric-dama-p5260916103905573.html": {
-    "name": "Halat Rosch, multicolor, cu imprimeu geometric, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
