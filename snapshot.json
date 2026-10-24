@@ -112,5 +112,17 @@
     "size": "37",
     "price": "199,00 RON",
     "category": "incaltaminte"
+  },
+  "https://lamajole.ro/set-de-pijama-calida-albastru-cu-dantela-dama-p5260916103857390.html": {
+    "name": "Set De Pijama Calida albastru, cu dantela, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-zara-maro-cu-fermoar-dama-p6260909110243380.html": {
+    "name": "Pantaloni Zara maro, cu fermoar, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
   }
 }
