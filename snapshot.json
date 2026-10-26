@@ -17,8 +17,8 @@
     "price": "199,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/ghete-kaki-cu-siret-cu-fermoar-si-talpa-cu-platforma-dama-p6260821144446988.html": {
-    "name": "Ghete kaki, cu siret, cu fermoar si talpa cu platforma, dama",
+  "https://lamajole.ro/ghete-kaki-bagatt-cu-siret-cu-fermoar-si-talpa-cu-platforma-dama-p6260821144446988.html": {
+    "name": "Ghete kaki, Bagatt cu siret, cu fermoar si talpa cu platforma, dama",
     "size": "39",
     "price": "159,00 RON",
     "category": "incaltaminte"
@@ -71,12 +71,6 @@
     "price": "199,00 RON",
     "category": "incaltaminte"
   },
-  "https://lamajole.ro/pantofi-negri-din-piele-naturala-dama-p3260925110244015.html": {
-    "name": "Pantofi, negri, din piele naturala, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
   "https://lamajole.ro/pantofi-kennel-schmenger-negri-cu-talpa-cu-platforma-dama-p3260925110216178.html": {
     "name": "Pantofi Kennel & Schmenger, negri, cu talpa cu platforma, dama",
     "size": "39",
@@ -89,8 +83,8 @@
     "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantofi-negri-din-piele-naturala-dama-p1261002145630370.html": {
-    "name": "Pantofi, negri, din piele naturala, dama",
+  "https://lamajole.ro/pantofi-pertini-negri-din-piele-naturala-dama-p1261002145630370.html": {
+    "name": "Pantofi, Pertini negri, din piele naturala, dama",
     "size": "37",
     "price": "159,00 RON",
     "category": "incaltaminte"
@@ -111,6 +105,30 @@
     "name": "Pantaloni Zara maro, cu fermoar, dama",
     "size": "L",
     "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-casual-street-one-gri-dama-p6260909110233227.html": {
+    "name": "Pantaloni Casual Street One, gri, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-asos-negri-cu-pliuri-dama-p5260916103811063.html": {
+    "name": "Pantaloni Asos, negri, cu pliuri, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-cargo-zebra-maro-cu-mansete-elastice-dama-p5260916103835862.html": {
+    "name": "Pantaloni Cargo Zebra, maro, cu mansete elastice, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-stradivarius-negri-din-viscoza-dama-p5260916103836048.html": {
+    "name": "Pantaloni Stradivarius, negri, din viscoza, dama",
+    "size": "L",
+    "price": "59,00 RON",
     "category": "haine"
   }
 }
