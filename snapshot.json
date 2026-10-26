@@ -1,134 +1,80 @@
 {
-  "https://lamajole.ro/sneakers-sherpa-multicolori-cu-logo-dama-p6260821144545578.html": {
-    "name": "Sneakers Sherpa, multicolori, cu logo, dama",
-    "size": "39",
-    "price": "299,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sneakers-puma-roz-cu-siret-dama-p6260821144515674.html": {
-    "name": "Sneakers Puma, roz, cu siret, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sneakers-skechers-verzi-din-piele-naturala-dama-p6260821144519828.html": {
-    "name": "Sneakers Skechers, verzi, din piele naturala, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/ghete-kaki-bagatt-cu-siret-cu-fermoar-si-talpa-cu-platforma-dama-p6260821144446988.html": {
-    "name": "Ghete kaki, Bagatt cu siret, cu fermoar si talpa cu platforma, dama",
-    "size": "39",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sneakers-nike-multicolori-cu-siret-talpa-plata-dama-p6260821144515386.html": {
-    "name": "Sneakers Nike, multicolori, cu siret, talpa plata, dama",
-    "size": "39",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sneakers-skechers-roz-cu-siret-si-talpa-plata-dama-p6260821144426085.html": {
-    "name": "Sneakers Skechers, roz, cu siret si talpa plata, dama",
-    "size": "39",
-    "price": "99,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pantofi-paul-green-negri-din-piele-naturala-dama-p5261002144500095.html": {
-    "name": "Pantofi Paul Green, negri, din piele naturala, dama",
-    "size": "39",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sneakers-skechers-negri-din-piele-naturala-dama-p5261002144459500.html": {
-    "name": "Sneakers Skechers, negri, din piele naturala, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sneaker-helvesko-negru-din-piele-naturala-dama-p5261002144459796.html": {
-    "name": "Sneaker Helvesko, negru, din piele naturala, dama",
-    "size": "40",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/balerini-stradivarius-maro-cu-talpa-plata-dama-p5260818155314227.html": {
-    "name": "Balerini Stradivarius, maro, cu talpa plata, dama",
-    "size": "39",
+  "https://lamajole.ro/pantaloni-sport-ca-negri-dama-p7261007104416193.html": {
+    "name": "Pantaloni Sport C&A, negri, dama",
+    "size": "L",
     "price": "69,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sneaker-skechers-turcoaz-cu-siret-dama-p3260925110312743.html": {
-    "name": "Sneaker Skechers, turcoaz, cu siret, dama",
-    "size": "40",
-    "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantofi-hogl-negri-cu-talpa-cu-platforma-dama-p3260925110245675.html": {
-    "name": "Pantofi Högl, negri, cu talpa cu platforma, dama",
-    "size": "37",
+  "https://lamajole.ro/pantaloni-sport-jack-wolfskin-visinii-cu-fermoar-dama-p6260930150738087.html": {
+    "name": "Pantaloni Sport Jack Wolfskin, visinii, cu fermoar, dama",
+    "size": "L",
     "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pantofi-kennel-schmenger-negri-cu-talpa-cu-platforma-dama-p3260925110216178.html": {
-    "name": "Pantofi Kennel & Schmenger, negri, cu talpa cu platforma, dama",
-    "size": "39",
-    "price": "259,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/pantof-clarks-negru-din-piele-naturala-dama-p1261002145630213.html": {
-    "name": "Pantof Clarks, negru, din piele naturala, dama",
-    "size": "40",
-    "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantofi-pertini-negri-din-piele-naturala-dama-p1261002145630370.html": {
-    "name": "Pantofi, Pertini negri, din piele naturala, dama",
-    "size": "37",
-    "price": "159,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/sneakers-guess-negri-cu-siret-si-talpa-cu-platforma-dama-p1261002145617546.html": {
-    "name": "Sneakers Guess, negri, cu siret si talpa cu platforma, dama",
-    "size": "37",
-    "price": "199,00 RON",
-    "category": "incaltaminte"
-  },
-  "https://lamajole.ro/set-de-pijama-calida-albastru-cu-dantela-dama-p5260916103857390.html": {
-    "name": "Set De Pijama Calida albastru, cu dantela, dama",
+  "https://lamajole.ro/fusta-salewa-multicolora-din-lana-dama-p6260928110241222.html": {
+    "name": "Fusta Salewa, multicolora, din lana, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-zara-maro-cu-fermoar-dama-p6260909110243380.html": {
-    "name": "Pantaloni Zara maro, cu fermoar, dama",
+  "https://lamajole.ro/pantaloni-comma-bej-din-viscoza-dama-p5261001120102555.html": {
+    "name": "Pantaloni Comma, bej, din viscoza, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantalon-de-trening-pigalle-mov-din-bumbac-dama-p5260930140639632.html": {
+    "name": "Pantalon De Trening Pigalle, mov, din bumbac, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/blugi-stradivarius-albastri-din-bumbac-dama-p1260928115533064.html": {
+    "name": "Blugi Stradivarius albastri, din bumbac, dama",
     "size": "L",
     "price": "79,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-casual-street-one-gri-dama-p6260909110233227.html": {
-    "name": "Pantaloni Casual Street One, gri, dama",
+  "https://lamajole.ro/blugi-ca-albastri-lejeri-cu-nasturi-dama-p1260928115532884.html": {
+    "name": "Blugi C&A albastri, lejeri, cu nasturi, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-zara-negri-dama-p7260929102208550.html": {
+    "name": "Pantaloni Scurti Zara, negri, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-maxi-ca-gri-din-viscoza-dama-p7260929102200044.html": {
+    "name": "Rochie Maxi C&A, gri, din viscoza, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-mini-hm-multicolora-cu-imprimeu-geometric-dama-p5260930140834058.html": {
+    "name": "Rochie Mini H&M, multicolora, cu imprimeu geometric, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-maxi-hallhuber-verde-din-viscoza-dama-p5260930140616461.html": {
+    "name": "Rochie Maxi Hallhuber, verde, din viscoza, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/fusta-nile-maro-dama-p5260930140551492.html": {
+    "name": "Fusta Nile, maro, dama",
     "size": "L",
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-asos-negri-cu-pliuri-dama-p5260916103811063.html": {
-    "name": "Pantaloni Asos, negri, cu pliuri, dama",
+  "https://lamajole.ro/fusta-amisu-visinie-dama-p4261007155400612.html": {
+    "name": "Fusta Amisu, visinie, dama",
     "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-cargo-zebra-maro-cu-mansete-elastice-dama-p5260916103835862.html": {
-    "name": "Pantaloni Cargo Zebra, maro, cu mansete elastice, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-stradivarius-negri-din-viscoza-dama-p5260916103836048.html": {
-    "name": "Pantaloni Stradivarius, negri, din viscoza, dama",
-    "size": "L",
-    "price": "59,00 RON",
+    "price": "39,00 RON",
     "category": "haine"
   }
 }
