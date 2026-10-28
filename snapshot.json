@@ -1,4 +1,10 @@
 {
+  "https://lamajole.ro/pantaloni-sport-ca-negri-dama-p7261007104416193.html": {
+    "name": "Pantaloni Sport C&A, negri, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
   "https://lamajole.ro/pantaloni-sport-jack-wolfskin-visinii-cu-fermoar-dama-p6260930150738087.html": {
     "name": "Pantaloni Sport Jack Wolfskin, visinii, cu fermoar, dama",
     "size": "L",
@@ -63,12 +69,6 @@
     "name": "Fusta Amisu, visinie, dama",
     "size": "L",
     "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/fusta-reserved-crem-din-viscoza-dama-p1261006142136382.html": {
-    "name": "Fusta Reserved, crem, din viscoza, dama",
-    "size": "L",
-    "price": "69,00 RON",
     "category": "haine"
   }
 }
