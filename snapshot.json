@@ -1,10 +1,4 @@
 {
-  "https://lamajole.ro/colanti-nike-negri-din-bumbac-marimea-l-dama-p7261019145237047.html": {
-    "name": "Colanti Nike, negri, din bumbac, marimea L, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/set-de-pijama-albastru-cu-imprimeu-floral-marimea-44-dama-p7261016104259113.html": {
     "name": "Set De Pijama, albastru, cu imprimeu floral, marimea 44, dama",
     "size": "L",
@@ -89,12 +83,6 @@
     "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/sacou-christian-berg-albastru-din-bumbac-marimea-40-dama-p7261012152921745.html": {
-    "name": "Sacou Christian Berg, albastru, din bumbac, marimea 40, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/rochie-midi-christian-berg-albastra-cu-decolteu-in-v-marimea-42-dama-p7261012152429919.html": {
     "name": "Rochie Midi Christian Berg, albastra, cu decolteu in V, marimea 42, dama",
     "size": "L",
@@ -131,10 +119,10 @@
     "price": "89,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/rochie-midi-cos-neagra-cu-decolteu-in-v-si-cordon-marimea-42-dama-p6261013124016708.html": {
-    "name": "Rochie Midi COS, neagra, cu decolteu in V si cordon, marimea 42, dama",
+  "https://lamajole.ro/pulover-hm-negru-din-viscoza-marimea-l-dama-p5261009084920130.html": {
+    "name": "Pulover H&M, negru, din viscoza, marimea L, dama",
     "size": "L",
-    "price": "299,00 RON",
+    "price": "59,00 RON",
     "category": "haine"
   }
 }
