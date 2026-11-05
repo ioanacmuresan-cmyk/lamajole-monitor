@@ -5,16 +5,16 @@
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-scurti-zara-negri-cu-fermoar-marimea-l-dama-p7261014110958405.html": {
-    "name": "Pantaloni Scurti Zara, negri, cu fermoar, marimea L, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/rochie-mini-hm-gri-din-viscoza-marimea-40-dama-p7261014110953146.html": {
     "name": "Rochie Mini H&M, gri, din viscoza, marimea 40, dama",
     "size": "L",
     "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-scurti-zara-negri-cu-fermoar-marimea-l-dama-p7261014110958405.html": {
+    "name": "Pantaloni Scurti Zara, negri, cu fermoar, marimea L, dama",
+    "size": "L",
+    "price": "59,00 RON",
     "category": "haine"
   },
   "https://lamajole.ro/rochie-mini-only-bej-din-viscoza-marimea-l-dama-p7261014110952809.html": {
@@ -35,14 +35,14 @@
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-hm-negri-din-viscoza-marimea-42-dama-p7261012153540503.html": {
-    "name": "Pantaloni H&M, negri, din viscoza, marimea 42, dama",
+  "https://lamajole.ro/pantaloni-hm-maro-cu-fermoar-marimea-42-dama-p7261012153540336.html": {
+    "name": "Pantaloni H&M maro, cu fermoar, marimea 42, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pantaloni-hm-maro-cu-fermoar-marimea-42-dama-p7261012153540336.html": {
-    "name": "Pantaloni H&M maro, cu fermoar, marimea 42, dama",
+  "https://lamajole.ro/pantaloni-hm-negri-din-viscoza-marimea-42-dama-p7261012153540503.html": {
+    "name": "Pantaloni H&M, negri, din viscoza, marimea 42, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
