@@ -5,90 +5,6 @@
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/rochie-mini-hm-gri-din-viscoza-marimea-40-dama-p7261014110953146.html": {
-    "name": "Rochie Mini H&M, gri, din viscoza, marimea 40, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-scurti-zara-negri-cu-fermoar-marimea-l-dama-p7261014110958405.html": {
-    "name": "Pantaloni Scurti Zara, negri, cu fermoar, marimea L, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-mini-only-bej-din-viscoza-marimea-l-dama-p7261014110952809.html": {
-    "name": "Rochie Mini Only, bej, din viscoza, marimea L, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/hanorac-fb-sister-albastru-din-bumbac-marimea-l-dama-p7261012153615774.html": {
-    "name": "Hanorac FB Sister, albastru, din bumbac, marimea L, dama",
-    "size": "L",
-    "price": "59,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-ca-mov-din-lana-marimea-l-dama-p7261012153440544.html": {
-    "name": "Pulover C&A, mov, din lana, marimea L, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-hm-maro-cu-fermoar-marimea-42-dama-p7261012153540336.html": {
-    "name": "Pantaloni H&M maro, cu fermoar, marimea 42, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-hm-negri-din-viscoza-marimea-42-dama-p7261012153540503.html": {
-    "name": "Pantaloni H&M, negri, din viscoza, marimea 42, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-street-one-albastri-din-viscoza-marimea-40-dama-p7261012153232756.html": {
-    "name": "Pantaloni Street One, albastri, din viscoza, marimea 40, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-casual-ca-gri-din-viscoza-marimea-40-dama-p7261012153232462.html": {
-    "name": "Pantaloni Casual C&A, gri, din viscoza, marimea 40, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-street-one-maro-marimea-40-dama-p7261012153138347.html": {
-    "name": "Vesta Street One, maro, marimea 40, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-hallhuber-negri-din-viscoza-marimea-42-dama-p7261012153035154.html": {
-    "name": "Pantaloni Hallhuber, negri, din viscoza, marimea 42, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pantaloni-sport-nike-negri-cu-fermoar-marimea-l-dama-p7261012152943765.html": {
-    "name": "Pantaloni Sport Nike negri, cu fermoar, marimea L, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/bluza-maneca-lunga-cos-neagra-din-viscoza-marimea-l-dama-p7261012153001972.html": {
-    "name": "Bluza Maneca Lunga COS, neagra, din viscoza, marimea L, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-midi-christian-berg-albastra-cu-decolteu-in-v-marimea-42-dama-p7261012152429919.html": {
-    "name": "Rochie Midi Christian Berg, albastra, cu decolteu in V, marimea 42, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/vesta-regatta-multicolora-matlasata-cu-fermoar-marimea-42-dama-p6261013130641483.html": {
     "name": "Vesta Regatta, multicolora, matlasata, cu fermoar, marimea 42, dama",
     "size": "L",
@@ -117,6 +33,54 @@
     "name": "Pulover H&M, negru, din viscoza, marimea L, dama",
     "size": "L",
     "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-sport-ca-maro-cu-cordon-marimea-l-dama-p4261020103909543.html": {
+    "name": "Pantaloni Sport C&A maro, cu cordon, marimea L, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-mini-hm-bej-cu-maneca-lunga-marimea-40-dama-p4261020103841294.html": {
+    "name": "Rochie Mini H&M, bej, cu maneca lunga, marimea 40, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-maxi-mango-maro-din-viscoza-marimea-40-dama-p4261020103830476.html": {
+    "name": "Rochie Maxi Mango, maro, din viscoza, marimea 40, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pantaloni-sport-puma-albastri-din-bumbac-marimea-l-dama-p4261020103838246.html": {
+    "name": "Pantaloni Sport Puma, albastri, din bumbac, marimea L, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/rochie-mini-asos-neagra-cu-maneca-lunga-marimea-40-dama-p4261020103812180.html": {
+    "name": "Rochie Mini Asos, neagra, cu maneca lunga, marimea 40, dama",
+    "size": "L",
+    "price": "129,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/polar-fila-albastru-cu-gluga-si-fermoar-marimea-l-dama-p4261020103825643.html": {
+    "name": "Polar Fila, albastru, cu gluga si fermoar, marimea L, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-ca-maro-din-lana-marimea-l-dama-p4261012142309448.html": {
+    "name": "Cardigan C&A, maro, din lana, marimea L, dama",
+    "size": "L",
+    "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-multicolor-din-lana-si-casmir-marimea-42-dama-p4261012142221113.html": {
+    "name": "Pulover, multicolor, din lana si casmir, marimea 42, dama",
+    "size": "L",
+    "price": "259,00 RON",
     "category": "haine"
   }
 }
