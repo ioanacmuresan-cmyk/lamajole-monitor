@@ -17,12 +17,6 @@
     "price": "199,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/fusta-emporio-armani-neagra-cu-fermoar-si-pliuri-marimea-46-dama-p7261027121119451.html": {
-    "name": "Fusta Emporio Armani, neagra, cu fermoar si pliuri, marimea 46, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/sacou-only-albastru-cambrat-cu-maneca-lunga-marimea-42-dama-p6261027133953035.html": {
     "name": "Sacou Only albastru, cambrat, cu maneca lunga, marimea 42, dama",
     "size": "L",
@@ -91,12 +85,6 @@
   },
   "https://lamajole.ro/palton-chicoree-roz-cu-nasturi-marimea-l-dama-p4261028120241567.html": {
     "name": "Palton Chicorée, roz, cu nasturi, marimea L, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sacou-rena-lange-multicolor-din-lana-marimea-42-dama-p4261028101601386.html": {
-    "name": "Sacou Rena Lange, multicolor, din lana, marimea 42, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
