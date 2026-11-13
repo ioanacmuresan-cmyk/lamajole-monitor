@@ -1,4 +1,46 @@
 {
+  "https://lamajole.ro/rochie-clockhouse-gri-cu-decupaj-marimea-l-dama-p7261102122728153.html": {
+    "name": "Rochie Clockhouse, gri, cu decupaj, marimea L, dama",
+    "size": "L",
+    "price": "69,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/hanorac-roz-cu-gluga-si-buzunare-marimea-m-l-dama-p7261102100330569.html": {
+    "name": "Hanorac, roz, cu gluga si buzunare, marimea M/L, dama",
+    "size": "L",
+    "price": "89,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/polar-jack-wolfskin-bej-marimea-l-dama-p7261028144111722.html": {
+    "name": "Polar Jack Wolfskin, bej, marimea L, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/poncho-monari-multicolor-din-viscoza-marimea-l-dama-p6261029073912585.html": {
+    "name": "Poncho Monari, multicolor, din viscoza, marimea L, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-drykorn-roz-marimea-l-dama-p6261029073859327.html": {
+    "name": "Pulover Drykorn, roz, marimea L, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-chicoree-bej-cu-perle-marimea-l-dama-p5261030142947017.html": {
+    "name": "Pulover Chicorée, bej, cu perle, marimea L, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/pulover-street-one-verde-cu-sclipici-marimea-42-dama-p5261030142946924.html": {
+    "name": "Pulover Street One, verde, cu sclipici, marimea 42, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
   "https://lamajole.ro/pulover-zebra-gri-din-lana-si-bumbac-marimea-l-dama-p6261030144759555.html": {
     "name": "Pulover Zebra, gri, din lana si bumbac, marimea L, dama",
     "size": "L",
@@ -15,42 +57,6 @@
     "name": "Pulover Cos, bej, din lana, marimea L, dama",
     "size": "L",
     "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-marc-cain-galbena-din-alpaca-si-lana-marimea-l-dama-p6261028135530132.html": {
-    "name": "Vesta Marc Cain, galbena, din alpaca si lana, marimea L, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sacou-hm-gri-din-viscoza-marimea-l-dama-p5261030114219306.html": {
-    "name": "Sacou H&M, gri, din viscoza, marimea L, dama",
-    "size": "L",
-    "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sacou-esprit-multicolor-din-bumbac-marimea-l-dama-p5261030114207875.html": {
-    "name": "Sacou Esprit, multicolor, din bumbac, marimea L, dama",
-    "size": "L",
-    "price": "89,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/sacou-yves-gri-din-lana-marimea-l-dama-p5261030114155407.html": {
-    "name": "Sacou Yves, gri, din lana, marimea L, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-dorothy-perkins-neagra-din-blana-artificiala-marimea-40-dama-p5261029145243006.html": {
-    "name": "Geaca Dorothy Perkins, neagra, din blana artificiala, marimea 40, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/palton-maddison-rosu-din-lana-cu-fermoar-marimea-l-dama-p2261030135315221.html": {
-    "name": "Palton Maddison, rosu, din lana, cu fermoar, marimea L, dama",
-    "size": "L",
-    "price": "259,00 RON",
     "category": "haine"
   }
 }
