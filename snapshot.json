@@ -1,116 +1,62 @@
 {
-  "https://lamajole.ro/geaca-by-clara-gri-marimea-m-l-dama-p5261104111346052.html": {
-    "name": "Geaca By Clara, gri, marimea M/L, dama",
+  "https://lamajole.ro/geaca-hm-neagra-cu-gluga-si-fermoar-marimea-l-dama-p6261110102624365.html": {
+    "name": "Geaca H&M, neagra, cu gluga si fermoar, marimea L, dama",
     "size": "L",
     "price": "199,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/geaca-thom-by-thomas-rath-gri-marimea-l-dama-p5261104111338351.html": {
-    "name": "Geaca Thom by Thomas Rath, gri, marimea L, dama",
+  "https://lamajole.ro/bluza-de-trening-jack-wolfskin-albastra-cu-gluga-marimea-l-dama-p6261109133201762.html": {
+    "name": "Bluza de trening Jack Wolfskin, albastra, cu gluga, marimea L, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-de-trening-icebreaker-verde-din-lana-marimea-l-dama-p6261109133149399.html": {
+    "name": "Bluza de trening Icebreaker, verde, din lana, marimea L, dama",
+    "size": "L",
+    "price": "299,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-de-trening-vaude-turcoaz-cu-gluga-si-fermoar-marimea-42-l-dama-p6261109111212575.html": {
+    "name": "Bluza de trening Vaude, turcoaz, cu gluga si fermoar, marimea 42/L, dama",
     "size": "L",
     "price": "129,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/jacheta-reserved-crem-cu-buzunare-marimea-l-dama-p5261104111338229.html": {
-    "name": "Jacheta Reserved, crem, cu buzunare, marimea L, dama",
-    "size": "L",
-    "price": "129,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/palton-kaffe-roz-cu-nasturi-marimea-40-dama-p4261104113343117.html": {
-    "name": "Palton Kaffe, roz, cu nasturi, marimea 40, dama",
-    "size": "L",
-    "price": "259,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/palton-desigual-multicolora-cu-imprimeu-patchwork-marimea-40-dama-p4261104113323772.html": {
-    "name": "Palton Desigual, multicolora, cu imprimeu patchwork, marimea 40, dama",
-    "size": "L",
-    "price": "359,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-only-crem-cu-dungi-negre-marimea-l-dama-p3261106152902652.html": {
-    "name": "Pulover Only, crem, cu dungi negre, marimea L, dama",
-    "size": "L",
-    "price": "29,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-ca-gri-din-bumbac-marimea-l-dama-p3261106152853403.html": {
-    "name": "Vesta C&A, gri, din bumbac, marimea L, dama",
-    "size": "L",
-    "price": "39,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/vesta-opus-maro-marimea-40-dama-p3261106152847378.html": {
-    "name": "Vesta Opus, maro, marimea 40, dama",
+  "https://lamajole.ro/pantaloni-only-visinii-cu-snur-reglabil-marimea-l-dama-p5261111113412158.html": {
+    "name": "Pantaloni Only, visinii, cu snur reglabil, marimea L, dama",
     "size": "L",
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pulover-vero-moda-gri-din-bumbac-marimea-l-dama-p3261106152843460.html": {
-    "name": "Pulover Vero Moda, gri, din bumbac, marimea L, dama",
+  "https://lamajole.ro/jacheta-sportalm-albastra-cu-fermoar-marimea-40-dama-p5261111113350289.html": {
+    "name": "Jacheta Sportalm, albastra, cu fermoar, marimea 40, dama",
     "size": "L",
-    "price": "59,00 RON",
+    "price": "159,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/cardigan-hm-crem-din-bumbac-marimea-l-dama-p3261106152834006.html": {
-    "name": "Cardigan H&M, crem, din bumbac, marimea L, dama",
+  "https://lamajole.ro/jacheta-hm-neagra-cu-nasturi-marimea-l-dama-p4261110134817162.html": {
+    "name": "Jacheta H&M, neagra, cu nasturi, marimea L, dama",
     "size": "L",
     "price": "69,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/pulover-oui-portocaliu-cu-imprimeu-abstract-marimea-40-dama-p3261106152802571.html": {
-    "name": "Pulover Oui, portocaliu, cu imprimeu abstract, marimea 40, dama",
+  "https://lamajole.ro/pulover-cos-bej-din-bumbac-cu-guler-inalt-marimea-l-dama-p3261111122638711.html": {
+    "name": "Pulover Cos, bej, din bumbac, cu guler inalt, marimea L, dama",
+    "size": "L",
+    "price": "159,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/cardigan-dkny-albastru-cu-nasturi-marimea-l-dama-p3261111122634112.html": {
+    "name": "Cardigan DKNY, albastru, cu nasturi, marimea L, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/hanorac-mov-cu-gluga-si-fermoar-marimea-l-dama-p1261110083638422.html": {
+    "name": "Hanorac, mov, cu gluga si fermoar, marimea L, dama",
     "size": "L",
     "price": "79,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/palton-zebra-maro-cu-cordon-marimea-l-dama-p3261104135232603.html": {
-    "name": "Palton Zebra, maro, cu cordon, marimea L, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/palton-taifun-negru-din-lana-marimea-40-dama-p3261104135221255.html": {
-    "name": "Palton Taifun, negru, din lana, marimea 40, dama",
-    "size": "L",
-    "price": "299,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-tom-tailor-neagra-matlasata-cu-gluga-marimea-l-dama-p2261106152205774.html": {
-    "name": "Geaca Tom Tailor, neagra, matlasata, cu gluga, marimea L, dama",
-    "size": "L",
-    "price": "199,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-q-s-s-oliver-neagra-cu-gluga-marimea-l-dama-p2261106152158553.html": {
-    "name": "Geaca Q/S (s.Oliver), neagra, cu gluga, marimea L, dama",
-    "size": "L",
-    "price": "299,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-cecil-mov-cu-gluga-marimea-l-dama-p2261106152154841.html": {
-    "name": "Geaca Cecil, mov, cu gluga, marimea L, dama",
-    "size": "L",
-    "price": "359,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/geaca-chicoree-neagra-marimea-l-dama-p1261104112902626.html": {
-    "name": "Geaca Chicorée, neagra, marimea L, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/rochie-clockhouse-gri-cu-decupaj-marimea-l-dama-p7261102122728153.html": {
-    "name": "Rochie Clockhouse, gri, cu decupaj, marimea L, dama",
-    "size": "L",
-    "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/hanorac-roz-cu-gluga-si-buzunare-marimea-m-l-dama-p7261102100330569.html": {
-    "name": "Hanorac, roz, cu gluga si buzunare, marimea M/L, dama",
-    "size": "L",
-    "price": "89,00 RON",
     "category": "haine"
   }
 }
