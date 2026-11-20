@@ -1,4 +1,22 @@
 {
+  "https://lamajole.ro/palton-rene-lezard-negru-din-bumbac-marimea-40-dama-p7261110073949233.html": {
+    "name": "Palton Rene Lezard, negru, din bumbac, marimea 40, dama",
+    "size": "L",
+    "price": "199,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/bluza-hm-neagra-cu-decolteu-in-v-la-spate-marimea-l-dama-p7261109082823046.html": {
+    "name": "Bluza H&M, neagra, cu decolteu in V la spate, marimea L, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/vesta-lili-lala-crem-din-lana-si-viscoza-marimea-m-l-dama-p3261106152847252.html": {
+    "name": "Vesta Lili & Lala, crem, din lana si viscoza, marimea M/L, dama",
+    "size": "L",
+    "price": "59,00 RON",
+    "category": "haine"
+  },
   "https://lamajole.ro/geaca-hm-neagra-cu-gluga-si-fermoar-marimea-l-dama-p6261110102624365.html": {
     "name": "Geaca H&M, neagra, cu gluga si fermoar, marimea L, dama",
     "size": "L",
@@ -39,12 +57,6 @@
     "name": "Jacheta H&M, neagra, cu nasturi, marimea L, dama",
     "size": "L",
     "price": "69,00 RON",
-    "category": "haine"
-  },
-  "https://lamajole.ro/pulover-cos-bej-din-bumbac-cu-guler-inalt-marimea-l-dama-p3261111122638711.html": {
-    "name": "Pulover Cos, bej, din bumbac, cu guler inalt, marimea L, dama",
-    "size": "L",
-    "price": "159,00 RON",
     "category": "haine"
   },
   "https://lamajole.ro/cardigan-dkny-albastru-cu-nasturi-marimea-l-dama-p3261111122634112.html": {
