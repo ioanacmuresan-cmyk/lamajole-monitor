@@ -47,12 +47,6 @@
     "price": "59,00 RON",
     "category": "haine"
   },
-  "https://lamajole.ro/jacheta-sportalm-albastra-cu-fermoar-marimea-40-dama-p5261111113350289.html": {
-    "name": "Jacheta Sportalm, albastra, cu fermoar, marimea 40, dama",
-    "size": "L",
-    "price": "159,00 RON",
-    "category": "haine"
-  },
   "https://lamajole.ro/jacheta-hm-neagra-cu-nasturi-marimea-l-dama-p4261110134817162.html": {
     "name": "Jacheta H&M, neagra, cu nasturi, marimea L, dama",
     "size": "L",
@@ -69,6 +63,12 @@
     "name": "Hanorac, mov, cu gluga si fermoar, marimea L, dama",
     "size": "L",
     "price": "79,00 RON",
+    "category": "haine"
+  },
+  "https://lamajole.ro/hanorac-hm-bej-cu-dungi-marimea-l-dama-p7261105100119500.html": {
+    "name": "Hanorac H&M, bej, cu dungi, marimea L, dama",
+    "size": "L",
+    "price": "59,00 RON",
     "category": "haine"
   }
 }
