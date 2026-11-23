@@ -1,234 +1,170 @@
-import requests
+"""La Majole new-arrivals monitor.
+
+Reads the shop's own GraphQL feed (the same one the website uses), finds
+women's pieces in your sizes that were not there on the previous run, and
+emails them to you. Standard library only.
+"""
+import html
 import json
 import os
 import smtplib
-import base64
-import re
-from bs4 import BeautifulSoup
+import sys
+import urllib.request
+from datetime import datetime, timedelta, timezone
+from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from datetime import datetime
 
-NOTIFY_EMAIL = os.environ.get("NOTIFY_EMAIL", "ioanacmuresan@gmail.com")
-SENDER_EMAIL = os.environ.get("SENDER_EMAIL", "")
-APP_PASSWORD = os.environ.get("APP_PASSWORD", "")
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
-GITHUB_REPO = os.environ.get("GITHUB_REPO", "")
-SNAPSHOT_FILE = "snapshot.json"
+GRAPHQL = "https://lamajole.ro/graphql"
+SITE = "https://lamajole.ro"
+STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen.json")
+PAGE_SIZE = 300
+SEED_DAYS = 3        # first run only: email pieces added in the last N days, stay quiet about the rest
+MAX_IN_EMAIL = 60
 
-# Clothing: match L or 40
-CLOTHING_SIZES = {"L", "40", "L/40", "40/L"}
-
-# Shoes: match 37 or 39
-SHOE_SIZES = {"37", "39"}
-
-# URL keywords that indicate footwear
-SHOE_URL_KEYWORDS = [
-    "incaltaminte", "tenisi", "sandale", "saboti", "slapi",
-    "pantofi", "ghete", "sneakers", "balerini", "espadrile", "bocanci"
+# category id, size attribute and size option ids come from the site itself.
+# Women's clothing L/XL, women's shoes 37/39 (shoes carried over from the old monitor).
+# To add men's later: cat "2016", attr "marime_haine_barbati", L "1100", XL "1101".
+TARGETS = [
+    {
+        "name": "Femei",
+        "cat": "1947",
+        "attr": "marime_haine_femei",
+        "sizes": {"L": "4289", "XL": "4292"},
+    },
+    {
+        "name": "Femei incaltaminte",
+        "cat": "1947",
+        "attr": "marime_incaltaminte",
+        "sizes": {"37": "996", "39": "1004"},
+    },
 ]
 
-PROXY_URL = "https://api.allorigins.win/get?url={}"
-TARGET_URL = "https://lamajole.ro/femei.html"
+QUERY = """
+query($cat: String!, $val: String!, $page: Int!) {
+  products(
+    filter: {category_id: {eq: $cat}, %s: {eq: $val}}
+    pageSize: %d
+    currentPage: $page
+  ) {
+    page_info { total_pages }
+    items {
+      name url_key sku created_at stock_status
+      small_image { url }
+      price_range { minimum_price { final_price { value currency } } }
+    }
+  }
+}
+"""
 
 
-def is_footwear(url):
-    return any(kw in url for kw in SHOE_URL_KEYWORDS)
-
-
-def extract_size(item_text):
-    """Extract the size value from item text, stopping at first whitespace."""
-    size_match = re.search(
-        r'm[ăa]rime[:\s]+(\S+)', item_text, re.IGNORECASE
+def gql(query, variables):
+    req = urllib.request.Request(
+        GRAPHQL,
+        data=json.dumps({"query": query, "variables": variables}).encode(),
+        headers={"Content-Type": "application/json", "User-Agent": "Mozilla/5.0 (lamajole-monitor)"},
     )
-    if size_match:
-        return size_match.group(1).strip().upper()
-    return None
+    with urllib.request.urlopen(req, timeout=60) as r:
+        data = json.load(r)
+    if data.get("errors"):
+        raise RuntimeError(data["errors"][0]["message"])
+    return data["data"]
 
 
-def get_products():
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "ro-RO,ro;q=0.9",
-        "Referer": "https://lamajole.ro/",
-    }
-
-    # Try direct first
-    try:
-        r = requests.get(TARGET_URL, headers=headers, timeout=20)
-        print(f"Direct status: {r.status_code}, size: {len(r.text)}")
-        soup = BeautifulSoup(r.text, "html.parser")
-        items = soup.select("li.product-item")
-        print(f"Direct items found: {len(items)}")
-        if len(items) > 0:
-            return parse_items(items)
-    except Exception as e:
-        print(f"Direct fetch failed: {e}")
-
-    # Fallback: allorigins proxy
-    try:
-        proxy = PROXY_URL.format(requests.utils.quote(TARGET_URL))
-        r2 = requests.get(proxy, timeout=30)
-        data = r2.json()
-        html = data.get("contents", "")
-        print(f"Proxy size: {len(html)}")
-        soup = BeautifulSoup(html, "html.parser")
-        items = soup.select("li.product-item")
-        print(f"Proxy items found: {len(items)}")
-        if len(items) > 0:
-            return parse_items(items)
-    except Exception as e:
-        print(f"Proxy fetch failed: {e}")
-
-    # Last resort: homepage
-    try:
-        r3 = requests.get("https://lamajole.ro/", headers=headers, timeout=20)
-        print(f"Homepage status: {r3.status_code}, size: {len(r3.text)}")
-        soup = BeautifulSoup(r3.text, "html.parser")
-        items = soup.select("li.product-item")
-        print(f"Homepage items found: {len(items)}")
-        return parse_items(items)
-    except Exception as e:
-        print(f"Homepage fetch failed: {e}")
-
-    return {}
+def fetch_all(target, size_label):
+    """Every in-category piece in one size. The default order is NOT newest first,
+    so we always read every page instead of just the first one."""
+    q = QUERY % (target["attr"], PAGE_SIZE)
+    items, page, total = [], 1, 1
+    while page <= total:
+        d = gql(q, {"cat": target["cat"], "val": target["sizes"][size_label], "page": page})["products"]
+        total = d["page_info"]["total_pages"]
+        for it in d["items"]:
+            it["size"] = size_label
+            items.append(it)
+        page += 1
+    return items
 
 
-def parse_items(items):
-    results = {}
-    for item in items:
-        name_el = item.select_one("a.product-item-link, strong a, a[class*='product']")
-        if not name_el:
-            continue
-        name = name_el.get_text(strip=True)
-        if not name:
-            continue
-        url = name_el.get("href", "")
-        if not url.startswith("http"):
-            url = "https://lamajole.ro" + url
-
-        item_text = item.get_text(" ", strip=True)
-        size_val = extract_size(item_text)
-
-        matched_size = None
-        footwear = is_footwear(url)
-
-        if size_val:
-            target_set = SHOE_SIZES if footwear else CLOTHING_SIZES
-            if size_val in target_set:
-                matched_size = size_val
-            else:
-                # Handle variants like "L/40"
-                for target in target_set:
-                    if size_val.startswith(target):
-                        matched_size = target
-                        break
-
-        # Fallback for clothing: standalone L in text
-        if not matched_size and not footwear:
-            if re.search(r'\bL\b', item_text):
-                matched_size = "L"
-
-        if matched_size:
-            price_el = item.select_one(".price")
-            price = price_el.get_text(strip=True) if price_el else ""
-            category = "incaltaminte" if footwear else "haine"
-            results[url] = {
-                "name": name,
-                "size": matched_size,
-                "price": price,
-                "category": category
-            }
-
-    clothing_count = sum(1 for v in results.values() if v["category"] == "haine")
-    shoe_count = sum(1 for v in results.values() if v["category"] == "incaltaminte")
-    print(f"Haine L/40 gasite: {clothing_count} | Incaltaminte 37/39 gasite: {shoe_count}")
-    return results
+def collect():
+    found = {}
+    for t in TARGETS:
+        for label in t["sizes"]:
+            for it in fetch_all(t, label):
+                if it.get("stock_status") == "IN_STOCK":
+                    found[it["url_key"]] = it
+    return found
 
 
-def get_snapshot_from_github():
-    if not GITHUB_TOKEN or not GITHUB_REPO:
-        return None, None
-    api_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{SNAPSHOT_FILE}"
-    headers = {
-        "Authorization": f"token {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github.v3+json"
-    }
-    r = requests.get(api_url, headers=headers)
-    if r.status_code == 200:
-        data = r.json()
-        content = base64.b64decode(data["content"]).decode("utf-8")
-        return json.loads(content), data["sha"]
-    return None, None
+def load_state():
+    if not os.path.exists(STATE_FILE):
+        return None
+    with open(STATE_FILE) as f:
+        return set(json.load(f)["seen"])
 
 
-def save_snapshot_to_github(snapshot, sha=None):
-    if not GITHUB_TOKEN or not GITHUB_REPO:
-        return
-    api_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{SNAPSHOT_FILE}"
-    headers = {
-        "Authorization": f"token {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github.v3+json"
-    }
-    content = base64.b64encode(
-        json.dumps(snapshot, ensure_ascii=False, indent=2).encode()
-    ).decode()
-    payload = {"message": "Update snapshot", "content": content}
-    if sha:
-        payload["sha"] = sha
-    resp = requests.put(api_url, headers=headers, json=payload)
-    print(f"Snapshot saved: {resp.status_code}")
+def save_state(keys):
+    with open(STATE_FILE, "w") as f:
+        json.dump({"seen": sorted(keys)}, f)
 
 
-def send_email(new_items):
-    if not SENDER_EMAIL or not APP_PASSWORD:
-        print("Email neconfigurat, skip.")
-        return
+def added_at(item):
+    return datetime.strptime(item["created_at"], "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
 
-    clothing = {u: d for u, d in new_items.items() if d["category"] == "haine"}
-    shoes = {u: d for u, d in new_items.items() if d["category"] == "incaltaminte"}
 
-    body = f"🛍️ {len(new_items)} produse noi pe LaMajole\n\n"
+def build_email(items):
+    items = sorted(items, key=added_at, reverse=True)
+    shown = items[:MAX_IN_EMAIL]
+    rows = []
+    for it in shown:
+        p = it["price_range"]["minimum_price"]["final_price"]
+        img = (it.get("small_image") or {}).get("url") or ""
+        link = f"{SITE}/{it['url_key']}.html"
+        rows.append(
+            f'<tr><td style="padding:8px"><a href="{link}"><img src="{html.escape(img)}" width="90"></a></td>'
+            f'<td style="padding:8px"><a href="{link}">{html.escape(it["name"])}</a><br>'
+            f'Marime {it["size"]} &middot; {p["value"]:g} {p["currency"]}<br>'
+            f'<small>adaugat {it["created_at"]} UTC</small></td></tr>'
+        )
+    more = f"<p>... si inca {len(items) - len(shown)} piese pe site.</p>" if len(items) > len(shown) else ""
+    body = f'<table style="font-family:sans-serif">{"".join(rows)}</table>{more}'
+    return f"La Majole: {len(items)} piese noi in marimile tale", body
 
-    if clothing:
-        body += f"👗 HAINE — marime L/40 ({len(clothing)} produse)\n\n"
-        for url, item in clothing.items():
-            body += f"• {item['name']}\n  Mărime: {item['size']} | {item['price']}\n  {url}\n\n"
 
-    if shoes:
-        body += f"👟 INCALTAMINTE — marime 37/39 ({len(shoes)} produse)\n\n"
-        for url, item in shoes.items():
-            body += f"• {item['name']}\n  Mărime: {item['size']} | {item['price']}\n  {url}\n\n"
-
-    body += f"\nVerificat: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
-
-    msg = MIMEText(body, "plain", "utf-8")
-    msg["Subject"] = f"LaMajole: {len(new_items)} produse noi ({datetime.now().strftime('%d.%m %H:%M')})"
-    msg["From"] = SENDER_EMAIL
-    msg["To"] = NOTIFY_EMAIL
-
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
-        s.login(SENDER_EMAIL, APP_PASSWORD)
+def send_email(subject, body):
+    user = os.environ["SENDER_EMAIL"]
+    pwd = os.environ["APP_PASSWORD"]
+    msg = MIMEMultipart("alternative")
+    msg["Subject"], msg["From"], msg["To"] = subject, user, os.environ.get("NOTIFY_EMAIL") or user
+    msg.attach(MIMEText(body, "html", "utf-8"))
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=60) as s:
+        s.login(user, pwd)
         s.send_message(msg)
-    print(f"Email trimis catre {NOTIFY_EMAIL}: {len(new_items)} produse")
 
 
 def main():
-    current = get_products()
-    seen, sha = get_snapshot_from_github()
+    current = collect()
+    seen = load_state()
 
-    if seen is not None:
-        new_items = {u: d for u, d in current.items() if u not in seen}
-        if new_items:
-            print(f"Produse NOI: {len(new_items)}")
-            send_email(new_items)
-        else:
-            print("Nicio noutate.")
+    if not current:
+        # Never overwrite memory with an empty result: that means the fetch went wrong.
+        print("Got 0 items, treating as a failed fetch.", file=sys.stderr)
+        return 1
+
+    if seen is None:
+        cutoff = datetime.now(timezone.utc) - timedelta(days=SEED_DAYS)
+        new = [it for it in current.values() if added_at(it) > cutoff]
+        print(f"First run: {len(current)} pieces indexed, {len(new)} from the last {SEED_DAYS} days.")
     else:
-        print("Prima rulare — se salveaza snapshot-ul.")
+        new = [it for k, it in current.items() if k not in seen]
+        print(f"{len(current)} pieces in your sizes, {len(new)} new since last run.")
 
-    save_snapshot_to_github(current, sha)
+    if new:
+        send_email(*build_email(new))   # if this raises, state is not saved, so we retry next run
+        print("Email sent.")
+
+    save_state(set(current))
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
