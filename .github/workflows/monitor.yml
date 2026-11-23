@@ -2,28 +2,30 @@ name: LaMajole Monitor
 
 on:
   schedule:
-    - cron: '0 6 * * *'
-    - cron: '0 14 * * *'
+    - cron: '*/30 5-20 * * *'   # every 30 min, roughly 07:00-23:00 Romania time
   workflow_dispatch:
+
+concurrency:
+  group: lamajole-monitor
+  cancel-in-progress: false
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
+      - uses: actions/checkout@v4
       - name: Run monitor
-        run: python monitor.py
+        run: python3 monitor.py
         env:
           NOTIFY_EMAIL: ioanacmuresan@gmail.com
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           APP_PASSWORD: ${{ secrets.APP_PASSWORD }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPO: ${{ github.repository }}
+      - name: Save what we have seen
+        run: |
+          git config user.name "lamajole-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add seen.json
+          git diff --cached --quiet || (git commit -m "Update seen pieces" && git push)
